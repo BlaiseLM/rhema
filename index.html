@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rhema</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #f0ede8;
+    color: #1a1a1a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    padding: 18px 24px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    background: #f0ede8;
+    flex-shrink: 0;
+    z-index: 5;
+  }
+
+  header h1 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #1a1a1a;
+    text-align: center;
+  }
+
+  header #subtitle {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    color: #aaa;
+    letter-spacing: 0.04em;
+    text-align: center;
+  }
+
+  #canvas {
+    flex: 1;
+    width: 100%;
+    display: block; 
+  }
+
+  #tooltip {
+    position: fixed;
+    z-index: 100;
+    background: #ffffff;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    padding: 16px 18px;
+    max-width: 300px;
+    min-width: 220px;
+    max-height: 70vh;
+    overflow-y: auto;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(5px);
+    transition: opacity 0.13s ease, transform 0.13s ease;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12), 0 2px 8px rgba(0,0,0,0.06);
+  }
+
+  #tooltip.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  #tooltip .cluster-header {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+  }
+
+  #tooltip .topic-name {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #111;
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  #tooltip .article-count {
+    font-style: normal;
+    font-size: 11px;
+    font-weight: 400;
+    color: #bbb;
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  #tooltip .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    font-size: 13px;
+    color: #bbb;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 2px 4px;
+    font-family: inherit;
+    line-height: 1;
+  }
+  #tooltip .close-btn:hover { color: #444; }
+
+  #tooltip ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  #tooltip ul li {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  #tooltip ul li::before {
+    content: '•';
+    font-size: 12px;
+    color: #ccc;
+    flex-shrink: 0;
+    line-height: 1.6;
+  }
+
+  #tooltip ul li a {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #555;
+    text-decoration: none;
+    display: block;
+    transition: color 0.1s;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  #tooltip ul li a:hover { color: #111; }
+
+  #legend {
+    position: fixed;
+    bottom: 16px;
+    left: 20px;
+    font-size: 10px;
+    color: #bbb;
+    letter-spacing: 0.07em;
+    z-index: 10;
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Rhema — The Internet, One Day At a Time</h1>
+  <span id="subtitle"></span>
+</header>
+
+<svg id="canvas"></svg>
+<div id="tooltip"></div>
+
+<script>
+const PALETTE = [
+  '#5b8dd9','#57b894','#e8834a','#d95b7a','#9b6fd4',
+  '#4bafb0','#e0a030','#7dba5a','#c46b9a','#6b9fd4','#d4826b'
+];
+
+const BUBBLE_FONT_SIZE = 13; 
+const BUBBLE_COUNT_SIZE = 11; 
+const BUBBLE_PADDING = 22; 
+
+let activeId = null;
+let bubbleSel = null;
+let sim = null;
+let nodes = [];
+
+const svg = d3.select('#canvas');
+const tooltip = document.getElementById('tooltip');
+
+function W() { return window.innerWidth; }
+function H() { return window.innerHeight - document.querySelector('header').offsetHeight; }
+
+const _measureCtx = document.createElement('canvas').getContext('2d');
+function measureText(text, weight, size) {
+  _measureCtx.font = `${weight} ${size}px "Plus Jakarta Sans", sans-serif`;
+  return _measureCtx.measureText(text).width;
+}
+
+fetch('data/topics.json')
+  .then(r => r.json())
+  .then(data => {
+    const rScale = d3.scaleSqrt()
+      .domain(d3.extent(data, d => d.articles.length))
+      .range([55, 110]);
+
+    nodes = data.map((d, i) => {
+      const baseR = rScale(d.articles.length);
+      const textW = measureText(d.name || '', '700', BUBBLE_FONT_SIZE);
+      const minR = textW / 2 + BUBBLE_PADDING;
+      const r = Math.max(baseR, minR);
+
+      return {
+        id: d.cluster,
+        label: d.cluster === -1 ? '−1' : String(d.cluster),
+        name: d.name || '',
+        articles: d.articles,
+        count: d.articles.length,
+        r,
+        color: d.cluster === -1 ? '#c0b8b0' : PALETTE[i % PALETTE.length],
+        isNoise: d.cluster === -1,
+      };
+    });
+
+    const totalArticles = nodes.reduce((s, n) => s + n.count, 0);
+    document.getElementById('subtitle').textContent = `${totalArticles} articles`;
+
+    buildSim();
+  })
+  .catch(err => {
+    console.error('Failed to load topics.json:', err);
+    document.getElementById('subtitle').textContent = 'failed to load topics.json';
+  });
+
+function buildSim() {
+  const w = W(), h = H();
+  svg.attr('width', w).attr('height', h).selectAll('*').remove();
+
+  nodes.forEach(n => {
+    if (!n.x) { n.x = w / 2 + (Math.random() - 0.5) * 100; n.y = h / 2 + (Math.random() - 0.5) * 100; }
+  });
+
+  sim = d3.forceSimulation(nodes)
+    .force('charge', d3.forceManyBody().strength(d => -d.r * 4.2))
+    .force('center', d3.forceCenter(w / 2, h / 2).strength(0.06))
+    .force('collision', d3.forceCollide(d => d.r + 12).strength(0.9))
+    .force('x', d3.forceX(w / 2).strength(0.018))
+    .force('y', d3.forceY(h / 2).strength(0.022));
+
+  bubbleSel = svg.selectAll('.bubble')
+    .data(nodes)
+    .join('g')
+    .attr('class', 'bubble')
+    .style('opacity', 0)
+    .style('cursor', 'pointer')
+    .call(d3.drag()
+      .on('start', (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on('drag',  (e, d) => { d.fx = e.x; d.fy = e.y; })
+      .on('end',   (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+    )
+    .on('click', function(event, d) {
+      event.stopPropagation();
+      if (activeId === d.id) { closeTooltip(); return; }
+      closeTooltip();
+      openTooltip(event, d);
+    });
+
+  bubbleSel.append('circle')
+    .attr('r', d => d.r)
+    .attr('fill', d => d.color)
+    .attr('stroke', 'none');
+
+  bubbleSel.append('text')
+    .attr('class', 'lbl-name')
+    .attr('text-anchor', 'middle')
+    .attr('dominant-baseline', 'central')
+    .attr('dy', d => `-${d.r * 0.1}px`)
+    .style('font-family', '"Plus Jakarta Sans", sans-serif')
+    .style('font-weight', '700')
+    .style('font-size', `${BUBBLE_FONT_SIZE}px`)
+    .style('fill', 'rgba(255,255,255,1)')
+    .style('pointer-events', 'none')
+    .text(d => d.name);
+
+  bubbleSel.append('text')
+    .attr('class', 'lbl-count')
+    .attr('text-anchor', 'middle')
+    .attr('dominant-baseline', 'central')
+    .attr('dy', d => `${d.r * 0.25}px`)
+    .style('font-family', '"Plus Jakarta Sans", sans-serif')
+    .style('font-weight', '400')
+    .style('font-size', `${BUBBLE_COUNT_SIZE}px`)
+    .style('fill', 'rgba(255,255,255,0.7)')
+    .style('pointer-events', 'none')
+    .text(d => `${d.count} articles`);
+
+  bubbleSel.transition().delay((d, i) => i * 50).duration(400).style('opacity', 1);
+
+  sim.on('tick', () => {
+    const w = W(), h = H();
+    bubbleSel.attr('transform', d => {
+      d.x = Math.max(d.r + 8, Math.min(w - d.r - 8, d.x));
+      d.y = Math.max(d.r + 8, Math.min(h - d.r - 8, d.y));
+      return `translate(${d.x},${d.y})`;
+    });
+  });
+}
+
+function openTooltip(event, d) {
+  activeId = d.id;
+  d3.selectAll('.bubble circle').filter(n => n.id === d.id).attr('fill', darken(d.color, 0.22));
+
+  const nameHtml = d.name
+    ? `<span class="topic-name">${d.name}</span>`
+    : `<span class="topic-name">Cluster ${d.label}</span>`;
+
+  tooltip.innerHTML = `
+    <button class="close-btn">✕</button>
+    <div class="cluster-header">
+      ${nameHtml}
+      <span class="article-count">${d.count} articles</span>
+    </div>
+    <ul>${d.articles.map(a => `<li><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></li>`).join('')}</ul>
+  `;
+  tooltip.querySelector('.close-btn').addEventListener('click', e => { e.stopPropagation(); closeTooltip(); });
+
+  positionTooltip(event.clientX, event.clientY);
+  tooltip.classList.add('visible');
+}
+
+function closeTooltip() {
+  if (activeId !== null) {
+    const prev = nodes.find(n => n.id === activeId);
+    if (prev) d3.selectAll('.bubble circle').filter(n => n.id === prev.id).attr('fill', prev.color);
+  }
+  activeId = null;
+  tooltip.classList.remove('visible');
+}
+
+function positionTooltip(cx, cy) {
+  const pad = 12, tw = 300;
+  const W = window.innerWidth, H = window.innerHeight;
+  let x = cx + 18, y = cy - 10;
+  if (x + tw > W - pad) x = cx - tw - 18;
+  if (y + tooltip.offsetHeight > H - pad) y = H - tooltip.offsetHeight - pad;
+  if (y < pad) y = pad;
+  tooltip.style.left = `${x}px`;
+  tooltip.style.top = `${y}px`;
+}
+
+document.addEventListener('click', e => { if (!tooltip.contains(e.target)) closeTooltip(); });
+
+function darken(hex, amt) {
+  const c = d3.color(hex);
+  return d3.rgb(c.r * (1 - amt), c.g * (1 - amt), c.b * (1 - amt)).formatHex();
+}
+
+window.addEventListener('resize', () => {
+  if (!sim) return;
+  const w = W(), h = H();
+  svg.attr('width', w).attr('height', h);
+  sim.force('center', d3.forceCenter(w / 2, h / 2)).alpha(0.3).restart();
+  closeTooltip();
+});
+</script>
+</body>
+</html>

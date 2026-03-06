@@ -1,0 +1,502 @@
+[
+  {
+    "title": "An offline map using OruxMaps(satellite,routing,3D terrain,GPS and POI)",
+    "link": "https://news.ycombinator.com/item?id=47258841",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=49, tm_sec=33, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Sam Altman admits OpenAI can't control Pentagon's use of AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=47, tm_sec=51, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Going Back to the Newspaper Model",
+    "link": "https://notes.druchan.com/going-back-to-newspaper-model",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=44, tm_sec=39, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Poor Man's Polaroid",
+    "link": "https://boxart.lt/blog/poor_mans_polaroid",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=44, tm_sec=33, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: BitFun \u2013 An Agentic Development Environment (Rust and TypeScript)",
+    "link": "https://github.com/GCWing/BitFun",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=43, tm_sec=53, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+    "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=43, tm_sec=41, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Microsoft Live Homepage has the same hero appearing twice",
+    "link": "https://www.live.com",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=40, tm_sec=47, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Deploy OpenClaw in 1 minute and run Multiple agents",
+    "link": "https://squadofagents.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=40, tm_sec=2, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+    "link": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=36, tm_sec=22, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "AI model trained on 9.3T base pairs can now design novel genes",
+    "link": "https://www.dongascience.com/en/news/76660",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=36, tm_sec=11, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Phi-4-reasoning-vision-15B",
+    "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=34, tm_sec=51, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Complicators, the Drama Aggregators, and the Avoiders",
+    "link": "https://randsinrepose.com/archives/the-complicators-the-drama-aggregators-and-the-avoiders/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=29, tm_sec=34, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "NIS-2 is not a bureaucratic monster (German)",
+    "link": "https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/nis-2-ist-kein-buerokratiemonster",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=26, tm_sec=41, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Building PDR AI \u2013 Open-source startup accelerator engine",
+    "link": "https://github.com/Deodat-Lawson/PDR_AI_v2",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=26, tm_sec=19, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Android: A new era for choice and openness",
+    "link": "https://android-developers.googleblog.com/2026/03/a-new-era-for-choice-and-openness.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=24, tm_sec=51, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Markless Document Markup Standard",
+    "link": "https://shirakumo.org/docs/markless/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=24, tm_sec=28, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
+    "link": "https://netbsd-jails.petermann-digital.de/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=23, tm_sec=40, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Compress PDF",
+    "link": "https://www.pdffixnow.com/compress-pdf",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=22, tm_sec=58, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "PageIndex: Vectorless, Reasoning-Based RAG",
+    "link": "https://github.com/VectifyAI/PageIndex",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=18, tm_sec=59, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "AI Agent Broke Its Promise. Now What?",
+    "link": "https://www.armalo.ai/blog/ai-agents-breaking-commitments-accountability",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=15, tm_sec=46, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Ghinst \u2013 Install from GitHub release section to \u2013/.local/bin",
+    "link": "https://github.com/tebeka/ghinst",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=15, tm_sec=12, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Restoring ReBoot from the Original Master D1 Tapes [video]",
+    "link": "https://www.youtube.com/watch?v=GlkJFOw-99U",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=14, tm_sec=23, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: The Playwright GitHub Repositories Worth Studying",
+    "link": "https://testdino.com/blog/playwright-github-repositories/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=7, tm_sec=16, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Teaching Coding Agents to Drive Cmux",
+    "link": "https://www.bounds.dev/posts/teaching-claude-code-to-drive-cmux/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=6, tm_sec=50, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The cognitive cost of easy answers, a lesson from RL",
+    "link": "https://safeenough.substack.com/p/exploration-exploitation-and-thinking",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=6, tm_sec=48, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Washington Post \u2013 In the Long Run, Wars Make Us Safer and Richer (2014)",
+    "link": "https://www.washingtonpost.com/opinions/in-the-long-run-wars-make-us-safer-and-richer/2014/04/25/a4207660-c965-11e3-a75e-463587891b57_story.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=7, tm_min=5, tm_sec=29, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+    "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=59, tm_sec=30, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Improving Django Admin UI with Django-unfold",
+    "link": "https://unfoldadmin.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=55, tm_sec=50, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "A GB300 thread that running vLLM and SGlang on it",
+    "link": "https://twitter.com/xu_paco/status/2029433226234868178",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=54, tm_sec=27, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Your AI Slop Bores Me",
+    "link": "https://www.youraislopbores.me/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=54, tm_sec=15, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Gogcli \u2013 Google in Your Terminal",
+    "link": "https://github.com/steipete/gogcli",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=48, tm_sec=38, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Nemilia \u2013 multi-agent AI workspace in a single HTML file, no back end",
+    "link": "https://github.com/luislopez1212/Nemilia",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=47, tm_sec=11, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "FFmpeg at Meta: Media Processing at Scale",
+    "link": "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=46, tm_sec=45, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The New York Earth Room",
+    "link": "https://www.niche-museums.com/117",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=44, tm_sec=15, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Calm List",
+    "link": "https://world.hey.com/raulp/the-calm-list-cb7be8f8",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=43, tm_sec=46, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "I refused to pay $30/month for Superhuman so I built my own Gmail organizer",
+    "link": "https://github.com/Lakshay1509/NeatMail",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=42, tm_sec=8, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Tuneithub.com turn any Markdown into Google Docs like collab",
+    "link": "https://www.get-colibri.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=41, tm_sec=24, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Remote contractors are now the new normal for businesses",
+    "link": "https://news.ycombinator.com/item?id=47258336",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=41, tm_sec=24, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Muon: An optimizer for hidden layers in neural networks",
+    "link": "https://kellerjordan.github.io/posts/muon/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=39, tm_sec=18, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "modded-nanogpt: NanoGPT (124M) in 2 minutes",
+    "link": "https://github.com/KellerJordan/modded-nanogpt",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=38, tm_sec=47, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The day Iran buried Ayatollah Khomeini (2015) [video]",
+    "link": "https://www.bbc.com/news/av/magazine-32938264",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=32, tm_sec=49, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Iraq suffers power grid blackout due to technical fault",
+    "link": "https://www.reuters.com/business/energy/iraq-suffers-power-grid-blackout-due-technical-fault-2026-03-04/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=31, tm_sec=45, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Sneak peek at the redesigned Stack Overflow",
+    "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=30, tm_sec=39, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "How Vulnerable Are Computers to 80-Year-Old Spy Technique? Congress Wants Answer",
+    "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=29, tm_sec=16, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Zorin OS: The Alternative to Windows and macOS",
+    "link": "https://zorin.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=26, tm_sec=28, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Google Play Store will shame developers of sloppy, battery-wasting apps",
+    "link": "https://www.neowin.net/news/google-play-store-will-shame-developers-of-sloppy-battery-wasting-apps/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=25, tm_sec=38, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: The Forensic Mirror \u2013 Weaponizing LLMs for Cognitive Auditing",
+    "link": "https://github.com/type-null/forensic-mirror",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=24, tm_sec=24, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Writing about Agentic Engineering Patterns",
+    "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=23, tm_sec=5, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Ask HN: How valuable is production scale experience vs. LeetCode in startups?",
+    "link": "https://news.ycombinator.com/item?id=47258177",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=17, tm_sec=37, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "OpenBSD on SGI: A Rollercoaster Story",
+    "link": "http://miod.online.fr/software/openbsd/stories/sgiall.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=16, tm_sec=36, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Source code for Minecraft Legacy Console Edition has leaked online",
+    "link": "https://spilled.gg/minecraft-legacy-console-edition-source-code-builds/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=16, tm_sec=7, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Ada Lovelace Fable",
+    "link": "https://twitter.com/gtredoux/status/2029300803144696309",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=15, tm_sec=0, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Modern Search Engine: The Complete Pipeline \u2013 How It Ranks Results",
+    "link": "https://blog.ivan.digital/inside-the-modern-search-engine-the-complete-pipeline-how-it-ranks-results-learns-from-7409d19ba09b",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=13, tm_sec=41, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Jira tasks can now write their own code (OpenAI Symphony)",
+    "link": "https://github.com/openai/symphony/blob/main/README.md",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=13, tm_sec=40, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Chevron Warns of Irreversible Harm to Calif Economy in Letter to Gov. Newsom",
+    "link": "https://californiaglobe.com/fl/chevron-warns-of-irreversible-harm-to-californias-economy-and-energy-security-in-letter-to-gov-newsom/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=11, tm_sec=6, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Social Capital Is a Design Choice: A Markov Framework for AI Trust",
+    "link": "https://weightedthoughts.substack.com/p/social-capital-is-a-design-choice",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=10, tm_sec=8, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Cancer blood tests are everywhere. Do they work?",
+    "link": "https://www.nature.com/articles/d41586-026-00661-2",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=8, tm_sec=34, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "To update blobs or not to update blobs",
+    "link": "https://codon.org.uk/~mjg59/blog/p/to-update-blobs-or-not-to-update-blobs/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=7, tm_sec=27, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Douglas MacGregor Claims Netanyahu Draggin US into War [video]",
+    "link": "https://www.youtube.com/watch?v=g6QPz4XqVlQ",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=6, tm_sec=59, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "72.000 pupils in Austria start 3-week smartphone-detox in controlled study",
+    "link": "https://www.derstandard.de/consent/tcf/story/3000000310374/suchtexperte-zum-handy-detox-an-schulen-ein-fuenftel-hatte-entzugserscheinungen",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=6, tm_sec=3, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Why Claude Code is just a while loop (with 20 tools)",
+    "link": "https://www.claudecodecamp.com/p/how-tool-use-actually-works-in-claude-code",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=5, tm_sec=59, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Espflash \u2013 Go CLI/library for flashing ESP8266/ESP32 with no dependencies",
+    "link": "https://github.com/tinygo-org/espflash",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=4, tm_sec=24, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Where Visuals Meet Data \u2013 Come Annotate with Hitech BPO",
+    "link": "https://www.hitechbpo.com/data-annotation-labeling.php",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=1, tm_sec=47, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Relax NG is a schema language for XML",
+    "link": "https://relaxng.org/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=1, tm_sec=18, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "A directory of indieweb directories",
+    "link": "https://www.autodidacts.io/indie-blog-directory-directory/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=6, tm_min=0, tm_sec=49, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Zed new terms required to be 18 years old",
+    "link": "https://zed.dev/terms",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=59, tm_sec=37, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Working on Things That Suck",
+    "link": "https://mayberay.bearblog.dev/working-on-things-that-suck/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=59, tm_sec=33, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Asus Zenbook A14",
+    "link": "https://www.asus.com/laptops/for-home/zenbook/asus-zenbook-a14-ux3407/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=59, tm_sec=2, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "macOS Will Alert You to MacBook Neo's USB-C Port Limitation",
+    "link": "https://www.macrumors.com/2026/03/04/macbook-neo-usb-c-port-limitation/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=53, tm_sec=58, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "I Lost $150 in 20 Minutes Market-Making on Kalshi",
+    "link": "https://rlafuente.com/posts/2025-3-5-i-lost-150-market-making-on-kalshi",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=46, tm_sec=53, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Spektr \u2013 Ask plain English questions about any CSV, get charts",
+    "link": "https://github.com/spektr-org/spektr",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=44, tm_sec=43, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Major TCPA Shift: Fifth Circuit Rules Oral Consent Is Valid",
+    "link": "https://natlawreview.com/article/major-tcpa-shift-fifth-circuit-rules-oral-consent-valid",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=44, tm_sec=32, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "OpenAI Symphony",
+    "link": "https://github.com/openai/symphony",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=44, tm_sec=0, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Stop wasting time managing your hardware projects and focus on building [video]",
+    "link": "https://www.youtube.com/watch?v=YPuKl5_qoG8",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=42, tm_sec=35, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: We built governed multi-agent teams months before Anthropic announced",
+    "link": "https://github.com/rigovo/rigovo-virtual-team",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=41, tm_sec=32, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Monica helps you organize the social interactions with your loved ones",
+    "link": "https://www.monicahq.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=38, tm_sec=36, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Orion \u2013 Native Training LLMs on the Apple Neural Engine Without CoreML",
+    "link": "https://github.com/mechramc/Orion",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=37, tm_sec=7, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "I quit my YC job and moved to the USA to change how people learn to code",
+    "link": "https://www.aximon.ai/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=34, tm_sec=54, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "AI Scenarios: From Doomsday Destruction to Do-Nothing Bots",
+    "link": "https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=32, tm_sec=46, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Linkly AI \u2013 Spotlight for AI Agents",
+    "link": "https://linkly.ai",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=31, tm_sec=23, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Nowline, a real-time trend signal feed",
+    "link": "https://nowline.ai",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=29, tm_sec=27, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Ask HN: iOS Alarm Bug or Intended?",
+    "link": "https://news.ycombinator.com/item?id=47257883",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=25, tm_sec=47, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "LLM model statistics from my Strix testing",
+    "link": "https://theartificialq.github.io/2026/03/03/llm-model-statistics-from-my-strix-testing.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=22, tm_sec=59, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Why a Robotics Startup's Failure Proves the Robot Starts with the Actuator",
+    "link": "https://www.firgelli.com/blogs/news/k-scale-labs-failure-proves-robot-starts-with-actuator",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=13, tm_sec=54, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Relicensing with AI-Assisted Rewrite",
+    "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=7, tm_sec=33, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "NHS official pushed to add patient data to Palantir while advising company",
+    "link": "https://www.ft.com/content/6c548670-0f3e-45f1-ba08-8bb6dd152af5",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=5, tm_min=4, tm_sec=43, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Large-Scale Agentic RL for CUDA Kernel Generation",
+    "link": "https://cuda-agent.github.io/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=59, tm_sec=51, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Ask HN: Seeing More Techcrunch on Frontpage?",
+    "link": "https://news.ycombinator.com/item?id=47257756",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=59, tm_sec=36, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Website showing LLM solutions to Knuth's Problems?",
+    "link": "https://news.ycombinator.com/item?id=47257755",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=59, tm_sec=30, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Unified In-Process Agent Interface for Claude Code, Codex, Kimi",
+    "link": "https://github.com/odysa/one-agent-sdk",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=58, tm_sec=47, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "DOJ proposes policy aimed at limiting state bar ethics probes into its attorneys",
+    "link": "https://abcnews.com/US/doj-proposes-policy-aimed-limiting-state-bar-ethics/story?id=130755238",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=58, tm_sec=29, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Global Consciousness Live Data",
+    "link": "https://gcp2.net/#home_page_live_data",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=57, tm_sec=38, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "RoundsKeeper \u2013 Score tracking for board/card games (Swift/SwiftUI, iCloud sync)",
+    "link": "https://apps.apple.com/us/app/roundskeeper/id6754217431",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=56, tm_sec=5, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: The hardware isn't changing, why not get AI to build custom drivers?",
+    "link": "https://github.com/eli7vh/signal-chain",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=53, tm_sec=13, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Scape \u2013 One-click worktrees and orchestrators for Claude Code",
+    "link": "https://www.scape.work/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=52, tm_sec=33, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "The Global Coherence Initiative [video]",
+    "link": "https://www.youtube.com/watch?v=QFqsY-DT6rg",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=52, tm_sec=29, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Fast Chladni figure simulation in Python with NumPy vectorization",
+    "link": "https://github.com/ratwolfzero/Chladni_Figures",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=44, tm_sec=56, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Session-safe uploads and artifacts for remote MCP servers",
+    "link": "https://aakashh242.github.io/remote-mcp-adapter/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=41, tm_sec=26, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "You Just Reveived",
+    "link": "https://dylan.gr/1772520728",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=37, tm_sec=43, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  },
+  {
+    "title": "Nike Is Moving Jobs to Low-Wage Regions of Indonesia",
+    "link": "https://www.propublica.org/article/nike-jobs-indonesia-living-wages",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=3, tm_mday=5, tm_hour=4, tm_min=34, tm_sec=28, tm_wday=3, tm_yday=64, tm_isdst=0)"
+  }
+]

@@ -1,0 +1,40 @@
+name: Daily Refresh
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # runs daily at 12pm UTC
+  workflow_dispatch:       
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          RSS_NEWS: ${{ secrets.RSS_NEWS }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/process_headlines.py
+          python scripts/process_nodes.py
+          python scripts/process_topics.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Daily update $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
