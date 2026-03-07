@@ -2,7 +2,7 @@ name: Daily Refresh
 
 on:
   schedule:
-    - cron: '0 12 * * *' # runs daily at 12pm UTC
+    - cron: '0 0 * * *' # runs daily at 00:00 UTC
   workflow_dispatch:       
 
 jobs:
