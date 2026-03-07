@@ -81,7 +81,7 @@ Then open `index.html` in your browser.
 
 ### Automated (GitHub Actions)
 
-The pipeline runs daily at midnight UTC via `.github/workflows/daily.yml`. Requires RSS_NEWS, HF_TOKEN, and ANTHROPIC_API_KEY set as GitHub Actions secrets.
+The pipeline runs daily at 12:00 PM UTC via `.github/workflows/daily.yml`. Requires RSS_NEWS, HF_TOKEN, and ANTHROPIC_API_KEY set as GitHub Actions secrets.
 
 ---
 
