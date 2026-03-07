@@ -1,7 +1,7 @@
 # Rhema
 ### The Internet, One Day at a Time.
 
-Rhema is an automated text intelligence pipeline that ingests daily news articles, extracts keywords, clusters them semantically, and surfaces named topic groups through a clean frontend. It runs end-to-end without manual input.
+Rhema is an automated text intelligence pipeline that ingests daily news articles, extracts keywords, clusters them semantically, and surfaces named topic groups through a clean frontend.
 
 ---
 
@@ -81,20 +81,7 @@ Then open `index.html` in your browser.
 
 ### Automated (GitHub Actions)
 
-The pipeline runs automatically every day at 12pm UTC via `.github/workflows/daily.yml`. On each run it executes all three scripts, commits the updated `data/` output back to the repo, and the GitHub Pages frontend reflects the new clusters automatically.
-
-To set this up:
-
-**1. Add secrets** — repo → Settings → Secrets and variables → Actions → add the following:
-- `RSS_NEWS` — your RSS feed URL
-- `HF_TOKEN` — your Hugging Face access token
-- `ANTHROPIC_API_KEY` — your Anthropic API key
-
-**2. Enable write permissions** — Settings → Actions → General → Workflow permissions → Read and write permissions
-
-**3. Enable GitHub Pages** — Settings → Pages → source: master branch, root folder
-
-The workflow also includes a `workflow_dispatch` trigger so you can fire it manually from the Actions tab at any time.
+The pipeline runs daily at 12:00 PM UTC via `.github/workflows/daily.yml`. Requires RSS_NEWS, HF_TOKEN, and ANTHROPIC_API_KEY set as GitHub Actions secrets.
 
 ---
 
@@ -119,7 +106,3 @@ rhema/
 ```
 
 ---
-
-## What It Is and What It Isn't
-
-Rhema is a **text intelligence and NLP project**. It processes unstructured text and produces structured, labeled topic clusters. It is not a signal processing or RF/sensor project. The data source is configurable — the pipeline is agnostic to what RSS feed or text corpus feeds the top of it.
