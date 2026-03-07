@@ -23,7 +23,7 @@ jobs:
 
       - name: Run pipeline
         env:
-          RSS_NEWS: ${{ secrets.RSS_NEWS }}
+          RSS_NEWS: ${{ env.RSS_NEWS }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
