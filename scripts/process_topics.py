@@ -34,6 +34,9 @@ def fetch_phrases(nodes_json):
             nodes = json.load(f)
             for node in nodes: 
                 phrases.append(node["phrase"])
+        if not phrases:
+            print("Error occurred while fetching phrases, no phrases found in nodes_json")
+            return None
         return phrases
     except Exception as e:
         traceback.print_exc()
@@ -123,6 +126,12 @@ def populate_topics(topics, names, topic_json):
         traceback.print_exc()
         print(f"Error occurred while populating topics: {e}")
 
-topics = sorted(create_topics(create_embeddings(fetch_phrases("data/nodes.json")), "data/nodes.json").items(), key=lambda x: len(x[1]), reverse=True)
-names = generate_topic_names(topics)
-populate_topics(topics, names, "data/topics.json")
+raw_topics = create_topics(create_embeddings(fetch_phrases("data/nodes.json")), "data/nodes.json")
+if raw_topics is None:
+    print("Error occurred while creating topics, raw_topics is null")
+    with open("data/topics.json", "w") as f:
+        json.dump([], f)
+else:
+    topics = sorted(raw_topics.items(), key=lambda x: len(x[1]), reverse=True)
+    names = generate_topic_names(topics)
+    populate_topics(topics, names, "data/topics.json")

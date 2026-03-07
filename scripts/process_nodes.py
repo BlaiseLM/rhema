@@ -47,6 +47,9 @@ def populate_nodes(headlines_json, nodes_json):
     try: 
         entries = extract_keywords(headlines_json)
         nodes = create_nodes(entries)
+        if nodes is None:
+            print("Error occurred while creating nodes, nodes is null")
+            nodes = []
         with open(nodes_json, "w") as f: 
             json.dump(nodes, f, indent=2)
     except Exception as e: 
