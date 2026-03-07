@@ -10,7 +10,7 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    background: #f0ede8;
+    background: #e8e1d6;
     color: #1a1a1a;
     font-family: 'Plus Jakarta Sans', sans-serif;
     overflow: hidden;
@@ -24,7 +24,7 @@
     flex-direction: column;
     align-items: center;
     gap: 4px;
-    background: #f0ede8;
+    background: #e8e1d6;
     flex-shrink: 0;
     z-index: 5;
   }
@@ -169,7 +169,8 @@
 <body>
 
 <header>
-  <h1>Rhema — The Internet, One Day At a Time</h1>
+  <h2>Rhema</h2>
+  <h1>The Internet, One Day At a Time</h1>
   <span id="subtitle"></span>
 </header>
 
@@ -324,7 +325,6 @@ function openTooltip(event, d) {
     <button class="close-btn">✕</button>
     <div class="cluster-header">
       ${nameHtml}
-      <span class="article-count">${d.count} articles</span>
     </div>
     <ul>${d.articles.map(a => `<li><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></li>`).join('')}</ul>
   `;
