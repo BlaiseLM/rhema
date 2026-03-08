@@ -3,18 +3,25 @@ import os
 import json
 import traceback 
 
-feed_url = os.environ.get("RSS_NEWS")
-if not feed_url:
-    print("Error occured while parsing RSS NEWS environment variable")
-    exit(0)
+RSS_NEWS = os.environ.get("RSS_NEWS")
 
-feed = feedparser.parse(feed_url)
-if not feed.entries:
-    print("Error occured while parsing RSS feed, no entries found")
-    import json as _json
-    with open("data/headlines.json", "w") as _f:
-        _json.dump([], _f)
-    exit(0)
+def combine_feeds(RSS_NEWS): 
+    if RSS_NEWS is None: 
+        print("Error occured while accessing RSS_NEWS environment variable")
+        return 
+    entries = []
+    urls = RSS_NEWS.split(",")
+    for url in urls:  
+        feed = feedparser.parse(url.strip())
+        if feed is None or feed.entries is None: 
+            print("Error occured while parsing RSS feed")
+            continue
+        for entry in feed.entries: 
+            entries.append(entry)
+    if not entries: 
+        print("Error occurred while combining feeds, no entries found")
+        return None
+    return entries    
 
 def scrape_headline(entry):
     if entry is None: 
@@ -29,9 +36,13 @@ def scrape_headline(entry):
 
 def populate_headlines(headlines_json): 
     try: 
+        combined = combine_feeds(RSS_NEWS=RSS_NEWS)
+        if combined is None: 
+            print("Error occurred while combining feeds, combined is null")
+            return 
         with open(headlines_json, "w") as f: 
             entries = []
-            for entry in feed.entries: 
+            for entry in combined: 
                 entryData = scrape_headline(entry)
                 entries.append(entryData)
             json.dump(entries, f, indent=2)
