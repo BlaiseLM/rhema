@@ -12,7 +12,7 @@ RSS Feed → Keyword Extraction → Embedding → Dimensionality Reduction → C
 ```
 
 **1. `process_headlines.py`**
-Fetches articles from an RSS feed (configured via environment variable) and writes titles, links, and timestamps to `data/headlines.json`.
+Fetches articles from RSS feeds (configured via environment variable) and writes titles, links, and timestamps to `data/headlines.json`.
 
 **2. `process_nodes.py`**
 Runs each headline through YAKE to extract the dominant keyword phrase. Writes a flat list of nodes (phrase, relevance score, title, link) to `data/nodes.json`.
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 Copy `.env.example` to `.env` and fill in:
 ```
-RSS_NEWS=<your RSS feed URL>
+RSS_NEWS=<your RSS feed URLs separated by commas>
 HF_TOKEN=<your Hugging Face token>
 ANTHROPIC_API_KEY=<your Anthropic API key>
 ```
@@ -81,7 +81,10 @@ Then open `index.html` in your browser.
 
 ### Automated (GitHub Actions)
 
-The pipeline runs daily at 12:00 PM UTC via `.github/workflows/daily.yml`. Requires RSS_NEWS, HF_TOKEN, and ANTHROPIC_API_KEY set as GitHub Actions secrets.
+The pipeline runs daily at 12:00 PM UTC via `.github/workflows/daily.yml`. 
+Requires: 
+- RSS_NEWS set as GitHub Actions environment variable
+- HF_TOKEN, and ANTHROPIC_API_KEY set as GitHub Actions secrets
 
 ---
 
