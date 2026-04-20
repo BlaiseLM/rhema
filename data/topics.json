@@ -1,15 +1,19 @@
 [
   {
-    "cluster": 2,
-    "name": "Science And Medical Breakthroughs",
+    "cluster": 5,
+    "name": "Scientific Discoveries And Mysteries",
     "articles": [
       {
-        "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
-        "link": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html"
+        "title": "Iran Eases Some Internet Restrictions, as Wider Blackout Passes 50th Day",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/iran-internet-blackout-50th-day.html"
       },
       {
-        "title": "What caffeine does to ants could change pest control",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm"
+        "title": "Trump Is Urged to Move on Nuclear Site Thought to Be Beyond Reach of Bombs",
+        "link": "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html"
+      },
+      {
+        "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224507.htm"
       },
       {
         "title": "Total solar eclipse led to seismic quiet for cities within its path",
@@ -20,8 +24,66 @@
         "link": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm"
       },
       {
-        "title": "Scientists just recreated a rare cosmic reaction never seen before",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm"
+        "title": "Scientists thought this was a young T. rex. They were wrong",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm"
+      },
+      {
+        "title": "Scientists think alien life might be hiding in patterns",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260415043607.htm"
+      },
+      {
+        "title": "Light makes plants stronger but also holds them back",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm"
+      },
+      {
+        "title": "A 67-year-old \u201ccrazy\u201d theory about vitamin B1 has finally been proven",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm"
+      },
+      {
+        "title": "Scientists were wrong about lifespan. Your genes matter way more than we thought",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022047.htm"
+      },
+      {
+        "title": "Black hole wakes after 100 million years and erupts like a cosmic volcano",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022037.htm"
+      },
+      {
+        "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm"
+      },
+      {
+        "title": "The Universe is expanding too fast and scientists still can\u2019t explain it",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022025.htm"
+      },
+      {
+        "title": "Gravitational waves may be hidden in the light atoms emit",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm"
+      },
+      {
+        "title": "Scientists think dark matter might come in two forms",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260409101101.htm"
+      },
+      {
+        "title": "The world is getting brighter at night but some places are going dark",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260409101057.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 0,
+    "name": "Medical Breakthroughs And Health",
+    "articles": [
+      {
+        "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
+        "link": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html"
+      },
+      {
+        "title": "What caffeine does to ants could change pest control",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm"
+      },
+      {
+        "title": "This 31-foot \u201cterror croc\u201d ate dinosaurs. Now it\u2019s back",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm"
       },
       {
         "title": "New toothpaste stops gum disease without killing good bacteria",
@@ -32,16 +94,12 @@
         "link": "https://www.sciencedaily.com/releases/2026/04/260413043131.htm"
       },
       {
-        "title": "Light makes plants stronger but also holds them back",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm"
-      },
-      {
         "title": "Unusual airborne toxin detected in the U.S. for the first time",
         "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm"
       },
       {
-        "title": "Black hole wakes after 100 million years and erupts like a cosmic volcano",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411022037.htm"
+        "title": "Your nose could detect Alzheimer\u2019s years before symptoms begin",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm"
       },
       {
         "title": "Forget daily pills. This shot works when blood pressure meds fail",
@@ -50,10 +108,6 @@
       {
         "title": "How aggressive breast cancer turns off the immune system",
         "link": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm"
-      },
-      {
-        "title": "The Universe is expanding too fast and scientists still can\u2019t explain it",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411022025.htm"
       },
       {
         "title": "A common nutrient could supercharge cancer treatment",
@@ -68,167 +122,101 @@
         "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
       },
       {
-        "title": "Gravitational waves may be hidden in the light atoms emit",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm"
+        "title": "This superconductivity dies then comes back to life",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260409101108.htm"
       },
       {
         "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
         "link": "https://www.sciencedaily.com/releases/2026/04/260409101106.htm"
       },
       {
-        "title": "Scientists think dark matter might come in two forms",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101101.htm"
-      },
-      {
         "title": "Dragonflies can see a color humans can\u2019t and it could change medicine",
         "link": "https://www.sciencedaily.com/releases/2026/04/260409101059.htm"
       },
       {
-        "title": "The world is getting brighter at night but some places are going dark",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101057.htm"
-      },
-      {
         "title": "The hidden tradeoff behind today\u2019s most popular weight loss drugs",
         "link": "https://www.sciencedaily.com/releases/2026/04/260408225948.htm"
-      },
-      {
-        "title": "Your brain can trick you into liking artificial sweeteners",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm"
-      },
-      {
-        "title": "Scientists just found a hidden \u201cdrain\u201d inside the human brain",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm"
       }
     ]
   },
   {
-    "cluster": 0,
-    "name": "Global Political Leadership Changes",
+    "cluster": 8,
+    "name": "Middle East Conflict And Geopolitics",
     "articles": [
       {
-        "title": "What to Know About the Bulgarian Election",
-        "link": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html"
+        "title": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
+        "link": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
       },
       {
-        "title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
-        "link": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html"
+        "title": "Pakistan\u2019s Leaders Try to Contain Rising Anger Over Iran War at Home",
+        "link": "https://www.nytimes.com/2026/04/20/world/asia/pakistan-shiites-iran-diplomacy.html"
       },
       {
-        "title": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
-        "link": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html"
+        "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
+        "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html"
       },
       {
-        "title": "Maduro\u2019s Successor Is Purging Allies Who Kept Him in Power in Venezuela",
-        "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
+        "title": "Hamas Officials Say Group Is Ready to Hand Over Some Weapons",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html"
       },
       {
-        "title": "Trump Spat Gives Spain Leader Pedro S\u00e1nchez a Political Lifeline",
-        "link": "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html"
+        "title": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
       },
       {
-        "title": "Carney\u2019s Liberal Majority Reshapes Fortunes to the Left and the Right",
-        "link": "https://www.nytimes.com/2026/04/18/world/canada/carney-poilievre-lewis-canada-politics.html"
+        "title": "2 U.S. Government Workers Among 4 Killed in Car Crash in Mexico",
+        "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html"
       },
       {
-        "title": "In Angola, Pope Leo XIV Faces the Legacy of Colonialism",
-        "link": "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html"
+        "title": "Can U.S. Blockade Iranian-Linked Ships Anywhere in the World? Yes, But \u2026",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-blockade-expansion.html"
       },
       {
-        "title": "Who Is the New Leader of Hungary?",
-        "link": "https://www.nytimes.com/video/world/europe/100000010842261/who-is-the-new-leader-of-hungary.html"
+        "title": "Energy Secretary Says Gas Prices May Stay Above $3 Until 2027",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/energy-secretary-gas-prices.html"
       },
       {
-        "title": "A Mild-Mannered Pope Finds His Voice",
-        "link": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html"
+        "title": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
+        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html"
       },
       {
-        "title": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it"
-      },
-      {
-        "title": "Starmer\u2019s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-        "link": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html"
-      },
-      {
-        "title": "The 27-Year-Old Diplomat Waging Trump\u2019s Cultural War With Europe",
-        "link": "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html"
-      },
-      {
-        "title": "Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi",
-        "link": "https://www.nytimes.com/2026/04/17/world/asia/myanmar-president-amnesty.html"
-      },
-      {
-        "title": "Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations",
-        "link": "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html"
-      }
-    ]
-  },
-  {
-    "cluster": 3,
-    "name": "Israel Lebanon Cease Fire",
-    "articles": [
-      {
-        "title": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
-        "link": "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html"
+        "title": "Bulgarian Voters Back New Political Coalition Led by Radev",
+        "link": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html"
       },
       {
         "title": "Hezbollah Is Willing to Cooperate With a Cease-Fire With Israel. For Now.",
         "link": "https://www.nytimes.com/2026/04/18/world/middleeast/hezbollah-cease-fire-israel-lebanon.html"
       },
       {
-        "title": "Six Are Missing After Cargo Ship Is Found Overturned Near Guam",
-        "link": "https://www.nytimes.com/2026/04/18/us/super-typhoon-sinklau-coast-guard-search.html"
-      },
-      {
-        "title": "More Displaced Lebanese Head Home as Cease-Fire Is Tested",
-        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html"
+        "title": "Carney\u2019s Liberal Majority Reshapes Fortunes to the Left and the Right",
+        "link": "https://www.nytimes.com/2026/04/18/world/canada/carney-poilievre-lewis-canada-politics.html"
       },
       {
         "title": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
         "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
       },
       {
-        "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html"
+        "title": "Amid Conflicting Messages From Trump and Iran, Hopes for Peace Deal Emerge",
+        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-hormuz-peace-deal.html"
       },
       {
-        "title": "Why Lebanon\u2019s Government Has Struggled to Contain Hezbollah",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html"
-      },
-      {
-        "title": "Israel-Lebanon Cease-Fire: What to Know",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/israel-lebanon-ceasefire.html"
-      },
-      {
-        "title": "In northern Israel, relief at the cease-fire is overshadowed by unease.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/israel-residents-ceasefire-lebanon-hezbollah"
-      },
-      {
-        "title": "Lebanon\u2019s Cease-Fire Buys Time, Not a Way Out",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-israel-ceasefire-hezbollah.html"
-      },
-      {
-        "title": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html"
-      },
-      {
-        "title": "10-Day Cease-Fire Between Israel and Lebanon Goes Into Effect",
-        "link": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html"
-      },
-      {
-        "title": "The cease-fire goes into effect after Israel and Hezbollah exchange fire.",
-        "link": "https://www.nytimes.com/2026/04/16/world/middleeast/cease-fire-in-lebanon-set-to-take-effect.html"
-      },
-      {
-        "title": "Forced into a corner by the U.S., Netanyahu agrees to a cease-fire in Lebanon.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/forced-into-a-corner-by-the-us-netanyahu-agrees-to-a-cease-fire-in-lebanon"
+        "title": "95% of people carry this virus and scientists may have just found how to stop it",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
       }
     ]
   },
   {
-    "cluster": 4,
-    "name": "Hidden Scientific Discoveries",
+    "cluster": 6,
+    "name": "Scientific Research Breakthroughs",
     "articles": [
+      {
+        "title": "After 200 years scientists finally crack the \u201cdolomite problem\u201d",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm"
+      },
+      {
+        "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm"
+      },
       {
         "title": "Scientists discover bacteria can \u201cexplode\u201d to spread antibiotic resistance",
         "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm"
@@ -284,28 +272,200 @@
     ]
   },
   {
-    "cluster": 6,
-    "name": "Fossil And Paleontology Discoveries",
+    "cluster": 4,
+    "name": "Natural Disasters And Environmental",
     "articles": [
       {
-        "title": "Rescuers Try to Save Timmy, a Whale Stranded Off Germany",
-        "link": "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html"
+        "title": "A Leaner Saudi Arabia Turns From Grandiose Plans to Pragmatism",
+        "link": "https://www.nytimes.com/2026/04/20/world/middleeast/saudi-arabia-vision-pragmatism.html"
       },
       {
-        "title": "\u2018I Would Rather Be a Dwarf\u2019: A Comic in Botswana Prizes His Difference",
-        "link": "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html"
+        "title": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
+        "link": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html"
       },
       {
-        "title": "Bitcoin\u2019s Greatest Mystery",
-        "link": "https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html"
+        "title": "Strait of Hormuz Traffic Is at a Standstill Again",
+        "link": "https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html"
+      },
+      {
+        "title": "Fire Destroys Most of Coastal Village in Malaysia",
+        "link": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html"
+      },
+      {
+        "title": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
+        "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
+      },
+      {
+        "title": "Six Are Missing After Cargo Ship Is Found Overturned Near Guam",
+        "link": "https://www.nytimes.com/2026/04/18/us/super-typhoon-sinklau-coast-guard-search.html"
+      },
+      {
+        "title": "More Displaced Lebanese Head Home as Cease-Fire Is Tested",
+        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html"
+      },
+      {
+        "title": "Iran says the Strait of Hormuz is open, but adds that it is still under Tehran\u2019s supervision.",
+        "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/iran-says-the-strait-of-hormuz-is-open-but-adds-that-it-is-still-under-tehrans-supervision"
+      },
+      {
+        "title": "An Explosion Rattles a Toronto Neighborhood. A Drake Video Was to Blame.",
+        "link": "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html"
+      },
+      {
+        "title": "Scientists just debunked a 50-year myth about Hawaii\u2019s birds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260414075644.htm"
+      },
+      {
+        "title": "Scientists finally know where the Colorado River\u2019s missing water is going",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260413232421.htm"
+      },
+      {
+        "title": "Gray whales are entering San Francisco Bay and many aren\u2019t surviving",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260413043127.htm"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Misc",
+    "articles": [
+      {
+        "title": "Iran War Live Updates: Tehran Sends Mixed Signals on Talks After U.S. Seizes Ship",
+        "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz"
+      },
+      {
+        "title": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
+        "link": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html"
+      },
+      {
+        "title": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
+        "link": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-antisemitism.html"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/heres-the-latest"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz/heres-the-latest"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz/heres-the-latest"
+      },
+      {
+        "title": "New PEPFAR Data Show Worrying Declines in Testing and Treatment for H.I.V.",
+        "link": "https://www.nytimes.com/2026/04/17/health/hiv-testing-treatment-data-pepfar.html"
+      },
+      {
+        "title": "A new force of nature is reshaping the planet, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm"
       },
       {
         "title": "The surprising reason you\u2019re so productive one day and not the next",
         "link": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm"
       },
       {
-        "title": "This 31-foot \u201cterror croc\u201d ate dinosaurs. Now it\u2019s back",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm"
+        "title": "Scientists just recreated a rare cosmic reaction never seen before",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm"
+      },
+      {
+        "title": "Two simple eating habits linked to lower weight, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "name": "Global Political Leadership",
+    "articles": [
+      {
+        "title": "Javier Milei Tamed Argentina\u2019s Inflation. Now He Wants to Reshape Its Values.",
+        "link": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html"
+      },
+      {
+        "title": "In Turkey, Middle Powers Ponder Diplomacy With a Rogue U.S.",
+        "link": "https://www.nytimes.com/2026/04/20/world/middleeast/turkey-diplomacy-antalya.html"
+      },
+      {
+        "title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
+        "link": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html"
+      },
+      {
+        "title": "Who Is the New Leader of Hungary?",
+        "link": "https://www.nytimes.com/video/world/europe/100000010842261/who-is-the-new-leader-of-hungary.html"
+      },
+      {
+        "title": "Maduro\u2019s Successor Is Purging Allies Who Kept Him in Power in Venezuela",
+        "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
+      },
+      {
+        "title": "In Angola, Pope Leo XIV Faces the Legacy of Colonialism",
+        "link": "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html"
+      },
+      {
+        "title": "Trump Spat Gives Spain Leader Pedro S\u00e1nchez a Political Lifeline",
+        "link": "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html"
+      },
+      {
+        "title": "A Mild-Mannered Pope Finds His Voice",
+        "link": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html"
+      },
+      {
+        "title": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
+        "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it"
+      }
+    ]
+  },
+  {
+    "cluster": 7,
+    "name": "International News And Politics",
+    "articles": [
+      {
+        "title": "Starmer to Address UK Lawmakers on Mandelson Vetting",
+        "link": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html"
+      },
+      {
+        "title": "How Gen Z Protests Have Fared Around the World",
+        "link": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html"
+      },
+      {
+        "title": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+        "link": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html"
+      },
+      {
+        "title": "A Potent Threat in Strait of Hormuz: Iran\u2019s \u2018Mosquito Fleet\u2019",
+        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html"
+      },
+      {
+        "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
+        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html"
+      },
+      {
+        "title": "Rescuers Try to Save Timmy, a Whale Stranded Off Germany",
+        "link": "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html"
+      },
+      {
+        "title": "Starmer\u2019s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
+        "link": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html"
+      },
+      {
+        "title": "Scientists discover \u201ccleaner ants\u201d that groom giant ants in Arizona desert",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "name": "Fossil Records And Evolution",
+    "articles": [
+      {
+        "title": "A Humanoid Robot Races to a Record Half-Marathon Finish",
+        "link": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html"
+      },
+      {
+        "title": "Artificial neurons successfully communicate with living brain cells",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm"
       },
       {
         "title": "A crushed fossil revealed a dinosaur that shouldn\u2019t have existed",
@@ -316,12 +476,12 @@
         "link": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm"
       },
       {
-        "title": "Scientists just debunked a 50-year myth about Hawaii\u2019s birds",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260414075644.htm"
-      },
-      {
         "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
         "link": "https://www.sciencedaily.com/releases/2026/04/260414075642.htm"
+      },
+      {
+        "title": "This strange \u201cpearling\u201d motion inside cells could change how we understand disease",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260413043133.htm"
       },
       {
         "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
@@ -330,32 +490,24 @@
       {
         "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
         "link": "https://www.sciencedaily.com/releases/2026/04/260411022044.htm"
-      },
-      {
-        "title": "This superconductivity dies then comes back to life",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101108.htm"
       }
     ]
   },
   {
-    "cluster": 9,
-    "name": "Geopolitical Trade Tensions",
+    "cluster": 3,
+    "name": "Trade And Shipping Economics",
     "articles": [
       {
-        "title": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
-        "link": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
+        "title": "Messy War, Happy Stock Markets",
+        "link": "https://www.nytimes.com/2026/04/19/world/iran-war-stock-market-hormuz-attack.html"
       },
       {
-        "title": "How Gen Z Protests Have Fared Around the World",
-        "link": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html"
+        "title": "Ships Attacked in Strait of Hormuz as Iran Declares Strict Control of Vital Shipping Route",
+        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-tanker-strait-of-hormuz.html"
       },
       {
         "title": "Trading Spaces",
         "link": "https://www.nytimes.com/2026/04/18/briefing/trading-spaces.html"
-      },
-      {
-        "title": "Amid Conflicting Messages From Trump and Iran, Hopes for Peace Deal Emerge",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-hormuz-peace-deal.html"
       },
       {
         "title": "Carney Courts Investors to Reduce Canada\u2019s Economic Dependence on U.S.",
@@ -372,168 +524,6 @@
       {
         "title": "Europe Wants to Help Restore Shipping in the Strait. It Just Isn\u2019t Sure How.",
         "link": "https://www.nytimes.com/2026/04/17/world/middleeast/european-leaders-discuss-an-international-mission-to-restore-shipping-in-strait-of-hormuz.html"
-      },
-      {
-        "title": "Iran War Forces America\u2019s Friends in Asia to Court Its Rivals",
-        "link": "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html"
-      }
-    ]
-  },
-  {
-    "cluster": 5,
-    "name": "Health Detection Breakthrough",
-    "articles": [
-      {
-        "title": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
-        "link": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html"
-      },
-      {
-        "title": "New PEPFAR Data Show Worrying Declines in Testing and Treatment for H.I.V.",
-        "link": "https://www.nytimes.com/2026/04/17/health/hiv-testing-treatment-data-pepfar.html"
-      },
-      {
-        "title": "U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London",
-        "link": "https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html"
-      },
-      {
-        "title": "Artificial neurons successfully communicate with living brain cells",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm"
-      },
-      {
-        "title": "This strange \u201cpearling\u201d motion inside cells could change how we understand disease",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260413043133.htm"
-      },
-      {
-        "title": "Two simple eating habits linked to lower weight, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm"
-      },
-      {
-        "title": "Your nose could detect Alzheimer\u2019s years before symptoms begin",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm"
-      },
-      {
-        "title": "Brain study reveals hidden link between autism and ADHD",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260408225941.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 8,
-    "name": "Shipping Route Security Threats",
-    "articles": [
-      {
-        "title": "A Potent Threat in Strait of Hormuz: Iran\u2019s \u2018Mosquito Fleet\u2019",
-        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html"
-      },
-      {
-        "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
-        "link": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html"
-      },
-      {
-        "title": "Ships Attacked in Strait of Hormuz as Iran Declares Strict Control of Vital Shipping Route",
-        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-tanker-strait-of-hormuz.html"
-      },
-      {
-        "title": "\u2018I Just Want to Be Back\u2019: Thousands Rush South in Lebanon Under Cease-Fire",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html"
-      },
-      {
-        "title": "95% of people carry this virus and scientists may have just found how to stop it",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
-      },
-      {
-        "title": "Scientists discover \u201ccleaner ants\u201d that groom giant ants in Arizona desert",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm"
-      },
-      {
-        "title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 1,
-    "name": "Strait Of Hormuz Shipping Updates",
-    "articles": [
-      {
-        "title": "Iran says the Strait of Hormuz is open, but adds that it is still under Tehran\u2019s supervision.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/iran-says-the-strait-of-hormuz-is-open-but-adds-that-it-is-still-under-tehrans-supervision"
-      },
-      {
-        "title": "An Explosion Rattles a Toronto Neighborhood. A Drake Video Was to Blame.",
-        "link": "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html"
-      },
-      {
-        "title": "New York New Jersey Stadium? Why MetLife Is Changing Its Name for the World Cup",
-        "link": "https://www.nytimes.com/2026/04/17/nyregion/fifa-world-cup-stadium-names-sponsors.html"
-      },
-      {
-        "title": "Strait of Hormuz Is Open During Cease-Fire in Lebanon, U.S. and Iran Say",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/strait-hormuz-open-iran-lebanon-ceasefire.html"
-      },
-      {
-        "title": "Scientists finally know where the Colorado River\u2019s missing water is going",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260413232421.htm"
-      },
-      {
-        "title": "Gray whales are entering San Francisco Bay and many aren\u2019t surviving",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260413043127.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 7,
-    "name": "Space And Extreme Science",
-    "articles": [
-      {
-        "title": "Trump Is Urged to Move on Nuclear Site Thought to Be Beyond Reach of Bombs",
-        "link": "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html"
-      },
-      {
-        "title": "Scientists thought this was a young T. rex. They were wrong",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm"
-      },
-      {
-        "title": "Scientists think alien life might be hiding in patterns",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260415043607.htm"
-      },
-      {
-        "title": "A 67-year-old \u201ccrazy\u201d theory about vitamin B1 has finally been proven",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm"
-      },
-      {
-        "title": "Scientists were wrong about lifespan. Your genes matter way more than we thought",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411022047.htm"
-      },
-      {
-        "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Misc",
-    "articles": [
-      {
-        "title": "Iran War Live Updates: Trump Says U.S. Officials Will Travel to Pakistan for Talks",
-        "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz/heres-the-latest"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz/heres-the-latest"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/heres-the-latest"
-      },
-      {
-        "title": "Trump says he might go to Pakistan if an Iran deal is signed there.",
-        "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there"
       }
     ]
   }
