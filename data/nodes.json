@@ -1,603 +1,45 @@
 [
   {
-    "phrase": "AI-driven spec framework",
-    "relevance": 0.016559150827736194,
-    "title": "OpenSpec \u2013 a lightweight AI-driven spec framework",
-    "link": "https://www.danclarke.com/openspec/"
-  },
-  {
-    "phrase": "learn to code",
-    "relevance": 0.015380821171891606,
-    "title": "Ask HN: Would you tell your kids to learn to code?",
-    "link": "https://news.ycombinator.com/item?id=48074751"
-  },
-  {
-    "phrase": "Local-First Web Development",
-    "relevance": 0.003995142956050651,
-    "title": "The Architecture of Local-First Web Development",
-    "link": "https://www.smashingmagazine.com/2026/05/architecture-local-first-web-development/"
-  },
-  {
-    "phrase": "Bug Fixes",
-    "relevance": 0.012602360123953448,
-    "title": "Larkos Changes and Bug Fixes",
-    "link": "https://news.ycombinator.com/item?id=48074732"
-  },
-  {
-    "phrase": "talk about software",
-    "relevance": 0.04940384002065631,
-    "title": "Changing how we talk about software (2024)",
-    "link": "https://jacquiread.com/posts/better-software-design/"
-  },
-  {
-    "phrase": "fast data branching",
-    "relevance": 0.016559150827736194,
-    "title": "Postgres on K8s with fast data branching",
-    "link": "https://github.com/xataio/xata"
-  },
-  {
-    "phrase": "Music Player Daemon",
-    "relevance": 0.0032173869679631944,
-    "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-    "link": "https://github.com/tsirysndr/rockbox-zig"
-  },
-  {
-    "phrase": "Trading Stack",
-    "relevance": 0.012602360123953448,
-    "title": "The Trading Stack",
-    "link": "https://nemorize.com/roadmaps/the-trading-stack"
-  },
-  {
-    "phrase": "Social Interaction Trainer",
-    "relevance": 0.0020632546775457305,
-    "title": "Social Interaction Trainer",
-    "link": "https://social-interaction-trainer.com/"
-  },
-  {
-    "phrase": "live-evolving neural net",
-    "relevance": 0.016559150827736194,
-    "title": "Show HN: An 8-bit computer made from one NAND gate, and live-evolving neural net",
-    "link": "https://github.com/ninjahawk/VirtualPC"
-  },
-  {
-    "phrase": "Numerical Calculation",
-    "relevance": 0.012602360123953448,
-    "title": "A Generalized Technique for Symbol Manipulation and Numerical Calculation (1960)",
-    "link": "https://dl.acm.org/doi/pdf/10.1145/366199.366256"
-  },
-  {
-    "phrase": "Google Play Services",
-    "relevance": 0.0009937127942278407,
-    "title": "Google ties reCAPTCHA to Google Play Services, screwing de-Googled Android users",
-    "link": "https://www.osnews.com/story/144909/google-is-tying-recaptcha-to-google-play-services-screwing-over-de-googled-android-users/"
-  },
-  {
-    "phrase": "Study Shows",
-    "relevance": 0.007444681613352736,
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-    "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/"
-  },
-  {
-    "phrase": "browser multiplayer game",
-    "relevance": 0.016559150827736194,
-    "title": "I built the core loop of a browser multiplayer game",
-    "link": "https://packagemain.tech/p/how-i-built-the-core-loop-of-a-browser"
-  },
-  {
-    "phrase": "Essex BCPL",
-    "relevance": 0.007444681613352736,
-    "title": "Tops-10: Essex BCPL",
-    "link": "https://timereshared.com/tops-10-essex-bcpl/"
-  },
-  {
-    "phrase": "Boriel BASIC",
-    "relevance": 0.013797198203993007,
-    "title": "Boriel BASIC",
-    "link": "https://zxbasic.readthedocs.io/en/docs/"
-  },
-  {
-    "phrase": "recasting cement manufacturing",
-    "relevance": 0.016559150827736194,
-    "title": "How AI Is recasting cement manufacturing",
-    "link": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/05/06/how-ai-is-recasting-cement-manufacturing/"
-  },
-  {
-    "phrase": "Flux Data Stream",
-    "relevance": 0.001881309737406442,
-    "title": "Free Solar Radiation and Heat Flux Data Stream",
-    "link": "https://fiaos.org"
-  },
-  {
-    "phrase": "Bufstream Sold",
-    "relevance": 0.023458380875189744,
-    "title": "Bufstream Sold to CoreWeave",
-    "link": "https://buf.build/blog/coreweave-acquires-bufstream"
-  },
-  {
-    "phrase": "Share to ChatGPT",
-    "relevance": 0.026233073037508336,
-    "title": "Show HN: Share to ChatGPT Widgets",
-    "link": "https://share2chatgpt.franzai.com/"
-  },
-  {
-    "phrase": "optional cloud",
-    "relevance": 0.02570861714399338,
-    "title": "Typewhisper: Local speech-to-text on-device AI, private, optional cloud",
-    "link": "https://github.com/TypeWhisper/typewhisper-mac"
-  },
-  {
-    "phrase": "Derive any environmental",
-    "relevance": 0.04940384002065631,
-    "title": "Derive any environmental variable with FiaPhy from the ones you've got",
-    "link": "https://github.com/fiaos-org/FiaPhy"
-  },
-  {
-    "phrase": "Musk cornered Sam",
-    "relevance": 0.00688415006041516,
-    "title": "Anthropic and Elon Musk cornered Sam Altman this week",
-    "link": "https://thenewstack.io/anthropic-elon-musk-cornered-sam-altman/"
-  },
-  {
-    "phrase": "Yoshua Bengio",
-    "relevance": 0.0032610119837787367,
-    "title": "I've Solved AI Alignment,'Godfather' of AI, Yoshua Bengio",
-    "link": "https://www.youtube.com/watch?v=PZqDFs2sbiY"
-  },
-  {
-    "phrase": "Autonomous GPU Kernel",
-    "relevance": 0.001881309737406442,
-    "title": "AutoKernel: Autonomous GPU Kernel Optimization via Iterative Agent-Driven Search",
-    "link": "https://arxiv.org/abs/2603.21331"
-  },
-  {
-    "phrase": "HP-UX Unix Workstations",
-    "relevance": 0.001881309737406442,
-    "title": "CAD and Cam Applications on HP-UX Unix Workstations",
-    "link": "https://www.openpa.net/hp-ux_cad.html"
-  },
-  {
-    "phrase": "Julio Merino",
-    "relevance": 0.012602360123953448,
-    "title": "I think AI is pushing me toward the AGPL \u2013 by Julio Merino",
-    "link": "https://blogsystem5.substack.com/p/ai-and-agpl-licensing"
-  },
-  {
-    "phrase": "transformation stalls",
-    "relevance": 0.02570861714399338,
-    "title": "UK abandons police database cloud move after \u00a335M transformation stalls",
-    "link": "https://www.theregister.com/public-sector/2026/05/08/uk-abandons-police-database-cloud-move-after-35m-transformation-stalls/5235718"
-  },
-  {
-    "phrase": "Zero-Shot Joint Camera",
-    "relevance": 0.0035308295728302113,
-    "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
-    "link": "https://arxiv.org/abs/2605.06667"
-  },
-  {
-    "phrase": "QUIC Demo",
-    "relevance": 0.012602360123953448,
-    "title": "Media over QUIC Demo",
-    "link": "https://hang.live/"
-  },
-  {
-    "phrase": "Sketchpad",
-    "relevance": 0.04491197687864554,
-    "title": "Sketchpad",
-    "link": "https://en.wikipedia.org/wiki/Sketchpad"
-  },
-  {
-    "phrase": "Spirit Airlines",
+    "phrase": "Forces Are Barely",
     "relevance": 0.02140921543860024,
-    "title": "Here's why all flyers should be worried if Spirit Airlines goes away (2025)",
-    "link": "https://www.cnn.com/2025/08/17/business/spirit-airlines-air-fare-impact"
+    "title": "Putin\u2019s Forces Are Barely Inching Along on the Battlefield",
+    "link": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html"
   },
   {
-    "phrase": "basic mechanical parts",
-    "relevance": 0.016559150827736194,
-    "title": "Show HN: CADBench \u2013 every AI CAD tool I tested fails on basic mechanical parts",
-    "link": "https://evals-for-ai-cads.vercel.app/"
-  },
-  {
-    "phrase": "open source",
-    "relevance": 0.01281102963567174,
-    "title": "Show HN: Local AI search for your video library (local, open source)",
-    "link": "https://edit-mind.com"
-  },
-  {
-    "phrase": "Kill your onboarding",
-    "relevance": 0.02570861714399338,
-    "title": "Kill your onboarding: selling to 10k new users a day",
-    "link": "https://twitter.com/Railway/status/2052522801693958460"
-  },
-  {
-    "phrase": "Shadowrun Boston Unlocked",
-    "relevance": 0.0020632546775457305,
-    "title": "Shadowrun Boston Unlocked",
-    "link": "https://hooby.blog/posts/shadowrun-boston-unlocked/"
-  },
-  {
-    "phrase": "Highest Divorce Rates",
-    "relevance": 0.001881309737406442,
-    "title": "Occupations with the Highest Divorce Rates",
-    "link": "https://flowingdata.com/2026/05/07/divorce-and-occupation-2026/"
-  },
-  {
-    "phrase": "devrage",
-    "relevance": 0.04491197687864554,
-    "title": "devrage: Count how many times you swear at coding agents",
-    "link": "https://www.npmjs.com/package/devrage"
-  },
-  {
-    "phrase": "Cable Detective",
-    "relevance": 0.007444681613352736,
-    "title": "Show HN: Cable Detective",
-    "link": "https://apps.apple.com/at/app/cable-detective/id6765963737?mt=12"
-  },
-  {
-    "phrase": "Record Handling",
-    "relevance": 0.013797198203993007,
-    "title": "Record Handling (1966) [pdf]",
-    "link": "https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2293-Record-Handling-Hoare.pdf"
-  },
-  {
-    "phrase": "Internet Archive Switzerland",
-    "relevance": 0.0020632546775457305,
-    "title": "Internet Archive Switzerland",
-    "link": "https://internetarchive.ch/"
-  },
-  {
-    "phrase": "Guy Goma story",
-    "relevance": 0.003995142956050651,
-    "title": "20 years after the BBC mix-Up, Guy Goma's story becomes a book",
-    "link": "https://www.youtube.com/watch?v=VO0kaSHAOSE"
-  },
-  {
-    "phrase": "Paul Lefebvre",
-    "relevance": 0.012602360123953448,
-    "title": "The Atari 800 \u2013 By Paul Lefebvre",
-    "link": "https://www.goto10retro.com/p/inside-the-atari-800"
-  },
-  {
-    "phrase": "Dumb Questions",
-    "relevance": 0.012602360123953448,
-    "title": "No Dumb Questions: What is an MCP server and why do I care?",
-    "link": "https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/"
-  },
-  {
-    "phrase": "Mouse Wheel Tweaks",
-    "relevance": 0.0020632546775457305,
-    "title": "Mouse Wheel Tweaks",
-    "link": "https://mcpedl.com/mouse-wheel-tweaks/"
-  },
-  {
-    "phrase": "BASIC in EndBASIC",
-    "relevance": 0.03278451112147437,
-    "title": "What if there was no BASIC in EndBASIC? \u2013 by Julio Merino",
-    "link": "https://blogsystem5.substack.com/p/no-basic-in-endbasic"
-  },
-  {
-    "phrase": "Chester Lam",
-    "relevance": 0.012602360123953448,
-    "title": "Evaluating Geekbench 6 \u2013 By Chester Lam",
-    "link": "https://chipsandcheese.com/p/evaluating-geekbench-6"
-  },
-  {
-    "phrase": "Breaking Jolt Verifier",
-    "relevance": 0.0035308295728302113,
-    "title": "Breaking Jolt's Verifier with an Unbound Uni-Skip Claim",
-    "link": "https://blog.zksecurity.xyz/posts/jolt-uniskip-bug/"
-  },
-  {
-    "phrase": "multi-agent platforms",
-    "relevance": 0.04940384002065631,
-    "title": "Ask HN: What is the underlying stack behind multi-agent platforms?",
-    "link": "https://news.ycombinator.com/item?id=48074184"
-  },
-  {
-    "phrase": "calendar that turns",
-    "relevance": 0.02570861714399338,
-    "title": "Show HN: nocal is a calendar that turns your week into a workspace",
-    "link": "https://nocal.app/"
-  },
-  {
-    "phrase": "Simplex Algorithm",
-    "relevance": 0.013797198203993007,
-    "title": "Simplex Algorithm",
-    "link": "https://en.wikipedia.org/wiki/Simplex_algorithm"
-  },
-  {
-    "phrase": "Capacity",
-    "relevance": 0.04491197687864554,
-    "title": "Capacity",
-    "link": "https://dahl.dev/capacity"
-  },
-  {
-    "phrase": "Israeli terrorist attacking",
-    "relevance": 0.015042304599106411,
-    "title": "Another Israeli terrorist attacking a school",
-    "link": "https://twitter.com/swilkinsonbc/status/2052752104817603002"
-  },
-  {
-    "phrase": "Forking the Web",
-    "relevance": 0.013797198203993007,
-    "title": "Forking the Web",
-    "link": "https://dillo-browser.org/lab/web-fork/"
-  },
-  {
-    "phrase": "Fought Enterprise Java",
-    "relevance": 0.000428304966184317,
-    "title": "The Rebels Who Fought Enterprise Java \u2013 Spring: The Documentary [video]",
-    "link": "https://www.youtube.com/watch?v=0Gb1z-2SjHY"
-  },
-  {
-    "phrase": "absurdist AI-generated products",
-    "relevance": 0.008321268142839145,
-    "title": "Show HN: Anycrap \u2013 REST API for 35k absurdist AI-generated products",
-    "link": "https://anycrap.shop/developers"
-  },
-  {
-    "phrase": "Architecting on Cloudflare",
-    "relevance": 0.013797198203993007,
-    "title": "Architecting on Cloudflare",
-    "link": "https://architectingoncloudflare.com/"
-  },
-  {
-    "phrase": "Feature rich TUI",
-    "relevance": 0.003995142956050651,
-    "title": "Show HN: Concord \u2013 Feature rich TUI for discord",
-    "link": "https://github.com/chojs23/concord"
-  },
-  {
-    "phrase": "tool helping Victorian",
-    "relevance": 0.015042304599106411,
-    "title": "The groundbreaking AI tool helping Victorian rangers protect native species",
-    "link": "https://www.abc.net.au/news/2026-04-27/ai-helps-parks-victoria-manage-native-species-pests-after-fires/106589360"
-  },
-  {
-    "phrase": "Globally Shared Expert",
+    "phrase": "Hantavirus Outbreak Arrives",
     "relevance": 0.0032173869679631944,
-    "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-    "link": "https://arxiv.org/abs/2605.06665"
+    "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking",
+    "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
   },
   {
-    "phrase": "IDEs at Google",
-    "relevance": 0.026233073037508336,
-    "title": "A History of IDEs at Google",
-    "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
+    "phrase": "Trump Celebrated Victory",
+    "relevance": 0.0015487570472646262,
+    "title": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
+    "link": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html"
   },
   {
-    "phrase": "Aids Creeps Back",
-    "relevance": 0.0035308295728302113,
-    "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html"
-  },
-  {
-    "phrase": "Chile Radical Experiment",
-    "relevance": 0.001881309737406442,
-    "title": "Project Cybersyn: Chile's Radical Experiment in Cybernetic Socialism (2023)",
-    "link": "https://thereader.mitpress.mit.edu/project-cybersyn-chiles-radical-experiment-in-cybernetic-socialism/"
-  },
-  {
-    "phrase": "Audience",
-    "relevance": 0.1447773057422032,
-    "title": "The Audience Nobody Saw",
-    "link": "https://fromthelittoral.substack.com/p/the-audience-nobody-saw"
-  },
-  {
-    "phrase": "Nvidia releases CUDA-Oxide",
-    "relevance": 0.008321268142839145,
-    "title": "Nvidia releases CUDA-Oxide 0.1 for experimental Rust-to-CUDA compiler",
-    "link": "https://www.phoronix.com/news/NVIDIA-CUDA-Oxide-0.1"
-  },
-  {
-    "phrase": "Shivon Zilis reveals",
-    "relevance": 0.0016032106820557895,
-    "title": "Musk vs. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tr",
-    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
-  },
-  {
-    "phrase": "GpxFix",
-    "relevance": 0.04491197687864554,
-    "title": "GpxFix \u2013 A tool to repair recordings of outdoor activities",
-    "link": "https://www.gpxfix.eu/"
-  },
-  {
-    "phrase": "LLMs are underutilized",
-    "relevance": 0.04940384002065631,
-    "title": "LLMs are underutilized due to sub optimal management",
-    "link": "https://alexzhang13.github.io/blog/2026/mgh/"
-  },
-  {
-    "phrase": "Daily grammer practice",
-    "relevance": 0.008680855907871378,
-    "title": "Show HN: DuoSolve \u2013 Daily grammer practice game",
-    "link": "https://duobook.co/duosolve"
-  },
-  {
-    "phrase": "Vladimir Putin",
-    "relevance": 0.023458380875189744,
-    "title": "Vladimir Putin is losing his grip on Russia",
-    "link": "https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia"
-  },
-  {
-    "phrase": "Practice reviewing risky",
-    "relevance": 0.01655915082773619,
-    "title": "Practice reviewing risky AI-generated engineering output",
-    "link": "https://www.proreview.dev/"
-  },
-  {
-    "phrase": "Anymore",
-    "relevance": 0.08596317751626563,
-    "title": "Your Computer Doesn't Belong to You Anymore",
-    "link": "https://aquisthoughts.substack.com/p/your-computer-doesnt-belong-to-you"
-  },
-  {
-    "phrase": "Memory Vault",
-    "relevance": 0.01066960320327004,
-    "title": "Show HN: Memory Vault \u2013 local-first memory, hybrid search, knowledge graph",
-    "link": "https://github.com/MihaiBuilds/memory-vault"
-  },
-  {
-    "phrase": "Debian boxes",
-    "relevance": 0.008293207122436794,
-    "title": "Show HN: Aptmatic \u2013 a TUI for managing apt across a bunch of Debian boxes",
-    "link": "https://crates.io/crates/aptmatic"
-  },
-  {
-    "phrase": "Kanvly",
-    "relevance": 0.04491197687864554,
-    "title": "Kanvly \u2013 notes and boards with AI, now on iOS",
-    "link": "https://kanvly.com"
-  },
-  {
-    "phrase": "soft-bedrock",
-    "relevance": 0.04491197687864554,
-    "title": "Lua as a practical \"soft-bedrock\" language",
-    "link": "https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/~solderpunk/gemlog/lua-as-a-practical-soft-bedrock-language.gmi"
-  },
-  {
-    "phrase": "minimal Rust crate",
-    "relevance": 0.015042304599106411,
-    "title": "Agentwerk: A minimal Rust crate for agentic apps",
-    "link": "https://github.com/canvascomputing/agentwerk"
-  },
-  {
-    "phrase": "Chiplet Illusion",
+    "phrase": "Slice of Ham",
     "relevance": 0.004925103769790319,
-    "title": "The Chiplet Illusion: New Moore's Law or the Most Expensive Cover-Up?",
-    "link": "https://sourceryintel.com/reports/the-chiplet-illusion"
+    "title": "The Man Who Cuts the Perfect Slice of Ham",
+    "link": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html"
   },
   {
-    "phrase": "Transformer Math Explorer",
-    "relevance": 0.0011031048803583578,
-    "title": "Show HN: Transformer Math Explorer",
-    "link": "https://simonramstedt.com/tools/transformer/"
-  },
-  {
-    "phrase": "canals reduces water",
-    "relevance": 0.0042542192213185686,
-    "title": "Solar on canals reduces water evaporation by 70% and algae growth by 85%",
-    "link": "https://www.pv-magazine.com/2026/05/04/solar-on-canals-reduces-water-evaporation-by-70-and-algae-growth-by-85/"
-  },
-  {
-    "phrase": "Health Awareness Month",
-    "relevance": 0.001881309737406442,
-    "title": "Free guided journaling during the Mental Health Awareness Month",
-    "link": "https://journal.cubitoo.com/en"
-  },
-  {
-    "phrase": "Downsizing Social Security",
-    "relevance": 0.001881309737406442,
-    "title": "The Cost of Downsizing Social Security",
-    "link": "https://www.newyorker.com/news/deep-state-diaries/the-real-cost-of-downsizing-social-security"
-  },
-  {
-    "phrase": "Compiler",
-    "relevance": 0.030396371632413578,
-    "title": "Experimental Rust-to-CUDA Compiler",
-    "link": "https://github.com/NVlabs/cuda-oxide"
-  },
-  {
-    "phrase": "Goodbye Slack",
-    "relevance": 0.013797198203993007,
-    "title": "Goodbye Slack",
-    "link": "https://ano.chat"
-  },
-  {
-    "phrase": "Inside Neural Networks",
-    "relevance": 0.001881309737406442,
-    "title": "The World Inside Neural Networks",
-    "link": "https://www.goodfire.ai/research/the-world-inside-neural-networks"
-  },
-  {
-    "phrase": "Rust and Tauri",
+    "phrase": "Wartime Pressures",
     "relevance": 0.012602360123953448,
-    "title": "Terax \u2013 a 7mb AI terminal in Rust and Tauri [video]",
-    "link": "https://www.youtube.com/watch?v=kykgXa7sm1g"
+    "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+    "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
   },
   {
-    "phrase": "Chinese inverters sparks",
-    "relevance": 0.015042304599106411,
-    "title": "EU ban on Chinese inverters sparks strong response from Beijing",
-    "link": "https://www.pv-magazine.com/2026/05/08/eu-ban-on-chinese-inverters-sparks-strong-response-from-beijing/"
-  },
-  {
-    "phrase": "Bun experimental Rust",
-    "relevance": 0.007568253837993472,
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "link": "https://twitter.com/jarredsumner/status/2053047748191232310"
-  },
-  {
-    "phrase": "Steering Zig Fmt",
-    "relevance": 0.0020632546775457305,
-    "title": "Steering Zig Fmt",
-    "link": "https://matklad.github.io/2026/05/08/steering-zig-fmt.html"
-  },
-  {
-    "phrase": "tasty vegan cheese",
-    "relevance": 0.016559150827736194,
-    "title": "The troubled quest for tasty vegan cheese",
-    "link": "https://www.economist.com/interactive/1843/2026/05/08/grate-expectations-the-troubled-quest-for-tasty-vegan-cheese"
-  },
-  {
-    "phrase": "Chrome AI features",
-    "relevance": 0.04940384002065631,
-    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
-  },
-  {
-    "phrase": "GPS-based mobile game",
-    "relevance": 0.008321268142839145,
-    "title": "Show HN: Cheapshot \u2013 GPS-based mobile game",
-    "link": "https://cheapshot.co/"
-  },
-  {
-    "phrase": "Cloud Fraud Defence",
+    "phrase": "China Rivalry Reaches",
     "relevance": 0.001881309737406442,
-    "title": "Autoenshittification (Background on WEI and Google Cloud Fraud Defence)",
-    "link": "https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon"
+    "title": "U.S.-China Rivalry Reaches South American Skies",
+    "link": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html"
   },
   {
-    "phrase": "Radiolaria",
-    "relevance": 0.04491197687864554,
-    "title": "Radiolaria",
-    "link": "https://en.wikipedia.org/wiki/Radiolaria"
-  },
-  {
-    "phrase": "Agent-Authored Control Architecture",
-    "relevance": 0.003995142956050651,
-    "title": "Vision: An Agent-Authored Control Architecture (Whitepaper)",
-    "link": "https://sbarron.com/whitepapers/vision-system"
-  },
-  {
-    "phrase": "Loading Time Anxiety",
-    "relevance": 0.0032173869679631944,
-    "title": "Show HN: I Build a SaaS Loading Time Anxiety and Cost Calculator",
-    "link": "https://vnta.agency/tools/saas-loading-time-anxiety-calculator"
-  },
-  {
-    "phrase": "Engineers Are Drifting",
-    "relevance": 0.013797198203993007,
-    "title": "Engineers Are Drifting",
-    "link": "https://exhaustedmind.substack.com/p/your-engineers-are-already-drifting"
-  },
-  {
-    "phrase": "Denver Airport runway",
-    "relevance": 0.0035308295728302113,
-    "title": "Frontier plane reportedly strikes pedestrian on Denver Airport runway",
-    "link": "https://www.cnn.com/2026/05/09/us/frontier-reportedly-pedestrian-denver-runway-hnk"
-  },
-  {
-    "phrase": "Claude Knew",
-    "relevance": 0.012144316412564459,
-    "title": "Claude Knew It Was Being Tested. Anthropic Built a Tool to Detect It",
-    "link": "https://firethering.com/anthropic-nla-claude-thoughts-interpretability/"
-  },
-  {
-    "phrase": "Squint",
-    "relevance": 0.04491197687864554,
-    "title": "Squint",
-    "link": "https://squint-cljs.github.io/squint/"
+    "phrase": "Black Card",
+    "relevance": 0.014807319600086891,
+    "title": "Red Card or Black Card? The Conscription Lottery in Thailand.",
+    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html"
   },
   {
     "phrase": "Leader Lost Faith",
@@ -606,22 +48,10 @@
     "link": "https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html"
   },
   {
-    "phrase": "Muscular Victory Day",
-    "relevance": 0.0032173869679631944,
-    "title": "A Less Muscular Victory Day Parade Shows Putin\u2019s Growing Vulnerability",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
-  },
-  {
-    "phrase": "Strategic Trade Route",
-    "relevance": 0.0032173869679631944,
-    "title": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
-    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html"
-  },
-  {
-    "phrase": "Iorwerth Breaks Labour",
-    "relevance": 0.0032173869679631944,
-    "title": "Rhun ap Iorwerth Breaks Labour\u2019s Dominance in Wales",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/uk-elections-wales-iorwerth.html"
+    "phrase": "Estimate Finds",
+    "relevance": 0.012602360123953448,
+    "title": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
+    "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html"
   },
   {
     "phrase": "Small Japan Zoo",
@@ -630,69 +60,57 @@
     "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
   },
   {
-    "phrase": "Australia Special Election",
-    "relevance": 0.001881309737406442,
-    "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
-  },
-  {
-    "phrase": "Viktor Orban Loyalists",
-    "relevance": 0.001881309737406442,
-    "title": "In Hungary, Viktor Orban Loyalists Jump Ship",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/hungary-orban-fidesz-magyar.html"
-  },
-  {
-    "phrase": "Estimate Finds",
-    "relevance": 0.012602360123953448,
-    "title": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html"
-  },
-  {
-    "phrase": "Peter Magyar Prepares",
-    "relevance": 0.0035308295728302113,
-    "title": "Peter Magyar Prepares to Take Over as Hungary\u2019s Leader From Viktor Orban",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html"
-  },
-  {
-    "phrase": "Trump-Xi Summit Matters",
-    "relevance": 0.003995142956050651,
-    "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
-    "link": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
-  },
-  {
-    "phrase": "Frederiksen Falls Short",
-    "relevance": 0.0032173869679631944,
-    "title": "After Frederiksen Falls Short in Denmark, Right-Leaning Politician Is Asked to Form Government",
-    "link": "https://www.nytimes.com/2026/05/08/world/europe/denmark-frederiksen-right-wing-government.html"
-  },
-  {
-    "phrase": "High Energy Costs",
-    "relevance": 0.001881309737406442,
-    "title": "China\u2019s Exports and Imports Set Records in April Amid High Energy Costs",
-    "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
-  },
-  {
-    "phrase": "Expels Pakistani Workers",
-    "relevance": 0.07330591504269458,
-    "title": "U.A.E. Expels Pakistani Workers, as Pakistan\u2019s Peacemaking Creates a Rift",
-    "link": "https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html"
-  },
-  {
-    "phrase": "French Couple",
-    "relevance": 0.02140921543860024,
-    "title": "The French Couple That Tried to Burgle 29 Churches in 3 Months",
-    "link": "https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html"
-  },
-  {
     "phrase": "Britain \u2019s Electorate",
     "relevance": 0.03278451112147437,
     "title": "Britain\u2019s Electorate Is \u2018Splintering.\u2019 Can Its System Stand the Strain?",
     "link": "https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html"
   },
   {
+    "phrase": "Victory Day Parade",
+    "relevance": 0.0032173869679631944,
+    "title": "A Scaled-Back Victory Day Parade Shows Putin\u2019s Growing Vulnerability in Ukraine War",
+    "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
+  },
+  {
+    "phrase": "Iorwerth Breaks Labour",
+    "relevance": 0.0032173869679631944,
+    "title": "Rhun ap Iorwerth Breaks Labour\u2019s Dominance in Wales",
+    "link": "https://www.nytimes.com/2026/05/09/world/europe/uk-elections-wales-iorwerth.html"
+  },
+  {
+    "phrase": "Australia Special Election",
+    "relevance": 0.001881309737406442,
+    "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
+  },
+  {
+    "phrase": "Telescope a Threat",
+    "relevance": 0.02140921543860024,
+    "title": "Is This Telescope a Threat to U.S. Security?",
+    "link": "https://www.nytimes.com/video/world/americas/100000010873671/is-this-telescope-a-threat-to-us-security.html"
+  },
+  {
+    "phrase": "Hormuz Remains Effectively",
+    "relevance": 0.0032173869679631944,
+    "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html"
+  },
+  {
+    "phrase": "Hantavirus Cruise Ship",
+    "relevance": 0.0032173869679631944,
+    "title": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+  },
+  {
+    "phrase": "Israeli Strikes Erode",
+    "relevance": 0.0032173869679631944,
+    "title": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
+    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
+  },
+  {
     "phrase": "Rallying in Japan",
     "relevance": 0.012602360123953448,
-    "title": "Why Antiwar Protesters are Rallying in Japan",
+    "title": "Why Antiwar Protesters Are Rallying in Japan",
     "link": "https://www.nytimes.com/2026/05/09/world/asia/japan-antiwar-protests-constitution.html"
   },
   {
@@ -720,16 +138,52 @@
     "link": "https://www.nytimes.com/2026/05/09/us/politics/china-us-spy-congressional-aide.html"
   },
   {
+    "phrase": "Strategic Trade Route",
+    "relevance": 0.0032173869679631944,
+    "title": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
+    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html"
+  },
+  {
     "phrase": "Marathon in Kenya",
     "relevance": 0.012602360123953448,
     "title": "Training For a Marathon in Kenya",
     "link": "https://www.nytimes.com/video/world/africa/100000010844833/training-for-a-marathon-in-kenya.html"
   },
   {
+    "phrase": "High Energy Costs",
+    "relevance": 0.001881309737406442,
+    "title": "China\u2019s Exports and Imports Set Records in April Amid High Energy Costs",
+    "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
+  },
+  {
+    "phrase": "Viktor Orban",
+    "relevance": 0.012602360123953448,
+    "title": "Peter Magyar Takes Over as Hungary\u2019s Leader From Viktor Orban",
+    "link": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html"
+  },
+  {
+    "phrase": "Trump-Xi Summit Matters",
+    "relevance": 0.003995142956050651,
+    "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
+  },
+  {
+    "phrase": "Viktor Orban Loyalists",
+    "relevance": 0.001881309737406442,
+    "title": "In Hungary, Viktor Orban Loyalists Jump Ship",
+    "link": "https://www.nytimes.com/2026/05/09/world/europe/hungary-orban-fidesz-magyar.html"
+  },
+  {
     "phrase": "Norovirus Outbreak Sickens",
     "relevance": 0.0020632546775457305,
     "title": "Norovirus Outbreak Sickens 115 on Cruise Ship",
     "link": "https://www.nytimes.com/2026/05/08/world/americas/norovirus-outbreak-cruise-ship.html"
+  },
+  {
+    "phrase": "Frederiksen Falls Short",
+    "relevance": 0.0032173869679631944,
+    "title": "After Frederiksen Falls Short in Denmark, Right-Leaning Politician Is Asked to Form Government",
+    "link": "https://www.nytimes.com/2026/05/08/world/europe/denmark-frederiksen-right-wing-government.html"
   },
   {
     "phrase": "Shed Light",
@@ -870,70 +324,46 @@
     "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest"
   },
   {
-    "phrase": "Hikers Dead",
-    "relevance": 0.012602360123953448,
-    "title": "3 Hikers Dead After Volcano Erupts in Indonesia",
-    "link": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html"
+    "phrase": "Expels Pakistani Workers",
+    "relevance": 0.07330591504269458,
+    "title": "U.A.E. Expels Pakistani Workers, as Pakistan\u2019s Peacemaking Creates a Rift",
+    "link": "https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html"
   },
   {
-    "phrase": "latest",
-    "relevance": 0.15831692877998726,
-    "title": "Here\u2019s the latest.",
-    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest"
+    "phrase": "steel stuns researchers",
+    "relevance": 0.016559150827736194,
+    "title": "\u201cCannot be explained\u201d \u2013 New ultra stainless steel stuns researchers",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm"
   },
   {
-    "phrase": "Drains Weapons",
-    "relevance": 0.004925103769790319,
-    "title": "China Sees a \u2018Giant With a Limp\u2019 as U.S. Drains Weapons on Iran War",
-    "link": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html"
+    "phrase": "Scientists successfully transfer",
+    "relevance": 0.01655915082773619,
+    "title": "Scientists successfully transfer longevity gene and extend lifespan",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
   },
   {
-    "phrase": "Mood for Celebration",
-    "relevance": 0.02140921543860024,
-    "title": "Many Russians in No Mood for Celebration on Kremlin\u2019s Biggest Day of the Year",
-    "link": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html"
+    "phrase": "Brain scans reveal",
+    "relevance": 0.01655915082773619,
+    "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm"
   },
   {
-    "phrase": "Review Mexican Consulates",
-    "relevance": 0.0032173869679631944,
-    "title": "U.S. to Review Mexican Consulates After Right-Wing Claims Against Them",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html"
+    "phrase": "stop scratching",
+    "relevance": 0.02570861714399338,
+    "title": "Scientists discover the brain\u2019s hidden \u201cstop scratching\u201d switch",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm"
   },
   {
-    "phrase": "Strait of Hormuz",
-    "relevance": 0.004925103769790319,
-    "title": "Trump Says Cease-Fire Is Intact After Trade of Attacks in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/05/07/world/middleeast/trump-ceasefire-lincoln-memorial.html"
+    "phrase": "Scientists reversed liver",
+    "relevance": 0.01655915082773619,
+    "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm"
   },
   {
-    "phrase": "Trump Health Aid",
-    "relevance": 0.001881309737406442,
-    "title": "U.S. and Zambia Feud: Trump Health Aid Deal Stalls Over Critical Minerals",
-    "link": "https://www.nytimes.com/2026/05/07/world/africa/trump-zambia-usaid-minerals-negotiations.html"
-  },
-  {
-    "phrase": "Iran Trade Strikes",
-    "relevance": 0.0032173869679631944,
-    "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
-    "link": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html"
-  },
-  {
-    "phrase": "Art and Politics",
-    "relevance": 0.013797198203993007,
-    "title": "Art and Politics",
-    "link": "https://www.nytimes.com/2026/05/07/world/venice-biennale-art-politics-iran-explosions.html"
-  },
-  {
-    "phrase": "Stockpiles Fall",
-    "relevance": 0.012602360123953448,
-    "title": "As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html"
-  },
-  {
-    "phrase": "End Hostilities",
-    "relevance": 0.012602360123953448,
-    "title": "Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say",
-    "link": "https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html"
+    "phrase": "Antarctica is melting",
+    "relevance": 0.04940384002065631,
+    "title": "Antarctica is melting from below and scientists say it\u2019s worse than expected",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260509210637.htm"
   },
   {
     "phrase": "chemical kills",
@@ -970,6 +400,12 @@
     "relevance": 0.01655915082773619,
     "title": "Physicists discover quantum particles that break the rules of reality",
     "link": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm"
+  },
+  {
+    "phrase": "next-generation computer chips",
+    "relevance": 0.016559150827736194,
+    "title": "The hidden atomic gap that could break next-generation computer chips",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260508003125.htm"
   },
   {
     "phrase": "simple music trick",
@@ -1252,47 +688,5 @@
     "relevance": 0.015042304599106411,
     "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
     "link": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm"
-  },
-  {
-    "phrase": "laser turns metal",
-    "relevance": 0.0042542192213185686,
-    "title": "This laser turns metal into a star-like plasma in trillionths of a second",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052854.htm"
-  },
-  {
-    "phrase": "Pink Floyd",
-    "relevance": 0.007444681613352736,
-    "title": "This \u201cPink Floyd\u201d spider hunts prey 6x its size and lives in walls",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm"
-  },
-  {
-    "phrase": "crabs walk sideways",
-    "relevance": 0.03356262313410168,
-    "title": "Why do crabs walk sideways? Scientists trace it back 200 million years",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052844.htm"
-  },
-  {
-    "phrase": "n\u2019t start blank",
-    "relevance": 0.006026046305276699,
-    "title": "Scientists found the brain doesn\u2019t start blank, it starts full",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052842.htm"
-  },
-  {
-    "phrase": "cleaning",
-    "relevance": 0.04491197687864554,
-    "title": "Scientists discover a hidden brain \u201ccleaning\u201d effect triggered by movement",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm"
-  },
-  {
-    "phrase": "Oxford physicists achieve",
-    "relevance": 0.01655915082773619,
-    "title": "Oxford physicists achieve first-ever \u201cquadsqueezing\u201d breakthrough in quantum physics",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm"
-  },
-  {
-    "phrase": "Scientists found rare",
-    "relevance": 0.008680855907871378,
-    "title": "Don\u2019t toss cannabis leaves: Scientists found rare compounds with medical potential",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm"
   }
 ]
