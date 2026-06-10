@@ -1,5 +1,5 @@
 # Rhema
-### The Internet, One Day at a Time.
+### The Daily Web. 
 
 Rhema is an automated text intelligence pipeline that ingests daily news articles, extracts keywords, clusters them semantically, and surfaces named topic groups through a clean frontend.
 
