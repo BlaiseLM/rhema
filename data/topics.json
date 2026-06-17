@@ -1,92 +1,286 @@
 [
   {
-    "cluster": 2,
-    "name": "Scientific Discovery Breakthroughs",
+    "cluster": 4,
+    "name": "Miscellaneous Global News",
     "articles": [
       {
-        "title": "Scientists just found a hidden weakness in forever chemicals",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm"
+        "title": "Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran",
+        "link": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html"
       },
       {
-        "title": "Scientists found a way to explain bird flocks that \u201cdefy\u201d Newton\u2019s third law",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm"
+        "title": "Congo Returns to World Cup in High Style After 52 Years Away",
+        "link": "https://www.nytimes.com/2026/06/17/world/africa/congo-team-world-cup-soccer-leopard-fashion-sapeur.html"
       },
       {
-        "title": "Scientists turned red lettuce green and something surprising happened",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm"
+        "title": "Norway\u2019s Crown Princess Has Lung Transplant",
+        "link": "https://www.nytimes.com/2026/06/17/world/europe/norway-crown-princess-mette-marit-lung-transplant.html"
+      },
+      {
+        "title": "A Long Road to Recovery",
+        "link": "https://www.nytimes.com/2026/06/16/world/iran-war-economy-epstein-world-cup.html"
+      },
+      {
+        "title": "Trump\u2019s History at G7 Summits: Strained Ties and Early Exits",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-summit-history.html"
+      },
+      {
+        "title": "Rope Jumper Falls to Her Death After Operators Fail to Secure Harness",
+        "link": "https://www.nytimes.com/2026/06/16/travel/brazil-rope-jumping-fall.html"
+      },
+      {
+        "title": "Australia\u2019s Former Electricity Substations Are Being Turned Into Homes",
+        "link": "https://www.nytimes.com/2026/06/16/world/australia/electricity-substations-housing.html"
+      },
+      {
+        "title": "U.S. and Iran Sign a Framework Deal, Leaving Major Issues for Future Talks",
+        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html"
+      },
+      {
+        "title": "Man Suspected in 2017 Shoving of a London Woman Into Bus Path Is Arrested",
+        "link": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html"
+      },
+      {
+        "title": "Alien messages may have reached Earth without us realizing it",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm"
+      },
+      {
+        "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm"
       },
       {
         "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
         "link": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm"
       },
       {
-        "title": "Scientists discover parrots may actually use names",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm"
+        "title": "These tiny holes could change how the world cleans water",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm"
       },
       {
-        "title": "Your brain can keep improving into your 90s, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm"
+        "title": "A legendary golden fabric lost for 2,000 years has returned",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm"
       },
       {
-        "title": "Millipedes beat vertebrates to land by 80 million years",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034213.htm"
-      },
-      {
-        "title": "Scientists discover a strange property in rice and turn it into a smart material",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm"
-      },
-      {
-        "title": "Scientists built a battery-free device that turns sunlight into fuel",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm"
-      },
-      {
-        "title": "James Webb reveals two completely different twilights on an alien world",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm"
-      },
-      {
-        "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm"
+        "title": "Scientists propose a radical new theory for how life began on Earth",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm"
       },
       {
         "title": "Popular joint supplement glucosamine linked to faster Alzheimer\u2019s progression",
         "link": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm"
       },
       {
-        "title": "Earth's first animals barely evolved until sex changed everything",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm"
+        "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm"
+      },
+      {
+        "title": "Scientists discover a hidden quantum world inside cobalt",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "name": "Quantum Physics Breakthroughs",
+    "articles": [
+      {
+        "title": "Stars of Israel\u2019s TV Channel for Bibi Fans Turn on Trump",
+        "link": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
+      },
+      {
+        "title": "Humans may have hidden regenerative powers",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm"
+      },
+      {
+        "title": "This strange material can become strong or fall apart in seconds",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
+      },
+      {
+        "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm"
+      },
+      {
+        "title": "A dying star could create a new universe instead of a black hole",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm"
+      },
+      {
+        "title": "Alien planet spins revealed a hidden clue to how worlds form",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm"
+      },
+      {
+        "title": "Dark energy survives major challenge as universe keeps accelerating",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032030.htm"
+      },
+      {
+        "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
+      },
+      {
+        "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm"
+      },
+      {
+        "title": "Scientists think they solved the mystery of the Amaterasu particle",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm"
+      },
+      {
+        "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm"
+      },
+      {
+        "title": "What is space-time? A mystery at the heart of reality",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm"
+      },
+      {
+        "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
+      },
+      {
+        "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
+      },
+      {
+        "title": "Scientists finally complete Schr\u00f6dinger\u2019s 100-year-old color theory",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
+      },
+      {
+        "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm"
       },
       {
         "title": "AI-designed universal coronavirus vaccine passes first human trial",
         "link": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
       },
       {
-        "title": "The biggest collagen study yet reveals what actually works",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm"
-      },
-      {
-        "title": "Scientists finally crack an \u201cundruggable\u201d pancreatic cancer target and nearly double survival",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm"
-      },
-      {
-        "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm"
-      },
-      {
-        "title": "Scientists discover the master clock that controls biological growth and development",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm"
+        "title": "Magnetic fields may be the secret behind binary star formation",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm"
       }
     ]
   },
   {
     "cluster": 5,
-    "name": "U.S. Iran Trade Deal",
+    "name": "Ukraine Russia Conflict",
     "articles": [
+      {
+        "title": "Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes",
+        "link": "https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html"
+      },
+      {
+        "title": "After a Bitter Split, European Leaders Play Nice With Trump",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
+      },
+      {
+        "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
+        "link": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html"
+      },
+      {
+        "title": "Russian Navy Ship Fired Warning Shots Near British Couple\u2019s Sailboat",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html"
+      },
+      {
+        "title": "Russian Artist Critical of Putin Is Fatally Shot in Poland",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/russian-artist-putin-killed-poland.html"
+      },
+      {
+        "title": "Trump Says U.S. Has \u2018Nothing to Do\u2019 With Ukraine War at G7 Summit",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html"
+      },
+      {
+        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html"
+      },
+      {
+        "title": "France, Britain and Other Countries Say They\u2019ll Send Ships to the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html"
+      },
       {
         "title": "Why Team Iran Is in a Tough Spot at the World Cup",
         "link": "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
       },
       {
-        "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
+        "title": "As Russia Strikes Ukraine, a Cultural Symbol Catches Fire",
+        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-dormition-cathedral-strike.html"
+      },
+      {
+        "title": "Convicted Leader of Greek Militant Group Ordered Back to Prison",
+        "link": "https://www.nytimes.com/2026/06/15/world/europe/november-17-giotopoulos-prison-release.html"
+      },
+      {
+        "title": "How Does One Brain Speak Two Languages?",
+        "link": "https://www.nytimes.com/2026/06/15/science/brain-language-grammar.html"
+      },
+      {
+        "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm"
+      },
+      {
+        "title": "Learning a musical instrument in your 70s could help protect memory",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm"
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 9,
+    "name": "G7 Summit Coverage",
+    "articles": [
+      {
+        "title": "How Ecuador\u2019s Andes Created a Language of Its Own",
+        "link": "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html"
+      },
+      {
+        "title": "Can a Trump-Modi Meeting Reset U.S.-India Relations?",
+        "link": "https://www.nytimes.com/2026/06/16/world/asia/trump-modi-meeting-g7.html"
+      },
+      {
+        "title": "Iran Will Enter Nuclear Talks With the Trump Administration Feeling Emboldened",
+        "link": "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html"
+      },
+      {
+        "title": "Hot Mics Catch Trump, Carney and Other Leaders Off-Guard at G7",
+        "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-hot-mic-trump-meloni-greenland-carney.html"
+      },
+      {
+        "title": "12 Injured at Cultus Lake Water Park, Possibly by Electricity, in British Columbia",
+        "link": "https://www.nytimes.com/2026/06/16/world/canada/british-columbia-water-park-cultus-lake-injuries.html"
+      },
+      {
+        "title": "Who Are the Leaders at the G7 Summit in France?",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html"
+      },
+      {
+        "title": "Shipping companies remain cautious about the Strait of Hormuz.",
+        "link": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal/shipping-companies-remain-cautious-about-the-strait-of-hormuz"
+      },
+      {
+        "title": "Who Are the G7 Countries and What Is the G7 Summit?",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/g7-leaders-summit-what-who.html"
+      },
+      {
+        "title": "Will Commercial Ships Have to Pay to Pass Through the Strait of Hormuz? Maybe.",
+        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html"
+      },
+      {
+        "title": "Yellowstone wolves may not have reshaped the national park after all",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 0,
+    "name": "US Iran Nuclear Deal",
+    "articles": [
+      {
+        "title": "Live Updates: After G7 Leaders Praise U.S.-Iran Deal, Trump Threatens Iran Again",
+        "link": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france"
+      },
+      {
+        "title": "Trump Angrily Defends Iran Deal, Belittling the One Obama Signed",
+        "link": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html"
+      },
+      {
+        "title": "European Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
         "link": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html"
       },
       {
@@ -112,122 +306,24 @@
       {
         "title": "Will the Iran Deal Stick?",
         "link": "https://www.nytimes.com/2026/06/15/world/iran-deal-cape-verde-world-cup.html"
-      },
-      {
-        "title": "U.S. and Iran Sign a Framework Deal, Leaving Major Issues for Future Talks",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html"
-      },
-      {
-        "title": "Jaded and Exhausted, Many Iranians Shrug at World Cup",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html"
-      },
-      {
-        "title": "Gulf Countries Confront Questions About Relying on U.S. for Protection",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/gulf-iran-war-us.html"
-      },
-      {
-        "title": "Why the U.S.-Iran Deal Might Work, and Why It Might Not",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-strait-weapons-israel.html"
-      },
-      {
-        "title": "Israel Counts the Ways That Netanyahu\u2019s Iran Strategy Failed",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html"
-      },
-      {
-        "title": "U.S.-Iran Agreement Leaves Lebanon\u2019s Fate Murky",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html"
-      },
-      {
-        "title": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis",
-        "link": "https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html"
-      },
-      {
-        "title": "The U.S.-Iran Deal: What to Know",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html"
-      },
-      {
-        "title": "U.S. and Iran Find Ways to Claim Victory on the Nuclear Issue",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/nuclear-iran-united-states.html"
       }
     ]
   },
   {
-    "cluster": 4,
-    "name": "Ukraine War And G7",
+    "cluster": 8,
+    "name": "Health Science Findings",
     "articles": [
       {
-        "title": "Live Updates: At G7 Summit, Trump Says Ukraine War Has \u2018No Impact\u2019 on U.S.",
-        "link": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france"
+        "title": "Japan Raids Ice Cream Giants in Cartel Investigation",
+        "link": "https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html"
       },
       {
-        "title": "With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html"
+        "title": "Merlin, the Duck in a Mexico World Cup Team Jersey, Finds Unexpected Fame",
+        "link": "https://www.nytimes.com/2026/06/16/world/americas/duck-mexico-world-cup-merlin.html"
       },
       {
-        "title": "Trump Says U.S. Has \u2018Nothing to Do\u2019 with Ukraine War at G7 Summit",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html"
-      },
-      {
-        "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html"
-      },
-      {
-        "title": "As Russia Strikes Ukraine, a Cultural Symbol Catches Fire",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-dormition-cathedral-strike.html"
-      },
-      {
-        "title": "Convicted Leader of Greek Militant Group Ordered Back to Prison",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/november-17-giotopoulos-prison-release.html"
-      },
-      {
-        "title": "How Does One Brain Speak Two Languages?",
-        "link": "https://www.nytimes.com/2026/06/15/science/brain-language-grammar.html"
-      },
-      {
-        "title": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html"
-      },
-      {
-        "title": "China Moves the Price of Oil, Even When It Buys Less",
-        "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html"
-      },
-      {
-        "title": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html"
-      },
-      {
-        "title": "Taking on Neo-Nazis, One Trademark at a Time",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/neo-nazi-trademark-germany.html"
-      },
-      {
-        "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 1,
-    "name": "Global Society And Culture",
-    "articles": [
-      {
-        "title": "Australia\u2019s Former Electricity Substations Are Being Turned Into Homes",
-        "link": "https://www.nytimes.com/2026/06/16/world/australia/electricity-substations-housing.html"
-      },
-      {
-        "title": "Inside Colombia\u2019s Never-Ending Drug War",
-        "link": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html"
-      },
-      {
-        "title": "In France, Justice System Faces Public Anger After 11-Year-Old Girl\u2019s Killing",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html"
-      },
-      {
-        "title": "Trump Winds Down the War He Started With Goals Unmet",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-deal-hormuz-trump-goals.html"
-      },
-      {
-        "title": "How Quebec Left the Church and Became the World Leader in Assisted Dying",
-        "link": "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html"
+        "title": "\u2018Hockey Night in Canada,\u2019 a Saturday Night Ritual on the CBC, Is No More",
+        "link": "https://www.nytimes.com/2026/06/16/world/canada/hockey-night-in-canada-cbc-rogers.html"
       },
       {
         "title": "New study explores potential cross-species spread of chronic wasting disease",
@@ -236,10 +332,6 @@
       {
         "title": "Why middle age is becoming a breaking point in the U.S.",
         "link": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm"
-      },
-      {
-        "title": "A legendary golden fabric lost for 2,000 years has returned",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm"
       },
       {
         "title": "AI could uncover new physics faster but there\u2019s a surprising catch",
@@ -260,146 +352,148 @@
     ]
   },
   {
-    "cluster": 6,
-    "name": "Hormuz Strait Naval Security",
+    "cluster": 2,
+    "name": "Health And Mortality News",
     "articles": [
       {
-        "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
-        "link": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html"
+        "title": "A Deadly Outbreak of Plague, Nearly 5,000 Years Before the Black Death",
+        "link": "https://www.nytimes.com/2026/06/17/science/oldest-plague-siberian-skeletons.html"
       },
       {
-        "title": "Can a Trump-Modi Meeting Reset U.S.-India Relations?",
-        "link": "https://www.nytimes.com/2026/06/16/world/asia/trump-modi-meeting-g7.html"
+        "title": "Jeremy Clarkson Says He Has an \u2018Aggressive\u2019 Cancer",
+        "link": "https://www.nytimes.com/2026/06/17/world/europe/jeremy-clarkson-cancer-uk.html"
       },
       {
-        "title": "France, Britain and Other Countries Say They\u2019ll Send Ships to the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html"
+        "title": "Roy Hattersley, Frontline Warrior of British Politics, Dies at 93",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html"
       },
-      {
-        "title": "Iran Will Enter Nuclear Talks With the Trump Administration Feeling Emboldened",
-        "link": "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html"
-      },
-      {
-        "title": "Russian Navy Ship Accused of Firing Warning Shots at U.K. Yacht",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html"
-      },
-      {
-        "title": "Who Are the Leaders at the G7 Summit in France?",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html"
-      },
-      {
-        "title": "Shipping companies remain cautious about the Strait of Hormuz.",
-        "link": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal/shipping-companies-remain-cautious-about-the-strait-of-hormuz"
-      },
-      {
-        "title": "Who Are the G7 Countries and What Is the G7 Summit?",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/g7-leaders-summit-what-who.html"
-      },
-      {
-        "title": "Will Commercial Ships Have to Pay to Pass Through the Strait of Hormuz? Maybe.",
-        "link": "https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html"
-      },
-      {
-        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 7,
-    "name": "Physics And Origin Mysteries",
-    "articles": [
       {
         "title": "Two Men Found Guilty in Arson Attacks Targeting U.K. Prime Minister Keir Starmer",
         "link": "https://www.nytimes.com/2026/06/15/world/europe/starmer-fires-arson-russia-telegram.html"
       },
       {
-        "title": "Alien messages may have reached Earth without us realizing it",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm"
-      },
-      {
-        "title": "Yellowstone wolves may not have reshaped the national park after all",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm"
+        "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm"
       },
       {
         "title": "Lucy\u2019s hunter revealed: Giant crocodile terrorized early human ancestors",
         "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm"
       },
       {
-        "title": "These tiny holes could change how the world cleans water",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm"
-      },
-      {
-        "title": "Scientists propose a radical new theory for how life began on Earth",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm"
-      },
-      {
-        "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm"
-      },
-      {
         "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
         "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm"
       },
       {
-        "title": "Scientists discover a hidden quantum world inside cobalt",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
+        "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm"
       }
     ]
   },
   {
-    "cluster": 9,
-    "name": "Quantum Physics Discoveries",
+    "cluster": 7,
+    "name": "Materials Science Innovation",
     "articles": [
       {
-        "title": "This strange material can become strong or fall apart in seconds",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
+        "title": "Tech C.E.O.s to Discuss A.I. With G7 Leaders",
+        "link": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-ai-tech-leaders-openai-anthropic.html"
       },
       {
-        "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm"
+        "title": "Scientists just found a hidden weakness in forever chemicals",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm"
       },
       {
-        "title": "Learning a musical instrument in your 70s could help protect memory",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm"
+        "title": "Scientists say most of what\u2019s in your food is still a mystery",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614012011.htm"
       },
       {
-        "title": "Dark energy survives major challenge as universe keeps accelerating",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032030.htm"
+        "title": "Scientists turned red lettuce green and something surprising happened",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm"
       },
       {
-        "title": "Scientists think they solved the mystery of the Amaterasu particle",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm"
+        "title": "Your brain can keep improving into your 90s, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm"
       },
       {
-        "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
+        "title": "Scientists discover a strange property in rice and turn it into a smart material",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm"
       },
       {
-        "title": "Scientists finally complete Schr\u00f6dinger\u2019s 100-year-old color theory",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
+        "title": "Scientists built a battery-free device that turns sunlight into fuel",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm"
       },
       {
-        "title": "Hidden supermassive black hole pairs may finally have a visible signal",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm"
+        "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Misc",
+    "articles": [
+      {
+        "title": "Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns",
+        "link": "https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html"
       },
       {
-        "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm"
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france/g7-evian-summit"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal/heres-the-latest"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france/heres-the-latest"
+      },
+      {
+        "title": "James Webb reveals two completely different twilights on an alien world",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm"
+      },
+      {
+        "title": "The 1,100-year-old mystery of Montana\u2019s lost bison hunting site finally solved",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm"
       }
     ]
   },
   {
     "cluster": 3,
-    "name": "Ancient History And Evolution",
+    "name": "Animal Behavior Discovery",
     "articles": [
-      {
-        "title": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html"
-      },
       {
         "title": "New Coral Study Identifies Areas Where Reefs Are Hanging On",
         "link": "https://www.nytimes.com/2026/06/16/climate/coral-reef-global-warming.html"
+      },
+      {
+        "title": "Scientists found a way to explain bird flocks that \u201cdefy\u201d Newton\u2019s third law",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm"
+      },
+      {
+        "title": "Scientists discover parrots may actually use names",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm"
+      },
+      {
+        "title": "Millipedes beat vertebrates to land by 80 million years",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034213.htm"
+      },
+      {
+        "title": "Earth's first animals barely evolved until sex changed everything",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm"
+      },
+      {
+        "title": "Octopuses use mirrors to find food they cannot see",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "name": "Ancient DNA Research",
+    "articles": [
+      {
+        "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm"
       },
       {
         "title": "Ancient Denisovan DNA still shapes human immunity today",
@@ -418,102 +512,8 @@
         "link": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm"
       },
       {
-        "title": "Octopuses use mirrors to find food they cannot see",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm"
-      },
-      {
-        "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 8,
-    "name": "Cosmos And Space Exploration",
-    "articles": [
-      {
-        "title": "A dying star could create a new universe instead of a black hole",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm"
-      },
-      {
-        "title": "Alien planet spins revealed a hidden clue to how worlds form",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm"
-      },
-      {
-        "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm"
-      },
-      {
-        "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm"
-      },
-      {
-        "title": "What is space-time? A mystery at the heart of reality",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm"
-      },
-      {
-        "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
-      },
-      {
-        "title": "Magnetic fields may be the secret behind binary star formation",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 0,
-    "name": "Iran Nuclear Diplomacy Updates",
-    "articles": [
-      {
-        "title": "Iran War Live Updates: U.S. and Iran Look Ahead to Next Round of Talks",
-        "link": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal"
-      },
-      {
-        "title": "UK Announces Social Media Ban for Children Under 16",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal/heres-the-latest"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france/heres-the-latest"
-      },
-      {
-        "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html"
-      },
-      {
-        "title": "The 1,100-year-old mystery of Montana\u2019s lost bison hunting site finally solved",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Miscellaneous News",
-    "articles": [
-      {
-        "title": "Trump\u2019s History at G7 Summits: Strained Ties and Early Exits",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-summit-history.html"
-      },
-      {
-        "title": "Rope Jumper Falls to Her Death After Operators Fail to Secure Harness",
-        "link": "https://www.nytimes.com/2026/06/16/travel/brazil-rope-jumping-fall.html"
-      },
-      {
-        "title": "Man Suspected in 2017 Shoving of a London Woman Into Bus Path Is Arrested",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/london-jogger-shoved-bus-arrest.html"
-      },
-      {
-        "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm"
-      },
-      {
-        "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
+        "title": "The biggest collagen study yet reveals what actually works",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm"
       }
     ]
   }
