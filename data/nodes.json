@@ -1,15 +1,669 @@
 [
   {
+    "phrase": "Autoregressive Boltzmann Generators",
+    "relevance": 0.0020632546775457305,
+    "title": "Autoregressive Boltzmann Generators",
+    "link": "https://arxiv.org/abs/2606.27361"
+  },
+  {
+    "phrase": "Procrastination Forever",
+    "relevance": 0.012602360123953448,
+    "title": "Give Me 14 Minutes and I'll Destroy Your Procrastination Forever",
+    "link": "https://riansweetdoris.substack.com/p/give-me-14-minutes-and-ill-destroy"
+  },
+  {
+    "phrase": "Access Curbs",
+    "relevance": 0.012602360123953448,
+    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs"
+  },
+  {
+    "phrase": "Atari",
+    "relevance": 0.1447773057422032,
+    "title": "My First Atari ST",
+    "link": "https://www.goto10retro.com/p/my-first-atari-st"
+  },
+  {
+    "phrase": "Google limits Meta",
+    "relevance": 0.007568253837993472,
+    "title": "Google limits Meta's use of its Gemini AI models",
+    "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
+  },
+  {
+    "phrase": "China companies",
+    "relevance": 0.02570861714399338,
+    "title": "China companies Z.Ai,China 360 claim having cybersec AI models to match Mythos",
+    "link": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/"
+  },
+  {
+    "phrase": "editor using Libdragon",
+    "relevance": 0.013797198203993007,
+    "title": "Pyrite64: N64 game-engine and editor using Libdragon and tiny3d",
+    "link": "https://github.com/HailToDodongo/pyrite64"
+  },
+  {
+    "phrase": "wrong circle constant",
+    "relevance": 0.016559150827736194,
+    "title": "Pi is the wrong circle constant",
+    "link": "https://www.tauday.com/"
+  },
+  {
+    "phrase": "Impact on LLM",
+    "relevance": 0.012602360123953448,
+    "title": "Ask HN: Impact on LLM development after the USA policy of preliminary vetting",
+    "link": "https://news.ycombinator.com/item?id=48707008"
+  },
+  {
+    "phrase": "Greece Is Richer",
+    "relevance": 0.008212739846353857,
+    "title": "Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?",
+    "link": "https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor"
+  },
+  {
+    "phrase": "Custom domain emails",
+    "relevance": 0.008680855907871378,
+    "title": "Show HN: Custom domain emails for open source projects (KaiMail)",
+    "link": "https://kaimail.net/"
+  },
+  {
+    "phrase": "Revenue at Risk",
+    "relevance": 0.023458380875189744,
+    "title": "Revenue at Risk from AI Displacement",
+    "link": "https://zenodo.org/records/20999945"
+  },
+  {
+    "phrase": "Single Binary DNS",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: Nomina \u2013 Single Binary DNS and Nameserver with WebUI for Homelabs",
+    "link": "https://news.ycombinator.com/item?id=48706884"
+  },
+  {
+    "phrase": "school system aimed",
+    "relevance": 0.0042542192213185686,
+    "title": "The origins of the school system aimed to produce independent, critical thinkers",
+    "link": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
+  },
+  {
+    "phrase": "FizzBuzz in Smalltalk",
+    "relevance": 0.013797198203993007,
+    "title": "FizzBuzz in Smalltalk",
+    "link": "https://donraab.medium.com/fizzbuzz-in-smalltalk-8c6b7cdb6c41"
+  },
+  {
+    "phrase": "Beautiful Equations",
+    "relevance": 0.012602360123953448,
+    "title": "These Are the Most Beautiful Equations, According to Mathematicians",
+    "link": "https://www.scientificamerican.com/article/these-are-the-most-beautiful-equations-in-mathematics/"
+  },
+  {
+    "phrase": "Submit my project",
+    "relevance": 0.04498862876540802,
+    "title": "Ask HN: When I Submit my project the comment option not show",
+    "link": "https://news.ycombinator.com/item?id=48706860"
+  },
+  {
+    "phrase": "year to make",
+    "relevance": 0.07796891081290885,
+    "title": "Ask HN: You have one year to make $1M. What's your plan?",
+    "link": "https://news.ycombinator.com/item?id=48706854"
+  },
+  {
+    "phrase": "Google is assisting",
+    "relevance": 0.013797198203993007,
+    "title": "Pollen tried to remove my article, and Google is assisting to it",
+    "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"
+  },
+  {
+    "phrase": "specifically on Observability",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: O11y.jobs is a job board focused specifically on Observability",
+    "link": "https://o11y.jobs/"
+  },
+  {
+    "phrase": "Columnar Layout",
+    "relevance": 0.012602360123953448,
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+    "link": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html"
+  },
+  {
+    "phrase": "disappearing Polish",
+    "relevance": 0.013797198203993007,
+    "title": "The curious case of the disappearing Polish S",
+    "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/"
+  },
+  {
+    "phrase": "Released",
+    "relevance": 0.030396371632413578,
+    "title": "Three.js R185 Released",
+    "link": "https://twitter.com/threejs/status/2070082345689067978"
+  },
+  {
+    "phrase": "anniversary edition",
+    "relevance": 0.02570861714399338,
+    "title": "The MUMPS 76 Primer \u2013 anniversary edition",
+    "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc"
+  },
+  {
+    "phrase": "Billion-Dollar Mining Deal",
+    "relevance": 0.006133916749082168,
+    "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
+  },
+  {
+    "phrase": "Richard Campbell",
+    "relevance": 0.0022865299808362567,
+    "title": "After the AI Hype \u2013 What's Real, and What's Next \u2013 Richard Campbell \u2013 2026",
+    "link": "https://www.youtube.com/watch?v=uWnUnMphmPM"
+  },
+  {
+    "phrase": "Claude Code",
+    "relevance": 0.012602360123953448,
+    "title": "Academic-writing kit for Claude Code",
+    "link": "https://github.com/josefslerka/study-kit"
+  },
+  {
+    "phrase": "Meta Ads",
+    "relevance": 0.004925103769790319,
+    "title": "Show HN: Meta Ads vs. ASA vs. GAC for indie apps (2026 data)",
+    "link": "https://launchshots.app/blog/meta-ads-app-install-2026"
+  },
+  {
+    "phrase": "Million Personal Models",
+    "relevance": 0.0006487982591412822,
+    "title": "The Scaling of PEFT: Towards Million Personal Models of Trillion Parameters",
+    "link": "https://arxiv.org/abs/2606.02437"
+  },
+  {
+    "phrase": "OpenAI Codex",
+    "relevance": 0.026233073037508336,
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "link": "https://github.com/openai/codex/issues/2847"
+  },
+  {
+    "phrase": "Largest Banks",
+    "relevance": 0.012602360123953448,
+    "title": "Starbucks Is One of the Largest Banks",
+    "link": "https://www.msn.com/en-us/money/companies/starbucks-is-secretly-one-of-the-world-s-largest-banks/vi-AA1yTHCy"
+  },
+  {
+    "phrase": "treat Alzheimer disease",
+    "relevance": 0.015042304599106411,
+    "title": "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
+    "link": "https://twitter.com/DouglasYaoDY/status/2070904914050797582"
+  },
+  {
+    "phrase": "NASA tests",
+    "relevance": 0.026233073037508336,
+    "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828"
+  },
+  {
+    "phrase": "browser-based file manager",
+    "relevance": 0.01655915082773619,
+    "title": "Show HN: Sambee \u2013 browser-based file manager for SMB shares and local drives",
+    "link": "https://sambee.net"
+  },
+  {
+    "phrase": "Warp Point",
+    "relevance": 0.013797198203993007,
+    "title": "Warp Point: A curated webring of video game websites",
+    "link": "https://www.warppoint.games/"
+  },
+  {
+    "phrase": "crowd-funded Porsche",
+    "relevance": 0.026233073037508336,
+    "title": "The crowd-funded Porsche 911",
+    "link": "https://project996.fun"
+  },
+  {
+    "phrase": "Parseflow",
+    "relevance": 0.03625524040669144,
+    "title": "Show HN: Parseflow \u2013 Extract data from any document. Entirely on your Mac",
+    "link": "https://www.parseflow.io/"
+  },
+  {
+    "phrase": "quantum picturalism",
+    "relevance": 0.04940384002065631,
+    "title": "Beyond symbolic algebra with quantum picturalism",
+    "link": "https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2026.1790789/full"
+  },
+  {
+    "phrase": "Denoising Voice Recordings",
+    "relevance": 0.0035308295728302113,
+    "title": "Denoising Voice Recordings On-Device",
+    "link": "https://www.duration.ai/blog/denoising-voice-recordings-on-device"
+  },
+  {
+    "phrase": "Swift apps allowed",
+    "relevance": 0.004390086440759893,
+    "title": "Ask HN: Are OTA updates for native iOS/Swift apps allowed?",
+    "link": "https://news.ycombinator.com/item?id=48706628"
+  },
+  {
+    "phrase": "Cypherpunk Library",
+    "relevance": 0.013797198203993007,
+    "title": "Cypherpunk Library",
+    "link": "https://www.cypherpunklibrary.com/collection"
+  },
+  {
+    "phrase": "Dutch Responses",
+    "relevance": 0.02140921543860024,
+    "title": "Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated",
+    "link": "https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris"
+  },
+  {
+    "phrase": "invested",
+    "relevance": 0.15831692877998726,
+    "title": "Ask HN: If someone invested $100k now for your startup, how would you spend it?",
+    "link": "https://news.ycombinator.com/item?id=48706578"
+  },
+  {
+    "phrase": "buggy servers break",
+    "relevance": 0.01655915082773619,
+    "title": "Tldr.fail \u2013 buggy servers break PQ KEX compatibility in TLS",
+    "link": "https://tldr.fail/"
+  },
+  {
+    "phrase": "require age checks",
+    "relevance": 0.03339840940482845,
+    "title": "Kids act would require age checks to get online",
+    "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
+  },
+  {
+    "phrase": "CORS Explained",
+    "relevance": 0.012602360123953448,
+    "title": "CORS Explained in Plain English",
+    "link": "https://sanyamserver.online/posts/cors/"
+  },
+  {
+    "phrase": "life on Mars",
+    "relevance": 0.061249503518948686,
+    "title": "More evidence of life on Mars but still no life (2025)",
+    "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645"
+  },
+  {
+    "phrase": "Building Autonomous Coding",
+    "relevance": 0.001881309737406442,
+    "title": "From Prompts to Loops: Building Autonomous Coding Agents",
+    "link": "https://animeshgaitonde.medium.com/from-prompts-to-loops-building-autonomous-coding-agents-6135bf880415"
+  },
+  {
+    "phrase": "Expect Claude Fable",
+    "relevance": 0.0020632546775457305,
+    "title": "Expect Claude Fable 5 to Be Turned Back on in a Matter of Days, Report Says",
+    "link": "https://gizmodo.com/expect-claude-fable-5-to-be-turned-back-on-in-a-matter-of-days-report-says-2000778672"
+  },
+  {
+    "phrase": "Verse Programming Language",
+    "relevance": 0.0007628240583854028,
+    "title": "Beyond Functional Programming: The Verse Programming Language (2022) [pdf]",
+    "link": "https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf"
+  },
+  {
+    "phrase": "additional deaths amid",
+    "relevance": 0.01655915082773619,
+    "title": "France records around 1k additional deaths amid extreme heat wave",
+    "link": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd"
+  },
+  {
+    "phrase": "On-Device Health Platform",
+    "relevance": 0.003995142956050651,
+    "title": "Almavivo \u2013 The On-Device Health Platform",
+    "link": "https://almavivo.com"
+  },
+  {
+    "phrase": "Week of June",
+    "relevance": 0.0032610119837787367,
+    "title": "Policy Pulse \u2013 Issue #21 \u2013 Week of June 27, 2026",
+    "link": "https://blog.disclose.io/policy-pulse-issue-21-week-of-june-27-2026/"
+  },
+  {
+    "phrase": "run isolated instances",
+    "relevance": 0.01655915082773619,
+    "title": "Show HN: Warren \u2013 run isolated instances of any CLI tool (no containers,no root)",
+    "link": "https://github.com/swadhinbiswas/warren"
+  },
+  {
+    "phrase": "Shadcn",
+    "relevance": 0.04491197687864554,
+    "title": "Shadcn/UI components that can be used without react",
+    "link": "https://basecoatui.com/"
+  },
+  {
+    "phrase": "Imagine Telling",
+    "relevance": 0.023458380875189744,
+    "title": "Imagine Telling Someone in 1999",
+    "link": "https://twitter.com/JesseTinsley/status/2070306180543500530"
+  },
+  {
+    "phrase": "Genius AI Detector",
+    "relevance": 0.007444681613352736,
+    "title": "Show HN: Genius AI Detector",
+    "link": "https://geniusaidetector.com/"
+  },
+  {
+    "phrase": "GhostGrid drift detection",
+    "relevance": 0.01655915082773619,
+    "title": "GhostGrid drift detection and edge tamper evidence via Ed25519",
+    "link": "https://ghostgrid.dannygc.cloud/"
+  },
+  {
+    "phrase": "Artificial rain",
+    "relevance": 0.015380821171891606,
+    "title": "Artificial rain isn\u2019t a solution to drought, according to a cloud-seeding expert",
+    "link": "https://www.swissinfo.ch/eng/climate-adaptation/why-artificial-rain-is-not-a-solution-to-drought/91653947"
+  },
+  {
+    "phrase": "Garbage free reference",
+    "relevance": 0.008680855907871378,
+    "title": "Perceus: Garbage free reference counting with reuse",
+    "link": "https://dl.acm.org/doi/10.1145/3453483.3454032"
+  },
+  {
+    "phrase": "anniversary implementation",
+    "relevance": 0.02570861714399338,
+    "title": "Show HN: A faithful MUMPS 76 anniversary implementation \u2013 the original NoSQL DB",
+    "link": "https://github.com/rochus-keller/mumps/"
+  },
+  {
+    "phrase": "self-hosted Laravel CMS",
+    "relevance": 0.0020632546775457305,
+    "title": "Show HN: UnfoldCMS \u2013 self-hosted Laravel CMS, one-time pricing, no subscriptions",
+    "link": "https://unfoldcms.com"
+  },
+  {
+    "phrase": "impose digital tax",
+    "relevance": 0.016559150827736194,
+    "title": "Trump threatens 100% tariff on European countries that impose digital tax",
+    "link": "https://apnews.com/article/trump-tariff-europe-d2007fee8ae733a15f240c5f83462c96"
+  },
+  {
+    "phrase": "Flounder Mode",
+    "relevance": 0.013797198203993007,
+    "title": "Flounder Mode",
+    "link": "https://colossus.com/article/flounder-mode/"
+  },
+  {
+    "phrase": "Experimental GCC",
+    "relevance": 0.007444681613352736,
+    "title": "SHOW HN: Experimental GCC/GAS inline assembly bridge for Python",
+    "link": "https://pypi.org/project/sfpy-asm/0.1.1/"
+  },
+  {
+    "phrase": "file tools",
+    "relevance": 0.005987543063120938,
+    "title": "Yourbrowsercandoit \u2013 64 file tools, free, no upload, no signup, no tracking",
+    "link": "https://yourbrowsercandoit.com/"
+  },
+  {
+    "phrase": "product market fit",
+    "relevance": 0.0025258761156662004,
+    "title": "Ask HN: How do I capture the right audience and find the product market fit",
+    "link": "https://news.ycombinator.com/item?id=48706419"
+  },
+  {
+    "phrase": "vulnerability harness",
+    "relevance": 0.04940384002065631,
+    "title": "Build your own vulnerability harness",
+    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+  },
+  {
+    "phrase": "STAR",
+    "relevance": 0.030396371632413578,
+    "title": "SmartTAR \u2013 STAR 1.2.2",
+    "link": "https://github.com/eco-by-different/smarttar-star/releases/download/SmartTAR/SmartTAR.1.2.2.exe"
+  },
+  {
+    "phrase": "Pelican playing",
+    "relevance": 0.07796891081290885,
+    "title": "Pelican playing a violin. How to create SVGs with AI",
+    "link": "https://furstenheim.substack.com/p/creating-svgs-with-ai"
+  },
+  {
+    "phrase": "jank Programming Language",
+    "relevance": 0.003995142956050651,
+    "title": "The jank Programming Language [book]",
+    "link": "https://book.jank-lang.org/index.html"
+  },
+  {
+    "phrase": "Passports Leaked Online",
+    "relevance": 0.001881309737406442,
+    "title": "One Million Passports Leaked Online",
+    "link": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html"
+  },
+  {
+    "phrase": "Cjam",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Cjam \u2013 A non-destructive MP3 editor",
+    "link": "https://github.com/cutandjoin/Cjam/releases/tag/v2500"
+  },
+  {
+    "phrase": "Cybercriminals Hire Burglars",
+    "relevance": 0.001881309737406442,
+    "title": "When Cybercriminals Hire Burglars",
+    "link": "https://www.cnn.com/2026/06/27/politics/cybercriminals-hire-burglars-russian-us-law-firms"
+  },
+  {
+    "phrase": "open source tools",
+    "relevance": 0.03339840940482845,
+    "title": "ASK HN: Any suggestions or open source tools that capture the screen",
+    "link": "https://news.ycombinator.com/item?id=48706347"
+  },
+  {
+    "phrase": "simulate NPM vulnerability",
+    "relevance": 0.015042304599106411,
+    "title": "Show HN: DepGuard, Visualize and simulate NPM vulnerability blast radiuses",
+    "link": "https://github.com/EgglezosHub/DepGuard"
+  },
+  {
+    "phrase": "Cate Blanchett",
+    "relevance": 0.023458380875189744,
+    "title": "Cate Blanchett is taking on AI",
+    "link": "https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai"
+  },
+  {
+    "phrase": "runtime budget enforcement",
+    "relevance": 0.016559150827736194,
+    "title": "Show HN: AgentWatch \u2013 Prevent runaway AI agents with runtime budget enforcement",
+    "link": "https://agent-watch.dev/"
+  },
+  {
+    "phrase": "Forwarded Header Sabotage",
+    "relevance": 0.0020632546775457305,
+    "title": "Forwarded Header Sabotage (2022)",
+    "link": "https://adam-p.ca/blog/2022/03/forwarded-header-sabotage/"
+  },
+  {
+    "phrase": "Code Intelligence Setup",
+    "relevance": 0.001881309737406442,
+    "title": "Streamline C++ Code Intelligence Setup in Copilot CLI",
+    "link": "https://devblogs.microsoft.com/cppblog/streamline-c-code-intelligence-setup-in-copilot-cli/"
+  },
+  {
+    "phrase": "hiding Chairman Carr",
+    "relevance": 0.00688415006041516,
+    "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+    "link": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/"
+  },
+  {
+    "phrase": "Radio Telescope",
+    "relevance": 0.007444681613352736,
+    "title": "Kalyazin RT-64 Radio Telescope: Russia's Gateway to the Cosmos",
+    "link": "https://www.thedefensenews.com/Kalyazin-RT-64-Radio-Telescope-Russias-Gateway-to-the-Cosmos/"
+  },
+  {
+    "phrase": "Connecting Zettelkasten",
+    "relevance": 0.007444681613352736,
+    "title": "The Process of Smart Note-Taking: Connecting Zettelkasten, Owning with Plaintext",
+    "link": "https://www.ssp.sh/blog/process-smart-note-taking/"
+  },
+  {
+    "phrase": "Car Companies",
+    "relevance": 0.012602360123953448,
+    "title": "BlackBerry Staged a Comeback by Winning over Car Companies",
+    "link": "https://thewalrus.ca/how-blackberry-staged-a-comeback-by-winning-over-car-companies/"
+  },
+  {
+    "phrase": "macOS app icons",
+    "relevance": 0.003391002286368938,
+    "title": "Free The Icons: Apple should end their prohibition on shapes in macOS app icons",
+    "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/"
+  },
+  {
+    "phrase": "Hours",
+    "relevance": 0.03625524040669144,
+    "title": "I Could Have Built This in 4 Hours (?). I'm Glad I Didn't",
+    "link": "https://www.indiehackers.com/post/i-could-have-built-this-in-4-hours-i-m-glad-i-didn-t-NDpvtFsJ2EcsfYRqpT5W"
+  },
+  {
+    "phrase": "Truth Machine",
+    "relevance": 0.012602360123953448,
+    "title": "The Donk-Ing of a Truth Machine",
+    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html"
+  },
+  {
+    "phrase": "Claude Opus",
+    "relevance": 0.012602360123953448,
+    "title": "How and why I laser-engraved a self-portrait by Claude Opus 4.6",
+    "link": "https://www.lesswrong.com/posts/Xak4zQ4sZtEiHKuqE/how-and-why-i-laser-engraved-a-self-portrait-by-claude-opus"
+  },
+  {
+    "phrase": "Quant Trading Pipeline",
+    "relevance": 0.001881309737406442,
+    "title": "Regent: A Differentiable Graph-Based Quant Trading Pipeline (VQ-VAE and GNNs)",
+    "link": "https://regent-system.netlify.app/"
+  },
+  {
+    "phrase": "South Korea plans",
+    "relevance": 0.007568253837993474,
+    "title": "South Korea plans to train military as \"drone warriors\"",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
+  },
+  {
+    "phrase": "Red Team Found",
+    "relevance": 0.0032173869679631944,
+    "title": "Claude Fable 5: What Our Red Team Found Before the Plug Got Pulled",
+    "link": "https://www.reco.ai/blog/inside-claude-fable-5-red-team-findings"
+  },
+  {
+    "phrase": "family added",
+    "relevance": 0.04940384002065631,
+    "title": "GPT-5.6 family added to codex",
+    "link": "https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3"
+  },
+  {
+    "phrase": "Split-Brain Patients Reveal",
+    "relevance": 0.00688415006041516,
+    "title": "What Split-Brain Patients Reveal About Consciousness",
+    "link": "https://thereader.mitpress.mit.edu/what-split-brain-patients-reveal-about-consciousness/"
+  },
+  {
+    "phrase": "Investment Trends",
+    "relevance": 0.004925103769790319,
+    "title": "YC AI Investment Trends 2026: Where the US AI Market Is Heading",
+    "link": "https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8"
+  },
+  {
+    "phrase": "Hacker Times",
+    "relevance": 0.0032610119837787367,
+    "title": "Show HN: Hacker Times \u2013 HN Reader",
+    "link": "https://times.hntrends.net/"
+  },
+  {
+    "phrase": "longwave radio service",
+    "relevance": 0.016559150827736194,
+    "title": "The BBC shuts down its longwave radio service",
+    "link": "https://www.theverge.com/tech/958721/the-bbc-shuts-down-its-longwave-radio-service"
+  },
+  {
+    "phrase": "role-model",
+    "relevance": 0.04491197687864554,
+    "title": "Show HN: role-model, a router for hybrid local/cloud AI",
+    "link": "https://github.com/try-works/role-model"
+  },
+  {
+    "phrase": "Mathematicians Give Famed",
+    "relevance": 0.0011031048803583578,
+    "title": "After 80 Years, Mathematicians Give Famed 'Erd\u0151s Method' an Upgrade",
+    "link": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/"
+  },
+  {
+    "phrase": "Free Notion alternative",
+    "relevance": 0.001584567062107337,
+    "title": "Show HN: Free Notion alternative because I think Notion is overpriced",
+    "link": "https://dokyo.app/"
+  },
+  {
+    "phrase": "instant LAN file",
+    "relevance": 0.007568253837993474,
+    "title": "Show HN: uvx qrdrop \u2013 instant LAN file sharing from your terminal",
+    "link": "https://github.com/itsloopyo/qrdrop"
+  },
+  {
+    "phrase": "Billion-Dollar Mining Deal",
+    "relevance": 0.006133916749082168,
+    "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
+  },
+  {
+    "phrase": "Mideast Live Updates",
+    "relevance": 0.0020632546775457305,
+    "title": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz"
+  },
+  {
+    "phrase": "Venezuela Live Updates",
+    "relevance": 0.0020632546775457305,
+    "title": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake"
+  },
+  {
+    "phrase": "Flew Small Plane",
+    "relevance": 0.0032173869679631944,
+    "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing\u2019s Tallest Tower",
+    "link": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html"
+  },
+  {
+    "phrase": "Politicizing Quake Relief",
+    "relevance": 0.001881309737406442,
+    "title": "Venezuela Government Accused of Politicizing Quake Relief",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
+  },
+  {
+    "phrase": "Truce in Lebanon",
+    "relevance": 0.004925103769790319,
+    "title": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html"
+  },
+  {
+    "phrase": "Leader Deepens",
+    "relevance": 0.012602360123953448,
+    "title": "Kazakhstan\u2019s Leader Deepens U.S. Ties, Saying Trump Was \u2018Sent by Heaven\u2019",
+    "link": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html"
+  },
+  {
+    "phrase": "Central Europe Begins",
+    "relevance": 0.0011054261521335927,
+    "title": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
+  },
+  {
+    "phrase": "Taking Maternity Leave",
+    "relevance": 0.0042542192213185686,
+    "title": "A Mayor Is Taking Maternity Leave in Japan. Some Men Are Furious.",
+    "link": "https://www.nytimes.com/2026/06/28/world/asia/japan-mayor-maternity-leave.html"
+  },
+  {
+    "phrase": "Dengue Fever Surges",
+    "relevance": 0.0032173869679631944,
+    "title": "Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka",
+    "link": "https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html"
+  },
+  {
     "phrase": "Stop Ebola",
     "relevance": 0.00643573886924208,
     "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren\u2019t Always Welcome.",
     "link": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html"
-  },
-  {
-    "phrase": "Find Quake Survivors",
-    "relevance": 0.001881309737406442,
-    "title": "Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors",
-    "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake"
   },
   {
     "phrase": "Trump Administration",
@@ -18,28 +672,10 @@
     "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html"
   },
   {
-    "phrase": "Mideast Hostilities Flare",
-    "relevance": 0.0011031048803583578,
-    "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
-    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz"
-  },
-  {
-    "phrase": "Social Media Ban",
-    "relevance": 0.0032173869679631944,
-    "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html"
-  },
-  {
     "phrase": "Lead FIFA",
     "relevance": 0.01560470695632768,
     "title": "Once He Wanted to Lead FIFA. This Is Much Better.",
     "link": "https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html"
-  },
-  {
-    "phrase": "Venezuela \u2019s Economy",
-    "relevance": 0.012144316412564459,
-    "title": "Venezuela\u2019s Economy Was On the Rise. Then the Earthquakes Struck.",
-    "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html"
   },
   {
     "phrase": "Israeli Relationship",
@@ -48,46 +684,76 @@
     "link": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
   },
   {
-    "phrase": "Eastern Europe",
+    "phrase": "latest",
+    "relevance": 0.15831692877998726,
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest"
+  },
+  {
+    "phrase": "latest",
+    "relevance": 0.15831692877998726,
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest"
+  },
+  {
+    "phrase": "Frustrated With Machado",
     "relevance": 0.02140921543860024,
-    "title": "Central and Eastern Europe Are Feeling the Heat Now",
-    "link": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html"
+    "title": "U.S. Officials Said to Be Frustrated With Machado\u2019s Call for Help",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html"
   },
   {
-    "phrase": "Myanmar Give Burmese",
-    "relevance": 0.0032173869679631944,
-    "title": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
-    "link": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html"
-  },
-  {
-    "phrase": "Lionel Messi Statue",
-    "relevance": 0.0006487982591412822,
-    "title": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
-    "link": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
-  },
-  {
-    "phrase": "Aiding Drone Attacks",
+    "phrase": "Slowed Rescue Efforts",
     "relevance": 0.001881309737406442,
-    "title": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html"
+    "title": "A Rush of Volunteers in Venezuela Has Slowed Rescue Efforts",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquake-volunteers-traffic.html"
   },
   {
-    "phrase": "Billion Whodunit",
-    "relevance": 0.0032610119837787367,
-    "title": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html"
+    "phrase": "Venezuelan Doctors Searching",
+    "relevance": 0.0032173869679631944,
+    "title": "12 Hours With Venezuelan Doctors Searching for Earthquake Survivors",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html"
   },
   {
-    "phrase": "Small Plane Crashes",
-    "relevance": 0.0035308295728302113,
-    "title": "Small Plane Crashes Into Tallest Building in Beijing",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html"
+    "phrase": "Venezuela battle debris",
+    "relevance": 0.007568253837993473,
+    "title": "Foreign rescuers in Venezuela battle debris, scarcity of supplies and time.",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/foreign-rescuers-in-venezuela-battle-debris-scarcity-of-supplies-and-time"
+  },
+  {
+    "phrase": "Alberta Grizzly Bear",
+    "relevance": 0.001881309737406442,
+    "title": "A Close Call With an Alberta Grizzly Bear, Recorded in Its Entirety",
+    "link": "https://www.nytimes.com/2026/06/27/world/canada/grizzly-bear-alberta-canada-video.html"
+  },
+  {
+    "phrase": "Civilians Volunteers Fill",
+    "relevance": 0.000428304966184317,
+    "title": "In the Ruins of Venezuela\u2019s Earthquake, Civilians Volunteers Fill the Gaps",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-civilians-volunteers-earthquakes.html"
+  },
+  {
+    "phrase": "larger death toll",
+    "relevance": 0.0042542192213185686,
+    "title": "The scale of destruction heralds a larger death toll to come, a top U.N. official says.",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/the-scale-of-destruction-heralds-a-larger-death-toll-to-come-a-top-un-official-says"
   },
   {
     "phrase": "Israel Divides Lebanese",
     "relevance": 0.001881309737406442,
     "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
     "link": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html"
+  },
+  {
+    "phrase": "Eastern Europe",
+    "relevance": 0.02140921543860024,
+    "title": "Central and Eastern Europe Are Feeling the Heat Now",
+    "link": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html"
+  },
+  {
+    "phrase": "Social Media Ban",
+    "relevance": 0.0032173869679631944,
+    "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html"
   },
   {
     "phrase": "latest",
@@ -102,9 +768,9 @@
     "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html"
   },
   {
-    "phrase": "Rubber Boat Lands",
+    "phrase": "South Korea Lands",
     "relevance": 0.0032173869679631944,
-    "title": "Chinese Dissident Who Fled to South Korea by Rubber Boat Lands in Canada",
+    "title": "Chinese Dissident Who Fled by Sea to South Korea Lands in Canada",
     "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
   },
   {
@@ -126,6 +792,18 @@
     "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest"
   },
   {
+    "phrase": "Venezuela \u2019s Economy",
+    "relevance": 0.012144316412564459,
+    "title": "Venezuela\u2019s Economy Was On the Rise. Then the Earthquakes Struck.",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html"
+  },
+  {
+    "phrase": "Lionel Messi Statue",
+    "relevance": 0.0006487982591412822,
+    "title": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
+  },
+  {
     "phrase": "Attack on Ebola",
     "relevance": 0.02140921543860024,
     "title": "An Attack on Ebola\u2019s First Responders",
@@ -136,6 +814,12 @@
     "relevance": 0.000428304966184317,
     "title": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
     "link": "https://www.nytimes.com/2026/06/27/world/africa/world-cup-cape-verde-fans.html"
+  },
+  {
+    "phrase": "Myanmar Give Burmese",
+    "relevance": 0.0032173869679631944,
+    "title": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
+    "link": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html"
   },
   {
     "phrase": "Send Rescue Teams",
@@ -246,94 +930,22 @@
     "link": "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html"
   },
   {
-    "phrase": "German Christmas Market",
-    "relevance": 0.0032173869679631944,
-    "title": "Psychiatrist Who Killed Six at German Christmas Market Is Jailed for Life",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/germany-christmas-market-doctor.html"
-  },
-  {
-    "phrase": "Attacks Spur State",
-    "relevance": 0.0032173869679631944,
-    "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html"
-  },
-  {
-    "phrase": "Strikes Iran",
-    "relevance": 0.004925103769790319,
-    "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
-  },
-  {
-    "phrase": "Ryanair Stops Charging",
-    "relevance": 0.0035308295728302113,
-    "title": "Ryanair Stops Charging for Parents to Sit With Their Children",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html"
-  },
-  {
-    "phrase": "Europe Sweats",
-    "relevance": 0.012602360123953448,
-    "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html"
-  },
-  {
-    "phrase": "Wave Prompts Paris",
-    "relevance": 0.0032173869679631944,
-    "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html"
-  },
-  {
-    "phrase": "Long World Cup",
-    "relevance": 0.0032173869679631944,
-    "title": "Iran\u2019s Long World Cup Journey Defined by War and Political Tension",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html"
-  },
-  {
-    "phrase": "Gulf Forever",
-    "relevance": 0.012602360123953448,
-    "title": "How Three Months of War Changed the Gulf Forever",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html"
-  },
-  {
-    "phrase": "War Oil Shock",
-    "relevance": 0.001881309737406442,
-    "title": "How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html"
-  },
-  {
-    "phrase": "China",
-    "relevance": 0.08596317751626563,
-    "title": "I Was Kicked Out of China",
-    "link": "https://www.nytimes.com/video/world/asia/100000010924036/china-journalist-expulsion.html"
-  },
-  {
-    "phrase": "latest",
-    "relevance": 0.15831692877998726,
-    "title": "Here\u2019s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake/heres-the-latest"
-  },
-  {
-    "phrase": "British Side",
-    "relevance": 0.012602360123953448,
-    "title": "In London, You Can Celebrate America\u2019s 250th Birthday From the British Side",
-    "link": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html"
-  },
-  {
-    "phrase": "World Cups Fans",
-    "relevance": 0.0035308295728302113,
-    "title": "World Cups Fans in Myanmar Boycott Junta-Linked Broadcasts",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/world-cup-myanmar-junta.html"
-  },
-  {
-    "phrase": "Venezuela \u2019s Earthquakes",
-    "relevance": 0.012602360123953448,
-    "title": "The Aftermath of Venezuela\u2019s Earthquakes",
-    "link": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+    "phrase": "rare super puff",
+    "relevance": 0.03339840940482845,
+    "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm"
   },
   {
     "phrase": "black hole tearing",
     "relevance": 0.0042542192213185686,
     "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm"
+  },
+  {
+    "phrase": "turning ocean plastic",
+    "relevance": 0.03339840940482845,
+    "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm"
   },
   {
     "phrase": "UNESCO World Heritage",
@@ -346,6 +958,12 @@
     "relevance": 0.04498862876540802,
     "title": "Earth may have been seeding Venus with life for billions of years",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm"
+  },
+  {
+    "phrase": "triggers belly fat",
+    "relevance": 0.03339840940482845,
+    "title": "Scientists discover what triggers belly fat as we age",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm"
   },
   {
     "phrase": "NASA \u2019s Lucy",
@@ -430,6 +1048,12 @@
     "relevance": 0.0006487982591412822,
     "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
     "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm"
+  },
+  {
+    "phrase": "Yellowstone \u2019s supervolcano",
+    "relevance": 0.04940384002065631,
+    "title": "Yellowstone\u2019s supervolcano may be fueled by something unexpected",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622014317.htm"
   },
   {
     "phrase": "unlock longevity secrets",
@@ -630,6 +1254,12 @@
     "link": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm"
   },
   {
+    "phrase": "rare supernova peeled",
+    "relevance": 0.0016012214736657916,
+    "title": "A rare supernova peeled back a star\u2019s layers and revealed a hidden secret",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260616103133.htm"
+  },
+  {
     "phrase": "explain dark matter",
     "relevance": 0.005849844637586219,
     "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
@@ -658,35 +1288,5 @@
     "relevance": 0.09700399286574239,
     "title": "This strange material can become strong or fall apart in seconds",
     "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
-  },
-  {
-    "phrase": "Scientists just found",
-    "relevance": 0.04940384002065631,
-    "title": "Scientists just found a hidden weakness in forever chemicals",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm"
-  },
-  {
-    "phrase": "explain bird flocks",
-    "relevance": 0.03339840940482845,
-    "title": "Scientists found a way to explain bird flocks that \u201cdefy\u201d Newton\u2019s third law",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm"
-  },
-  {
-    "phrase": "chronic wasting disease",
-    "relevance": 0.016559150827736194,
-    "title": "New study explores potential cross-species spread of chronic wasting disease",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm"
-  },
-  {
-    "phrase": "Scientists",
-    "relevance": 0.15831692877998726,
-    "title": "Scientists say most of what\u2019s in your food is still a mystery",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614012011.htm"
-  },
-  {
-    "phrase": "personal flight paths",
-    "relevance": 0.03339840940482845,
-    "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm"
   }
 ]
