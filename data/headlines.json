@@ -1,18 +1,163 @@
 [
   {
+    "title": "Live Updates: Russia Hammers Ukraine\u2019s Capital in Deadly Attacks",
+    "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=13, tm_min=49, tm_sec=50, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Can the World\u2019s Largest Stadium Explain the Global Economy?",
+    "link": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=4, tm_min=1, tm_sec=9, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "U.S. Says Iran May Swap Ideology For Investment. History Shows Otherwise",
+    "link": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=13, tm_min=8, tm_sec=33, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War\u2019s Outset",
+    "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=53, tm_sec=38, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=13, tm_min=10, tm_sec=34, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death",
+    "link": "https://www.nytimes.com/2026/07/02/world/asia/beijing-skyscraper-crash-pilot.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=13, tm_min=4, tm_sec=56, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "As Far Right Rises, German Leaders Look to Jump-Start the Economy",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=21, tm_sec=6, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Drones Over Europe Raise Concerns About Russian Activities",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=8, tm_min=30, tm_sec=5, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=4, tm_min=1, tm_sec=5, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Imprisoned Chinese Journalist Seeks Medical Parole for Lung Tumor",
+    "link": "https://www.nytimes.com/2026/07/02/world/asia/jailed-chinese-journalist-dong-yuyu-lung-tumor.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=10, tm_min=17, tm_sec=1, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Putin Retaliates With New Strikes After Ukraine Takes the War to Russia",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=17, tm_sec=1, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=10, tm_min=29, tm_sec=25, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "U.S. Resumes Dollar Transfers to Iraq After Monthslong Suspension",
+    "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=4, tm_min=1, tm_sec=11, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
     "title": "Underground Births, Under Bombardment: Childbearing in Ukraine",
     "link": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=12, tm_min=33, tm_sec=26, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
-    "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
-    "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=11, tm_min=50, tm_sec=21, tm_wday=2, tm_yday=182, tm_isdst=0)"
+    "title": "An Aerial View of Disaster at a Venezuela Housing Project",
+    "link": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=13, tm_min=36, tm_sec=21, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "9 Buddhist Monks Killed After Boy Crashes Truck Into Procession",
+    "link": "https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=38, tm_sec=53, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Russia\u2019s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=45, tm_sec=46, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=11, tm_min=47, tm_sec=16, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "For Congo Fans, the Thrill of Victory Was So Close, Until It Wasn\u2019t",
+    "link": "https://www.nytimes.com/2026/07/01/world/africa/congo-england-world-cup-kinshasa.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=10, tm_min=56, tm_sec=24, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+    "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=11, tm_min=48, tm_sec=28, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "\u00bfY Si S\u00ed? The World Cup Delivers Hope to Mexico",
+    "link": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=22, tm_min=8, tm_sec=5, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Ukraine Takes the War to Russia",
+    "link": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=6, tm_min=6, tm_sec=14, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Sea Hawk Helicopter Makes Emergency Landing in Arabian Sea, Navy Says",
+    "link": "https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=19, tm_min=23, tm_sec=55, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=21, tm_min=16, tm_sec=52, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
+    "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=12, tm_min=12, tm_sec=4, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Bombings in Greece Target Governing Party Members, Officials Say",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=17, tm_min=44, tm_sec=52, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=21, tm_min=57, tm_sec=47, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
     "link": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=13, tm_min=53, tm_sec=3, tm_wday=2, tm_yday=182, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=17, tm_min=20, tm_sec=8, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "4 People Die During World Cup Celebrations in Mexico City",
+    "link": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=21, tm_min=47, tm_sec=23, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
+    "link": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=4, tm_min=44, tm_sec=5, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "Bosnia and Herzegovina: What to Know at It Faces the US",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/bosnia-and-herzegovina-name-world-cup.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=0, tm_min=27, tm_sec=46, tm_wday=3, tm_yday=183, tm_isdst=0)"
+  },
+  {
+    "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+    "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=18, tm_min=24, tm_sec=13, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "A Risky Burial in the Heart of an Ebola Outbreak",
@@ -20,74 +165,24 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=1, tm_sec=58, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
-    "title": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
-    "link": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=14, tm_min=1, tm_sec=43, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
-    "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
-    "link": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=42, tm_sec=46, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
     "title": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
     "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=1, tm_sec=16, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
-    "title": "The Two Mexico Cities Fighting for Claim Over Soccer\u2019s Origin",
-    "link": "https://www.nytimes.com/2026/06/30/world/americas/world-cup-mexico-soccer.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=21, tm_min=34, tm_sec=12, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "Archaeologists Find Ruins of Maya Monuments Off the Beaten Path. Way Off.",
-    "link": "https://www.nytimes.com/2026/07/01/world/americas/maya-ruins-minanbe-mexico.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=14, tm_min=25, tm_sec=21, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
-    "title": "Trump Officials Sideline Machado, Venezuela\u2019s Opposition Leader, Over Earthquake Response",
-    "link": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=11, tm_min=41, tm_sec=0, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
-    "title": "The Prom Went On in Kyiv, but Masha\u2019s Date Danced Alone",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=20, tm_min=50, tm_sec=39, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=19, tm_min=33, tm_sec=24, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=21, tm_min=1, tm_sec=49, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "Australian Man Charged With Homicide After Thai Teen\u2019s Body Found in Suitcase",
-    "link": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=8, tm_min=49, tm_sec=27, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "3 People Die During World Cup Celebrations in Mexico City",
-    "link": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=10, tm_min=0, tm_sec=1, tm_wday=2, tm_yday=182, tm_isdst=0)"
-  },
-  {
-    "title": "Unfamiliar With Bosnia and Herzegovina? What to Know Before It Faces the U.S.",
-    "link": "https://www.nytimes.com/2026/07/01/world/europe/bosnia-and-herzegovina-name-world-cup.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=3, tm_sec=54, tm_wday=2, tm_yday=182, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=21, tm_min=0, tm_sec=42, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "Why Are So Many Cubans Migrating to Guyana?",
     "link": "https://www.nytimes.com/video/world/americas/100000010968903/cuba-guyana-immigrants.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=43, tm_sec=36, tm_wday=2, tm_yday=182, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=20, tm_min=14, tm_sec=10, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "Turkey as a Tango Destination? A Reporter Was Living That Story.",
     "link": "https://www.nytimes.com/2026/07/01/world/middleeast/turkey-as-a-tango-destination-a-reporter-was-living-that-story.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=7, tm_min=0, tm_sec=9, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Archaeologists Find Ruins of Maya Monuments Off the Beaten Path. Way Off.",
+    "link": "https://www.nytimes.com/2026/07/01/world/americas/maya-ruins-minanbe-mexico.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=17, tm_min=53, tm_sec=22, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "Driver Is Reported Dead Days After Plowing Into World Cup Fans in Mexico",
@@ -102,7 +197,12 @@
   {
     "title": "Aid Workers in Venezuela Fear Disease Outbreaks After Twin Quakes",
     "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=22, tm_min=1, tm_sec=16, tm_wday=1, tm_yday=181, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=22, tm_min=1, tm_sec=17, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
+    "title": "Trump Officials Sideline Machado, Venezuela\u2019s Opposition Leader, Over Earthquake Response",
+    "link": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=11, tm_min=41, tm_sec=0, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "China\u2019s Plan to Save Jobs From A.I.",
@@ -110,14 +210,29 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=4, tm_min=42, tm_sec=12, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
+    "title": "The Two Mexico Cities Fighting for Claim Over Soccer\u2019s Origin",
+    "link": "https://www.nytimes.com/2026/06/30/world/americas/world-cup-mexico-soccer.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=21, tm_min=34, tm_sec=12, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
     "title": "Venezuela\u2019s Maduro Accused in Lawsuit of Authorizing Police Killings",
     "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-maduro-killings-lawsuit.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=5, tm_min=7, tm_sec=34, tm_wday=2, tm_yday=182, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=5, tm_min=7, tm_sec=35, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=21, tm_min=1, tm_sec=50, tm_wday=1, tm_yday=181, tm_isdst=0)"
   },
   {
     "title": "Shortages of Rescue Equipment Hampered Venezuela\u2019s Earthquake Response",
     "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=19, tm_min=58, tm_sec=35, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
+    "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=19, tm_min=33, tm_sec=24, tm_wday=1, tm_yday=181, tm_isdst=0)"
   },
   {
     "title": "The 1968 Pact on Shipping Routes in the Strait of Hormuz That Iran Is Rejecting",
@@ -150,6 +265,16 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=14, tm_min=11, tm_sec=2, tm_wday=1, tm_yday=181, tm_isdst=0)"
   },
   {
+    "title": "The Prom Went On in Kyiv, but Masha\u2019s Date Danced Alone",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=20, tm_min=50, tm_sec=39, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
+    "title": "Australian Man Charged With Homicide After Thai Teen\u2019s Body Found in Suitcase",
+    "link": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=8, tm_min=49, tm_sec=27, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
     "title": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
     "link": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=16, tm_min=6, tm_sec=13, tm_wday=1, tm_yday=181, tm_isdst=0)"
@@ -162,112 +287,12 @@
   {
     "title": "Norway\u2019s \u2018Viking Row\u2019 Is a Fan Phenomenon at the World Cup",
     "link": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=7, tm_min=20, tm_sec=21, tm_wday=1, tm_yday=181, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=14, tm_min=45, tm_sec=54, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
-    "title": "In Peru\u2019s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
-    "link": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=21, tm_min=45, tm_sec=23, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "What the U.S. Owes Venezuela",
-    "link": "https://www.nytimes.com/2026/06/29/world/venezuela-earthquake-trump-aid.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=4, tm_min=44, tm_sec=50, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
-    "link": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=22, tm_min=32, tm_sec=53, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
-    "link": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=22, tm_min=5, tm_sec=56, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Wimbledon Is One Place That Won\u2019t Screen England in the World Cup",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/wimbledon-world-cup.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=17, tm_min=41, tm_sec=13, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "At Funerals, Venezuela\u2019s Wounded Families and Friends Unite in Grief",
-    "link": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=18, tm_min=38, tm_sec=22, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Scale of Venezuela Earthquakes Death Toll Could Take Weeks to Emerge",
-    "link": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=18, tm_min=33, tm_sec=57, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Les Mills, Olympian Who Founded Fitness Chain, Dies at 91",
-    "link": "https://www.nytimes.com/2026/06/29/world/les-mills-dead.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=19, tm_min=54, tm_sec=27, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "6 Are Killed During a Rare Mass Shooting in Germany",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=2, tm_min=13, tm_sec=59, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Promises Shift of Power Out of London",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=23, tm_min=8, tm_sec=47, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=20, tm_min=6, tm_sec=46, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Here\u2019s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/29/world/venezuela-earthquake-news/heres-the-latest",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=19, tm_min=10, tm_sec=6, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
-    "link": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=17, tm_min=47, tm_sec=43, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "Here\u2019s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes/heres-the-latest",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=0, tm_min=46, tm_sec=39, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "Whatever You Do in Russia, Don\u2019t Talk About the War",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=20, tm_min=2, tm_sec=14, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "For These Teens in Mexico, Soccer Is Life. Now, the Cartels Want In.",
-    "link": "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=22, tm_min=58, tm_sec=36, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "How Cartel Violence Is Infiltrating Local Soccer",
-    "link": "https://www.nytimes.com/video/world/americas/100000010906890/how-cartel-violence-is-infiltrating-local-soccer.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=13, tm_min=8, tm_sec=47, tm_wday=1, tm_yday=181, tm_isdst=0)"
-  },
-  {
-    "title": "In Japan\u2019s \u2018Little Brazil,\u2019 a World Cup Showdown Tests Loyalties",
-    "link": "https://www.nytimes.com/2026/06/29/world/asia/japan-brazil-world-cup-fans.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=8, tm_min=57, tm_sec=17, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=28, tm_hour=21, tm_min=56, tm_sec=2, tm_wday=6, tm_yday=179, tm_isdst=0)"
-  },
-  {
-    "title": "Europe\u2019s Heat Politics",
-    "link": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=4, tm_min=58, tm_sec=54, tm_wday=0, tm_yday=180, tm_isdst=0)"
-  },
-  {
-    "title": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=9, tm_min=21, tm_sec=6, tm_wday=0, tm_yday=180, tm_isdst=0)"
+    "title": "Scientists discover a completely different way to fight viruses",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=20, tm_min=18, tm_sec=0, tm_wday=1, tm_yday=181, tm_isdst=0)"
   },
   {
     "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
@@ -290,14 +315,29 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=27, tm_hour=1, tm_min=9, tm_sec=31, tm_wday=5, tm_yday=178, tm_isdst=0)"
   },
   {
+    "title": "Scientists discover a surprising link between vitamin C and brain health",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=5, tm_min=22, tm_sec=38, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
     "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=26, tm_hour=1, tm_min=5, tm_sec=3, tm_wday=4, tm_yday=177, tm_isdst=0)"
   },
   {
+    "title": "Melanoma's secret to cheating death has finally been revealed",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=2, tm_min=45, tm_sec=39, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
     "title": "Hawaii is turning ocean plastic and fishing nets into roads",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=28, tm_hour=6, tm_min=53, tm_sec=54, tm_wday=6, tm_yday=179, tm_isdst=0)"
+  },
+  {
+    "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=7, tm_min=24, tm_sec=56, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -378,6 +418,11 @@
     "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
     "link": "https://www.sciencedaily.com/releases/2026/06/260623014009.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=28, tm_hour=18, tm_min=15, tm_sec=53, tm_wday=6, tm_yday=179, tm_isdst=0)"
+  },
+  {
+    "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=19, tm_min=10, tm_sec=6, tm_wday=2, tm_yday=182, tm_isdst=0)"
   },
   {
     "title": "This newly discovered ballista spider catapults ants into a deadly trap",
@@ -475,6 +520,21 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=26, tm_hour=7, tm_min=3, tm_sec=43, tm_wday=4, tm_yday=177, tm_isdst=0)"
   },
   {
+    "title": "Simple water trick slashes diesel engine pollution by over 60%",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=9, tm_min=2, tm_sec=29, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260621031409.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=20, tm_min=13, tm_sec=44, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
+    "title": "Teeth smaller than a fingertip reveal our first primate ancestor",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260621031238.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=22, tm_min=55, tm_sec=58, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
     "title": "One of the world\u2019s most popular weedkillers may be fueling deadly superbugs",
     "link": "https://www.sciencedaily.com/releases/2026/06/260620100434.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=23, tm_hour=11, tm_min=31, tm_sec=51, tm_wday=1, tm_yday=174, tm_isdst=0)"
@@ -500,6 +560,11 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=23, tm_hour=14, tm_min=31, tm_sec=51, tm_wday=1, tm_yday=174, tm_isdst=0)"
   },
   {
+    "title": "One injection reversed osteoarthritis in weeks",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619101356.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=30, tm_hour=19, tm_min=40, tm_sec=21, tm_wday=1, tm_yday=181, tm_isdst=0)"
+  },
+  {
     "title": "This DNA repair gene went rogue and exposed a cancer weakness",
     "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=20, tm_hour=12, tm_min=27, tm_sec=35, tm_wday=5, tm_yday=171, tm_isdst=0)"
@@ -510,6 +575,11 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=23, tm_hour=5, tm_min=9, tm_sec=22, tm_wday=1, tm_yday=174, tm_isdst=0)"
   },
   {
+    "title": "The Milky Way\u2019s weird gamma-ray glow may be dark matter after all",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619101334.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=1, tm_hour=3, tm_min=13, tm_sec=34, tm_wday=2, tm_yday=182, tm_isdst=0)"
+  },
+  {
     "title": "Physicists create a strange new quantum state called a fractional fermi sea",
     "link": "https://www.sciencedaily.com/releases/2026/06/260619101330.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=29, tm_hour=5, tm_min=29, tm_sec=51, tm_wday=0, tm_yday=180, tm_isdst=0)"
@@ -518,55 +588,5 @@
     "title": "The secret language behind animal cooperation",
     "link": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=20, tm_hour=5, tm_min=23, tm_sec=46, tm_wday=5, tm_yday=171, tm_isdst=0)"
-  },
-  {
-    "title": "Researchers discover new beetle species hiding just steps from their lab",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020519.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=6, tm_min=5, tm_sec=19, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "Einstein\u2019s \u201cbiggest blunder\u201d may finally have an explanation",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=9, tm_min=43, tm_sec=7, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "New brain study reveals speech learning works differently than we thought",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=23, tm_hour=12, tm_min=6, tm_sec=13, tm_wday=1, tm_yday=174, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=13, tm_min=21, tm_sec=45, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "Researchers found a Wordle strategy that wins 99% of the time",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=12, tm_min=50, tm_sec=45, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists reprogram brain immune cells to fight Alzheimer\u2019s",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=11, tm_min=47, tm_sec=55, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists discover how a single cell builds a brain with 170 billion cells",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260618041524.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=25, tm_hour=13, tm_min=46, tm_sec=31, tm_wday=3, tm_yday=176, tm_isdst=0)"
-  },
-  {
-    "title": "Major errors found in Al Gore-founded Climate TRACE database",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=18, tm_hour=8, tm_min=15, tm_sec=19, tm_wday=3, tm_yday=169, tm_isdst=0)"
-  },
-  {
-    "title": "DNA time stamps reveal the strawberry\u2019s surprising origins",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=19, tm_hour=5, tm_min=27, tm_sec=46, tm_wday=4, tm_yday=170, tm_isdst=0)"
-  },
-  {
-    "title": "Think human anatomy is finished? Scientists say think again",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260618041511.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=21, tm_hour=7, tm_min=26, tm_sec=53, tm_wday=6, tm_yday=172, tm_isdst=0)"
   }
 ]
