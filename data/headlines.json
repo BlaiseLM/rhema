@@ -1,73 +1,638 @@
 [
   {
+    "title": "GitHub Has Restricted Access to Star Data",
+    "link": "https://www.star-history.com/blog/github-stargazer-api-restriction/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=32, tm_sec=13, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Revector \u2013 Alembic-style schema migrations for Qdrant",
+    "link": "https://github.com/diegoglozano/revector",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=32, tm_sec=9, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Hnsubstacks \u2013 Hacker News, but it's only Substacks",
+    "link": "https://hnsubstacks.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=31, tm_sec=25, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Mozilla's Otari: The Open Source LLM Control Plane",
+    "link": "https://www.mozilla.ai/product/otari",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=30, tm_sec=3, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "I ran the official MCP conformance suite against a real server",
+    "link": "https://www.barefootdigital.dev/blog/what-the-official-mcp-conformance-suite-actually-tells-you-and-what-it-hides",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=29, tm_sec=44, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+    "link": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=26, tm_sec=16, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Pqc-scan: scan your codebase for quantum-vulnerable cryptography",
+    "link": "https://github.com/sachhg/pqc-scan",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=24, tm_sec=17, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "United Airlines Loses Bid to Dismiss Lawsuit over 'Windowless' Window Seats",
+    "link": "https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=23, tm_sec=31, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+    "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=23, tm_sec=26, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "link": "https://fightchatcontrol.eu/chat-control-overview",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=23, tm_sec=15, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Rising Floor, Runaway Ceiling",
+    "link": "https://juanloco.dev/posts/rising-floor-runaway-ceiling/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=22, tm_sec=33, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "UK Train Platform Finder",
+    "link": "https://www.whatplatform.co.uk",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=22, tm_sec=21, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Researchers Reveal the Power of 'Quantum Proofs'",
+    "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=20, tm_sec=57, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Repurposing crypto mining hardware as a budget Linux gaming PC",
+    "link": "https://bc250.info/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=20, tm_sec=1, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage",
+    "link": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=19, tm_sec=34, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "ArcadeDB Cloud Observability: OpenTelemetry Tracing, Structured Logging, K8s",
+    "link": "https://arcadedb.com/blog/arcadedb-cloud-observability-opentelemetry-kubernetes/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=19, tm_sec=33, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "DRAM prices are killing the cheap smartphone",
+    "link": "https://www.theregister.com/personal-tech/2026/07/07/dram-prices-are-killing-the-cheap-smartphone/5267643",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=18, tm_sec=22, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Bees 'facial expressions' may be a sign of their inner live",
+    "link": "https://theconversation.com/bees-facial-expressions-may-be-a-sign-of-their-inner-lives-286839",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=17, tm_sec=58, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: I scratched my own itch by solving a niche Basecamp problem",
+    "link": "https://feedhammer.com",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=17, tm_sec=51, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Build an AI Audiobook Narrator with Telnyx AI Inference, TTS, and Cloud Storage",
+    "link": "https://lowlatencyclub.ai/blog/posts/ai-audiobook-narrator-python",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=17, tm_sec=18, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Hines v. Stamos, Dismissed in Full",
+    "link": "https://reneediresta.substack.com/p/hines-v-stamos-dismissed-in-full",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=15, tm_sec=14, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Trump's Art of the Self-Deal",
+    "link": "https://www.thefp.com/p/trump-finance-crypto-corruption",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=15, tm_sec=3, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Distributed System Is Slower Than a Laptop",
+    "link": "https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=14, tm_sec=36, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "AI Data Centers' Hidden Water Use Alarms Korea",
+    "link": "https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=14, tm_sec=29, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Deckloud, a native Apple client for Nextcloud Deck",
+    "link": "https://deckloud.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=11, tm_sec=33, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: WritingLint \u2013 a prose linter with rules over a dependency graph",
+    "link": "https://news.ycombinator.com/item?id=48818157",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=11, tm_sec=20, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "AI Content and the Social Contract",
+    "link": "https://www.jeromehollon.com/projects/ai-writing-social-contract/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=10, tm_sec=56, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Pragmatic Edition Distance",
+    "link": "https://thedarkside.frantzmiccoli.com/tricks/2026/07/06/pragmatic-edition-distance.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=9, tm_sec=59, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Open source OCR with vision language models: High throughput and low cost",
+    "link": "https://blueguardrails.com/en/blog/high-throughput-vlm-ocr",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=9, tm_sec=53, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Largest study yet reveals which cancers have their own microbiomes",
+    "link": "https://theconversation.com/largest-study-yet-reveals-which-cancers-have-their-own-microbiomes-286338",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=9, tm_sec=24, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Shellular \u2013 run Claude Code, Codex, Pi from your phone",
+    "link": "https://shellular.dev/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=8, tm_sec=58, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Legacy M Hamed Libari form Morocco",
+    "link": "https://cl40world.substack.com/p/chico-loco-40-breaks-silence-on-father",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=7, tm_sec=54, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How feminism has made me a better scientist (2018)",
+    "link": "https://statmodeling.stat.columbia.edu/2018/08/13/feminism-made-better-scientist/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=7, tm_sec=43, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How long can humans live? All evidence points to a maximum of 125 years",
+    "link": "https://www.nature.com/articles/d41586-026-02111-5",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=6, tm_sec=44, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Before the Bad Write",
+    "link": "https://explainanalyze.com/p/before-the-bad-write/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=5, tm_sec=54, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Decision kill-switch: instantly reveals what evidence falsifies your decision",
+    "link": "https://decisionkswitch.netlify.app/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=3, tm_sec=32, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "The Block Size War (2015-2017)",
+    "link": "https://www.learnbitcoin.com/rabbit-hole/block-size-war",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=38, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How US states and international trustbusters can beat Big Tech",
+    "link": "https://pluralistic.net/2026/07/07/going-global/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=34, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: New Search MCP Using Cloudflare AI Search",
+    "link": "https://github.com/skyphusion-labs/search-mcp",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=27, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Fable's Judgement",
+    "link": "https://simonwillison.net/2026/Jul/3/judgement/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=27, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "My AI Agents Were Working, but I Had No Visibility",
+    "link": "https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=4, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "I replaced Google with this self-hosted search aggregator",
+    "link": "https://www.xda-developers.com/replaced-google-with-self-hosted-search-aggregator-never-going-back/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=59, tm_sec=56, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+    "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=59, tm_sec=0, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Notes from My First Product DS Mock Interview",
+    "link": "https://clairetsao.substack.com/p/notes-from-my-first-product-ds-mock",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=58, tm_sec=50, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Music Guesses is live on the PlayStore",
+    "link": "https://play.google.com/store/apps/details?id=com.raimonvibe.musicguesses&hl=en_US",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=58, tm_sec=50, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "People Keep Sneaking into an Empty IBM Campus. This Town Has Had Enough",
+    "link": "https://www.wsj.com/us-news/ibm-campus-explorers-somers-new-york-e3dfe489",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=58, tm_sec=46, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Automattic's CMS empire shows cracks as WordPress share falls",
+    "link": "https://www.theregister.com/saas/2026/06/03/automattics-cms-empire-shows-cracks-as-wordpress-share-falls/5250420",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=57, tm_sec=55, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Tencent Releases Hy3 295B parameter open weight model",
+    "link": "https://huggingface.co/tencent/Hy3",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=57, tm_sec=12, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Marketers Have Until July 14 to Comply with New Email Tracking Pixels CNIL Rules",
+    "link": "https://myemailtools.com/cnil-email-tracking-pixels-rules/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=56, tm_sec=11, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Rewire Text \u2013 system-wide text transforms with BYOK and local-models",
+    "link": "https://sunsetmesasoftware.com/rewire-text/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=55, tm_sec=44, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Patterns with Friends \u2013 free multiplayer tile game (no sign-up, no ads)",
+    "link": "https://patternswithfriends.com",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=55, tm_sec=28, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "The Pope and the Cambridge astrophysicist who speak with one tongue",
+    "link": "https://www.cambridgeindependent.co.uk/news/the-pope-and-the-cambridge-astrophysicist-who-speak-with-one-9471681/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=55, tm_sec=21, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
+    "link": "https://francescomoramarco.com/banana-test/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=54, tm_sec=57, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Are Stablecoins Money?",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=54, tm_sec=47, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "The dot Claude Attack Surface",
+    "link": "https://www.olafalders.com/2026/07/06/the-dot-claude-attack-surface/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=54, tm_sec=24, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Chinese Lidar maker with Nvidia ties accused of being cyber risk for U.S.",
+    "link": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=53, tm_sec=6, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Real World and simulation data for robots",
+    "link": "https://kintic.dev",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=53, tm_sec=4, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Building My Own Public HTML Library for Async Learning",
+    "link": "https://armoredmeatball.substack.com/p/building-my-own-public-html-library",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=51, tm_sec=37, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Claude's Plan",
+    "link": "https://open.spotify.com/track/5yVJK9JFXO3625zUfOLNWr",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=50, tm_sec=59, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Stream the Universe from Your Laptop",
+    "link": "https://asciinema.org/a/1259218",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=49, tm_sec=44, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Chinese spacecraft Tianwen-2 beams back first image of Earth's \"mini moon\"",
+    "link": "https://www.scientificamerican.com/article/chinese-spacecraft-tianwen-2-beams-back-first-image-of-earths-mini-moon/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=47, tm_sec=55, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "The Usefulness of Knots",
+    "link": "https://luke.hsiao.dev/blog/knots/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=47, tm_sec=26, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Straighten cables. How to remove the kinks in your cables [video]",
+    "link": "https://www.youtube.com/watch?v=YTmLQ9q1m50",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=47, tm_sec=17, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Understanding Is the New Bottleneck",
+    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=45, tm_sec=9, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "PostHog's Website Mimics an OS",
+    "link": "https://posthog.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=44, tm_sec=23, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Zombie 'who owns Unix?' lawsuit comes alive again",
+    "link": "https://www.theregister.com/os-platforms/2026/07/06/zombie-who-owns-unix-lawsuit-comes-alive-again/5266761",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=43, tm_sec=8, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: ssh krnl.duetbrowser.com - a TUI browser with its own layout engine",
+    "link": "https://news.ycombinator.com/item?id=48817738",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=42, tm_sec=38, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Full FreeCAD in the browser (+all Fable prompts)",
+    "link": "https://magik.net/freecad/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=42, tm_sec=10, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Savva \u2013 Health Superapp powered by on-device AI",
+    "link": "https://www.savva.ai",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=41, tm_sec=48, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How to write good prompts: using spaced repetition to create understanding",
+    "link": "https://andymatuschak.org/prompts/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=41, tm_sec=8, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "The AI UGC ad math: $2 a video, and the bill nobody prices in",
+    "link": "https://okaneland.com/study/ai-ugc-ad-economics/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=40, tm_sec=7, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Jacobian-lens \u2013 Companion code for the global workspace interpretability paper",
+    "link": "https://github.com/anthropics/jacobian-lens",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=38, tm_sec=54, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Mild Cardiac Issues Trigger Long-Term Memory Loss",
+    "link": "https://neurosciencenews.com/heart-dysfunction-microscopic-brain-decay-30995/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=37, tm_sec=30, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Four US states are seeking $1.4T in penalties in August youth safety trial",
+    "link": "https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=37, tm_sec=5, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Blue Earth Bathymetry 2.0",
+    "link": "http://www.shadedrelief.com/blue-earth-2/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=35, tm_sec=44, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Time Series of India \u2013 explorable stories from official payment data",
+    "link": "https://timeseriesofindia.com/economy/beats/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=34, tm_sec=2, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "You shouldn't trust Trusted Publishing",
+    "link": "https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=33, tm_sec=47, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "AI Still Can't Get Mario's Mustache Right",
+    "link": "https://mustache-perfect.vercel.app/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=32, tm_sec=40, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "An iroh powered smart fan",
+    "link": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=30, tm_sec=17, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: TrustAI \u2013 Suggests and executes automations in bg",
+    "link": "https://auto.trytrust.ai/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=30, tm_sec=10, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Setting Up OpenClaw with 100M free tokens via Dahl Global",
+    "link": "https://medium.com/@bozicjmasonu4kwfy/a-practical-openclaw-provider-setup-with-dahl-and-gonka-models-aa83be0278eb",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=28, tm_sec=30, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
+    "link": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=28, tm_sec=25, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Ask HN: How do I find startups hiring developers for low pay and equity?",
+    "link": "https://news.ycombinator.com/item?id=48817479",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=26, tm_sec=1, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "EU Cloud Service Providers List",
+    "link": "https://www.eucloud.tech/en/eu-providers",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=24, tm_sec=41, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Observability Design for the AI Era \u2013 App, Infra, CI, LLM (Part 1)",
+    "link": "https://ryantsuji.dev/posts/ai-observability-design",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=24, tm_sec=3, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How to Ask Good Coding Questions That Get Great Answers (2016)",
+    "link": "https://zellwk.com/blog/asking-questions/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=23, tm_sec=40, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Bastion \u2013 self-hosted VMs for background coding agents",
+    "link": "https://github.com/bastion-computer/bastion",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=22, tm_sec=12, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "ACM ByteCast Episode 2 Donald Knuth",
+    "link": "https://learning.acm.org/bytecast/ep2-donald-knuth",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=21, tm_sec=49, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Get less visible and more European",
+    "link": "https://bankosegger.me/blog/get-less-visible/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=20, tm_sec=36, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Managing Development Secrets on a Mac",
+    "link": "https://www.yurikoval.com/blog/managing-development-secrets-on-a-mac.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=20, tm_sec=4, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "China's DeepSeek developing its own AI chip, sources say",
+    "link": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=19, tm_sec=56, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Long Lost Summers",
+    "link": "https://olly.world/long-lost-summers",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=19, tm_sec=48, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Query Faster, Query Smarter: Our Move to DuckDB and What We Learned",
+    "link": "https://medium.com/arcesium-engineering-blog/query-faster-query-smarter-our-move-to-duckdb-and-what-we-learned-c935128e80bc",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=18, tm_sec=16, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: Rememori zero-dependency agent memory that runs anywhere JS runs",
+    "link": "https://rememori.dev",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=16, tm_sec=31, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Use the alphabet: human-friendly geocoding, unlike what3words",
+    "link": "https://ssrn.com/abstract=6879364",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=16, tm_sec=26, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "PDF 2.0: New Features, Real-World Impact",
+    "link": "https://pdfa.org/pdf-2-0-new-features-real-world-impact/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=16, tm_sec=8, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "SMS for Hobbyist Projects",
+    "link": "https://payne.org/projects/sms-for-hobbyists/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=14, tm_sec=36, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Show HN: DocFlow \u2013 AI documentation updates for GitHub pull requests",
+    "link": "https://aicodedocumentationgenerator.com/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=12, tm_sec=56, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Fediverse.info: Social media that belongs to you",
+    "link": "https://fediverse.info/",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=10, tm_sec=19, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "CorvinOS \u2013 an agentic OS where GDPR/EU AI Act compliance can't be switched off",
+    "link": "https://github.com/CorvinLabs/CorvinOS",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=7, tm_sec=50, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "In NATO\u2019s Next Act, Can Europe Lead?",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=12, tm_min=37, tm_sec=26, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Ayatollah Ali Khamenei, Iran\u2019s Slain Leader, Is Mourned in Qom",
+    "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=32, tm_sec=27, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+    "link": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=24, tm_sec=23, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Estonia Won the War on Fentanyl. What Came Next Was Even Worse.",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=11, tm_min=58, tm_sec=1, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=12, tm_min=18, tm_sec=33, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Court Upholds Marine Le Pen\u2019s Conviction, but Leaves Path to Presidency",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=12, tm_min=20, tm_sec=12, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=11, tm_sec=57, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "How a Four-Generation Cuban Family Survives on $60 a Month",
+    "link": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=9, tm_min=12, tm_sec=4, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Belgium\u2019s World Cup Win Over U.S. Fuels Triumph and Snark in Europe",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/belgium-us-world-cup-balogun-trump.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=11, tm_min=9, tm_sec=31, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "NATO Allies Will Try to Show Trump They Are Paying Up for Defense",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=12, tm_min=16, tm_sec=8, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Why China Fired a Long-Range Missile Into the Pacific",
+    "link": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=12, tm_min=59, tm_sec=28, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "As Messi Dominates the World Cup, a War Is Waged Over Maradona\u2019s Image",
+    "link": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=9, tm_min=0, tm_sec=14, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
+    "link": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=2, tm_sec=7, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
+    "link": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=48, tm_sec=41, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Farage Says He Will Resign From UK\u2019s Parliament, Setting Off a By-Election",
+    "link": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk/nigel-farage-reform-uk",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=13, tm_min=39, tm_sec=19, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Mysterious Spheres Found in Australia Are Likely Space Debris",
+    "link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=9, tm_min=2, tm_sec=15, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "South Korea Strengthens Law to Curb Spread of Fake News",
+    "link": "https://www.nytimes.com/2026/07/07/world/asia/south-korea-law-fake-news.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=10, tm_min=21, tm_sec=27, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow",
+    "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=14, tm_min=0, tm_sec=16, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "At Least 15 Dead in China After Severe Flooding During Typhoon Maysak",
+    "link": "https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=7, tm_min=55, tm_sec=6, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Trump Wanted a U.S. Soccer Star to Play in the World Cup. FIFA Found a Way.",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=7, tm_min=33, tm_sec=41, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Spate of Shark Attacks Means More Drones for Australia\u2019s Beaches",
+    "link": "https://www.nytimes.com/2026/07/06/world/australia/spate-of-shark-attacks-means-more-drones-for-australias-beaches.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=23, tm_min=5, tm_sec=48, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "NATO Needs Turkey",
+    "link": "https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=4, tm_min=34, tm_sec=7, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Canada Bets on NATO Partners for Its Expanded Submarine Fleet",
+    "link": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=21, tm_min=48, tm_sec=59, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Iranians Mourn a Slain Leader, and Call for Vengeance",
+    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=19, tm_min=45, tm_sec=17, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Will Prince Harry\u2019s UK Visit Repair or Deepen the Royal Rift?",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/prince-harry-uk-meghan-king-charles.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=19, tm_min=31, tm_sec=44, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Heat Waves Are Taking a Big Toll on Chickens",
+    "link": "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=10, tm_min=33, tm_sec=47, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
     "title": "Turkey Hosts NATO Summit While Cracking Down on Critics",
     "link": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=15, tm_min=25, tm_sec=39, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
-    "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=18, tm_sec=4, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid",
-    "link": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=25, tm_sec=13, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-    "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=26, tm_sec=19, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
-    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=12, tm_sec=7, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/nato-turkey-erdogan-trump-hakan-fidan.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=1, tm_sec=27, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Riot in Sri Lanka\u2019s Negombo prison leaves at least 23 dead",
-    "link": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=29, tm_sec=59, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=31, tm_sec=19, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Ukraine Remade Air Defense, but Russia Has Changed Its Attacks",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=38, tm_sec=51, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "Sites That Report Venezuela\u2019s Missing Rise Far From Quake Zone",
-    "link": "https://www.nytimes.com/2026/07/06/world/americas/venezuela-earthquake-missing.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=9, tm_sec=12, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "The Funeral of Iran\u2019s Supreme Leader Ayatollah Ali Khamenei",
-    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=48, tm_sec=35, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
-    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=1, tm_sec=44, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "NATO Leaders Are Meeting This Week. Here\u2019s What to Know.",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/nato-leaders-are-meeting-this-week-heres-what-to-know.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=2, tm_sec=8, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "The World Cup Gave Mexicans a Fantasy They Won\u2019t Soon Forget",
-    "link": "https://www.nytimes.com/2026/07/06/world/americas/world-cup-mexico-city.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=7, tm_min=26, tm_sec=5, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=18, tm_min=58, tm_sec=48, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "At Khamenei\u2019s funeral, mourners call for revenge.",
@@ -77,17 +642,27 @@
   {
     "title": "Families of Iranians Killed by Government Dismayed by Leader\u2019s Funeral Pageantry",
     "link": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-dissidents-funeral-anger.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=15, tm_min=21, tm_sec=9, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=15, tm_min=21, tm_sec=10, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Iran to Bury Ayatollah Ali Khamenei in Holy City of Mashhad",
     "link": "https://www.nytimes.com/2026/07/06/world/middleeast/mashhad-iran-khamenei-buried.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=47, tm_sec=37, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=18, tm_min=41, tm_sec=26, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Riot in Sri Lanka\u2019s Negombo prison leaves at least 23 dead",
+    "link": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=20, tm_min=17, tm_sec=4, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Wildfires Force Evacuation of Thousands in Southwest France",
     "link": "https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=13, tm_sec=53, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=20, tm_min=19, tm_sec=53, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
+    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=12, tm_sec=7, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Khamenei\u2019s Burial Was Delayed, Breaking With Islamic Custom",
@@ -95,9 +670,19 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=35, tm_sec=22, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
+    "title": "Sites That Report Venezuela\u2019s Missing Rise Far From Quake Zone",
+    "link": "https://www.nytimes.com/2026/07/06/world/americas/venezuela-earthquake-missing.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=9, tm_sec=12, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
     "title": "The Iranian authorities go all out to stage an elaborate weeklong spectacle.",
     "link": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/iran-funeral-khamenei-preparations",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=49, tm_sec=56, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=23, tm_min=17, tm_sec=3, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Khamenei\u2019s funeral draws mourners from across Iran\u2019s regional network.",
@@ -107,12 +692,32 @@
   {
     "title": "As Mourners for Khamenei Descend on Tehran, Many Residents Take Flight",
     "link": "https://www.nytimes.com/2026/07/06/world/middleeast/khamenei-funeral-tehran-residents-exodus.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=11, tm_min=27, tm_sec=58, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=19, tm_min=23, tm_sec=11, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
-    "title": "Belgium Expresses Shock After FIFA Lifts U.S. Player\u2019s Suspension",
+    "title": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
     "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=35, tm_sec=35, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=4, tm_min=57, tm_sec=22, tm_wday=1, tm_yday=188, tm_isdst=0)"
+  },
+  {
+    "title": "Ukraine Remade Air Defense, but Russia Has Changed Its Attacks",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=38, tm_sec=51, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "NATO Leaders Are Meeting This Week. Here\u2019s What to Know.",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/nato-summit-what-countries.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=2, tm_sec=8, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=1, tm_sec=44, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid",
+    "link": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=25, tm_sec=13, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Zyn\u2019s Popularity Has Tobacco Companies Racing to Cash In",
@@ -120,9 +725,24 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=1, tm_sec=34, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
+    "title": "Erdogan-Trump Friendship Can Help NATO, Turkey\u2019s Foreign Minister Says",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/nato-turkey-erdogan-trump-hakan-fidan.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=9, tm_min=1, tm_sec=27, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "The World Cup Gave Mexicans a Fantasy They Won\u2019t Soon Forget",
+    "link": "https://www.nytimes.com/2026/07/06/world/americas/world-cup-mexico-city.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=7, tm_min=26, tm_sec=5, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
     "title": "Here\u2019s the latest.",
     "link": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/heres-the-latest",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=8, tm_sec=35, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
+    "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=26, tm_sec=20, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Made His Name in Manchester. Here\u2019s How.",
@@ -132,17 +752,22 @@
   {
     "title": "How Manchester\u2019s Bee Buses and Trams Helped Fuel Andy Burnham\u2019s Rise",
     "link": "https://www.nytimes.com/2026/07/06/world/europe/buses-andy-burnham-greater-manchester-bee.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=12, tm_min=53, tm_sec=15, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=23, tm_min=27, tm_sec=25, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Typhoon Bavi Pounds Guam and Northern Mariana Islands",
     "link": "https://www.nytimes.com/2026/07/05/weather/super-typhoon-bavi-guam-saipan.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=52, tm_sec=56, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=52, tm_sec=57, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
+    "title": "Russia Strikes Kyiv, Ukraine\u2019s Capital, on Eve of NATO Summit",
+    "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=20, tm_min=55, tm_sec=21, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "First American Woman Rows Solo From California to Hawaii",
     "link": "https://www.nytimes.com/2026/07/05/us/rowing-record-pacific-kelsey-pfendler.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=0, tm_min=41, tm_sec=42, tm_wday=0, tm_yday=187, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=19, tm_min=14, tm_sec=46, tm_wday=0, tm_yday=187, tm_isdst=0)"
   },
   {
     "title": "Israel\u2019s Government Threatens to Ignore a Top Court Ruling",
@@ -157,142 +782,7 @@
   {
     "title": "The Main Attraction at Africa\u2019s Most Lucrative Horse Race? Black Wealth.",
     "link": "https://www.nytimes.com/2026/07/05/world/africa/durban-july-south-africa-black-wealth.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=18, tm_min=46, tm_sec=36, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "At Site Where Iran\u2019s Slain Leader Lies, Some See a Symbol of His Failures",
-    "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=16, tm_min=2, tm_sec=47, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Exhausted by Iran War, Tehran Transforms for Khamenei\u2019s Funeral",
-    "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=17, tm_min=45, tm_sec=44, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Mourners Chant \u2018Revenge\u2019 at Funeral Prayers for Iran\u2019s Slain Supreme Leader",
-    "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=13, tm_min=31, tm_sec=26, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
-    "link": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=9, tm_min=17, tm_sec=30, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "What We Saw at Ayatollah Khamenei\u2019s Funeral",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=20, tm_min=21, tm_sec=13, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Years of Warnings About Public Housing Preceded Venezuela\u2019s Earthquakes",
-    "link": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=9, tm_min=2, tm_sec=15, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
-    "link": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=2, tm_min=8, tm_sec=29, tm_wday=0, tm_yday=187, tm_isdst=0)"
-  },
-  {
-    "title": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
-    "link": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=17, tm_min=45, tm_sec=28, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Guam and Northern Mariana Islands Prepare for Typhoon Bavi",
-    "link": "https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=17, tm_min=17, tm_sec=16, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Rebel Catholics Defy Vatican\u2019s Calls to Return to Mainstream Church",
-    "link": "https://www.nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=4, tm_min=1, tm_sec=23, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Impeachment Trial of Philippine Vice President Set to Begin",
-    "link": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=4, tm_min=1, tm_sec=15, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "As Xi Looks to Extend His Rule, He Leans on a Longtime Ally",
-    "link": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=4, tm_min=1, tm_sec=7, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Denmark\u2019s century-old Fourth of July party looks different this year.",
-    "link": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=21, tm_min=40, tm_sec=49, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "Canada Has a New Obsession: Soccer",
-    "link": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=21, tm_min=37, tm_sec=21, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "Huge Crowds Mass in Tehran for Ayatollah\u2019s State Funeral",
-    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=6, tm_min=37, tm_sec=32, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Prince Harry Will Travel to London, but Without His Family",
-    "link": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=23, tm_min=18, tm_sec=51, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
-    "link": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=13, tm_min=59, tm_sec=2, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "In Britain, July 4 Is Mostly Just a Saturday",
-    "link": "https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=13, tm_min=40, tm_sec=15, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "When Iran Last Buried a Supreme Leader, There Was Chaos",
-    "link": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=13, tm_min=39, tm_sec=55, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "Will Iran\u2019s New Supreme Leader, Mojtaba Khamenei, Attend His Father\u2019s Funeral?",
-    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-khamenei-son.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=11, tm_min=43, tm_sec=17, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "For Cape Verde, There\u2019s Victory in Their World Cup Defeat",
-    "link": "https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=12, tm_min=33, tm_sec=17, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "What to Know About Ayatollah Ali Khamenei as His Funeral Services Begin in Iran",
-    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-funeral-supreme-leader-ali-khamenei.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=9, tm_min=19, tm_sec=19, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "Happy Birthday to Us",
-    "link": "https://www.nytimes.com/2026/07/04/briefing/happy-birthday-to-us.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=8, tm_min=49, tm_sec=52, tm_wday=6, tm_yday=186, tm_isdst=0)"
-  },
-  {
-    "title": "A Big Week in the West, Canada vs. Morocco, Trade and a Canada-U.S. Quiz",
-    "link": "https://www.nytimes.com/2026/07/04/world/canada/carney-alberta-pipeline-canada-us.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=10, tm_min=0, tm_sec=10, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "Mexico\u2019s Secret 12th Man in the World Cup: Baby Jesus",
-    "link": "https://www.nytimes.com/2026/07/04/world/americas/mexico-world-cup-baby-jesus.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=9, tm_min=24, tm_sec=53, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "In Rwanda, July 4 Is Liberation Day From Genocide",
-    "link": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=9, tm_min=1, tm_sec=42, tm_wday=5, tm_yday=185, tm_isdst=0)"
-  },
-  {
-    "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran\u2019s Leaders",
-    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=20, tm_min=44, tm_sec=42, tm_wday=5, tm_yday=185, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=5, tm_hour=18, tm_min=46, tm_sec=37, tm_wday=6, tm_yday=186, tm_isdst=0)"
   },
   {
     "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
@@ -318,6 +808,11 @@
     "title": "New research reveals the hidden pollution left behind by fireworks",
     "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=2, tm_min=48, tm_sec=9, tm_wday=5, tm_yday=185, tm_isdst=0)"
+  },
+  {
+    "title": "AI just supercharged the race to find room temperature superconductors",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=7, tm_hour=5, tm_min=39, tm_sec=51, tm_wday=1, tm_yday=188, tm_isdst=0)"
   },
   {
     "title": "Scientists discover a completely different way to fight viruses",
@@ -425,6 +920,11 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=4, tm_hour=8, tm_min=32, tm_sec=34, tm_wday=5, tm_yday=185, tm_isdst=0)"
   },
   {
+    "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=16, tm_min=40, tm_sec=1, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
     "title": "This spray-on powder can stop life-threatening bleeding in 1 second",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=2, tm_hour=20, tm_min=1, tm_sec=27, tm_wday=3, tm_yday=183, tm_isdst=0)"
@@ -505,6 +1005,11 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=24, tm_hour=13, tm_min=30, tm_sec=9, tm_wday=2, tm_yday=175, tm_isdst=0)"
   },
   {
+    "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=53, tm_sec=3, tm_wday=0, tm_yday=187, tm_isdst=0)"
+  },
+  {
     "title": "The universe may be hiding conscious minds stranger than we can imagine",
     "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=24, tm_hour=14, tm_min=49, tm_sec=57, tm_wday=2, tm_yday=175, tm_isdst=0)"
@@ -578,20 +1083,5 @@
     "title": "From pet to pest, goldfish can wreck entire ecosystems",
     "link": "https://www.sciencedaily.com/releases/2026/06/260622091524.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=26, tm_hour=17, tm_min=45, tm_sec=17, tm_wday=4, tm_yday=177, tm_isdst=0)"
-  },
-  {
-    "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=23, tm_hour=4, tm_min=45, tm_sec=34, tm_wday=1, tm_yday=174, tm_isdst=0)"
-  },
-  {
-    "title": "Yellowstone\u2019s supervolcano may be fueled by something unexpected",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260622014317.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=6, tm_mday=28, tm_hour=3, tm_min=36, tm_sec=52, tm_wday=6, tm_yday=179, tm_isdst=0)"
-  },
-  {
-    "title": "Old muscle stem cells can act young again but there\u2019s a catch",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260622014315.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=7, tm_mday=3, tm_hour=9, tm_min=0, tm_sec=4, tm_wday=4, tm_yday=184, tm_isdst=0)"
   }
 ]
