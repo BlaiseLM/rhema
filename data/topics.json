@@ -1,159 +1,55 @@
 [
   {
-    "cluster": 10,
-    "name": "Global Political Upheaval",
+    "cluster": 7,
+    "name": "Middle East Conflict Escalation",
     "articles": [
       {
-        "title": "\u2018Suddenly, I Was Free\u2019: A Chinese Pastor\u2019s Journey From Jail to the U.S.",
-        "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html"
+        "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+        "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz"
+      },
+      {
+        "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+        "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html"
       },
       {
         "title": "The 20-Somethings Running Ukraine\u2019s War Machine",
         "link": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html"
       },
       {
-        "title": "A Russian Political Battle Ends With a Visit From Masked Men",
-        "link": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
+        "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+        "link": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html"
       },
       {
-        "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-        "link": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html"
+        "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
+        "link": "https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html"
       },
       {
-        "title": "How Andy Burnham Becomes Britain\u2019s New Prime Minister",
-        "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html"
+        "title": "The Rise and Fall of Ukraine\u2019s Drone Warfare Mastermind",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html"
       },
       {
-        "title": "Ukraine\u2019s Ousted Defense Minister Attacks the Military\u2019s Old Guard",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
+        "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
+        "link": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html"
       },
       {
-        "title": "Delightful World Cup Stories",
-        "link": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html"
-      },
-      {
-        "title": "German Man Accused of Drugging and Filming the Rape of 14 Women",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/german-man-rape-case.html"
-      },
-      {
-        "title": "Why Netflix\u2019s \u2018The Polygamist\u2019 Has Viewers Outside South Africa Talking",
-        "link": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html"
-      },
-      {
-        "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html"
-      },
-      {
-        "title": "As Argentina Holds Up Falklands Banner on Defeating England, Here\u2019s What to Know About the War",
-        "link": "https://www.nytimes.com/2026/07/16/world/americas/falklands-malvinas-england-argentina-war.html"
-      },
-      {
-        "title": "Pakistan, a mediator in the war, struggles to make itself heard.",
-        "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/pakistan-a-mediator-in-the-war-struggles-to-make-itself-heard"
-      },
-      {
-        "title": "What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html"
-      },
-      {
-        "title": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-        "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html"
-      },
-      {
-        "title": "Guy Scott, Who Caused a Stir as White Leader of Zambia, Dies at 82",
-        "link": "https://www.nytimes.com/2026/07/15/world/africa/guy-scott-dead.html"
-      },
-      {
-        "title": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
-        "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Environmental And Scientific News",
-    "articles": [
-      {
-        "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-        "link": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html"
-      },
-      {
-        "title": "Japan Passes New Law Banning Flag Desecration in Nationalist Push",
-        "link": "https://www.nytimes.com/2026/07/17/world/asia/japan-flag-desecration-law.html"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour/heres-the-latest"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz/us-strikes-iran-bridges-port"
-      },
-      {
-        "title": "Canada\u2019s Wildfires Are Burning Through the Night",
-        "link": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
-      },
-      {
-        "title": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
-        "link": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html"
-      },
-      {
-        "title": "Orphanage Fire Kills Eleven in Algeria",
-        "link": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/heres-the-latest"
-      },
-      {
-        "title": "U.S. Strikes Hit Greater Tunb Island in Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html"
-      },
-      {
-        "title": "Wildfires Rage in Ontario as Smoke Affects Toronto\u2019s Air Quality",
-        "link": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html"
-      },
-      {
-        "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm"
-      },
-      {
-        "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm"
-      },
-      {
-        "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm"
-      },
-      {
-        "title": "Europe's most active volcano may have a secret origin",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm"
-      },
-      {
-        "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm"
-      },
-      {
-        "title": "This Mars rover could finally reveal whether life ever existed on Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 1,
-    "name": "US Iran Military Conflict",
-    "articles": [
-      {
-        "title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country\u2019s South, Iranian Media says",
-        "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
+        "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
+        "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
       },
       {
         "title": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
         "link": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html"
       },
       {
-        "title": "In Iran war, Trump Risks Another American \u2018Forever War\u2019",
-        "link": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
+        "title": "Japan Passes New Law Banning Flag Desecration in Nationalist Push",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/japan-flag-desecration-law.html"
+      },
+      {
+        "title": "A Russian Political Battle Ends With a Visit From Masked Men",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
+      },
+      {
+        "title": "Delightful World Cup Stories",
+        "link": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html"
       },
       {
         "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
@@ -168,188 +64,50 @@
         "link": "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html"
       },
       {
+        "title": "Why Netflix\u2019s \u2018The Polygamist\u2019 Has Viewers Outside South Africa Talking",
+        "link": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html"
+      },
+      {
+        "title": "As Argentina Holds Up Falklands Banner on Defeating England, Here\u2019s What to Know About the War",
+        "link": "https://www.nytimes.com/2026/07/16/world/americas/falklands-malvinas-england-argentina-war.html"
+      },
+      {
         "title": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
         "link": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html"
-      },
-      {
-        "title": "Here\u2019s Where the U.S. and Iran Have Launched Attacks as the War Escalates",
-        "link": "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html"
-      },
-      {
-        "title": "Will Iran Be a Forever War?",
-        "link": "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html"
-      },
-      {
-        "title": "U.S. and Iran Trade Strikes With No Sign of Backing Down",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-us-strikes-war.html"
-      },
-      {
-        "title": "The Vague Clause That Helps Explain the U.S.-Iran Fight Over the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-hormuz-strait.html"
-      },
-      {
-        "title": "Oil, Shipping, Flights: Disruptions Are Back as U.S.-Iran War Reignites",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html"
-      },
-      {
-        "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html"
       }
     ]
   },
   {
-    "cluster": 5,
-    "name": "Scientific Research Discoveries",
+    "cluster": 6,
+    "name": "Space And Cultural Stories",
     "articles": [
       {
-        "title": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
-        "link": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html"
+        "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+        "link": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html"
       },
       {
-        "title": "For England, the World Cup Final Remains Elusive",
-        "link": "https://www.nytimes.com/2026/07/15/world/europe/england-world-cup-loss-fans.html"
+        "title": "In Bangladesh, Argentina\u2019s Soccer Team Finds a Huge Fan Base",
+        "link": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html"
       },
       {
-        "title": "Iran\u2019s Top Negotiator Signals Door to Diplomacy Is Still Open",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-ghalibaf-us-talks.html"
+        "title": "Prominent Cuban Artist Will Go Into Exile After 5-Year Prison Term",
+        "link": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-prison-release-exile.html"
       },
       {
-        "title": "Scientists finally solved why some frogs survive a deadly fungus",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm"
+        "title": "Iqaluit, Canada\u2019s Most Northern City, Gets Its First Bus Line",
+        "link": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html"
       },
       {
-        "title": "Yale scientists found a hidden network inside the eye",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm"
+        "title": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
+        "link": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html"
       },
       {
-        "title": "Scientists discover how the brain rewires itself to truly multitask",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm"
-      },
-      {
-        "title": "Scientists discovered the brain doesn't make decisions the way we thought",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm"
-      },
-      {
-        "title": "Why gold never tarnishes has finally been explained",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm"
-      },
-      {
-        "title": "Why the human body has so many design flaws",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm"
-      },
-      {
-        "title": "A vitamin A discovery is changing what scientists know about vision",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
-      },
-      {
-        "title": "Trees keep absorbing carbon long after they stop growing",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm"
-      },
-      {
-        "title": "Scientists finally solved a 150-year-old gallium mystery",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm"
-      },
-      {
-        "title": "Scientists used AI to crack one of water's biggest mysteries",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 3,
-    "name": "Physics And Cosmology Breakthroughs",
-    "articles": [
-      {
-        "title": "How Andy Burnham, \u2018King of the North,\u2019 Conquered U.K. Politics",
-        "link": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
-      },
-      {
-        "title": "The Quest for \u2018Technological Sovereignty\u2019 in Europe (and Why It\u2019s So Hard)",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html"
-      },
-      {
-        "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm"
-      },
-      {
-        "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
-      },
-      {
-        "title": "Stephen Hawking's black hole laws just got a major upgrade",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm"
-      },
-      {
-        "title": "New dark matter theory could solve multiple cosmic mysteries at once",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm"
-      },
-      {
-        "title": "Physicists recreate black hole energy extraction in the lab",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm"
-      },
-      {
-        "title": "Physicists created a tiny universe where time emerged without a clock",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm"
-      },
-      {
-        "title": "Heidelberg physicists just united two opposing quantum theories",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm"
-      },
-      {
-        "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 4,
-    "name": "Health And Medical Advances",
-    "articles": [
-      {
-        "title": "Sam Neill\u2019s Cause of Death Was Pneumonia, Actor\u2019s Agent Confirms",
-        "link": "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
+        "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+        "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html"
       },
       {
         "title": "A 59-Year-Old Hunger Striker Joins a Gen Z Protest Movement in India",
         "link": "https://www.nytimes.com/2026/07/16/world/asia/india-sonam-wangchuk-cockroach-janata-party-hunger-strike.html"
-      },
-      {
-        "title": "France Votes to Allow Assisted Dying",
-        "link": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html"
-      },
-      {
-        "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
-      },
-      {
-        "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm"
-      },
-      {
-        "title": "Exercise doesn't just strengthen the heart. It rewires it",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm"
-      },
-      {
-        "title": "Common constipation drug may help clear depression brain fog",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm"
-      },
-      {
-        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm"
-      },
-      {
-        "title": "Alzheimer's tau protein has a surprising secret role in memory",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 0,
-    "name": "Space And Astronomy Discoveries",
-    "articles": [
-      {
-        "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
-        "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html"
       },
       {
         "title": "Sun-like star caught after eating one of its own planets",
@@ -372,23 +130,373 @@
         "link": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm"
       },
       {
+        "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm"
+      },
+      {
         "title": "The galaxy\u2019s coldest \u201cstars\u201d may actually be alien megastructures",
         "link": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm"
       },
       {
         "title": "This alien planet never has sunrise or sunset. It may support life",
         "link": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm"
+      },
+      {
+        "title": "Europe's most active volcano may have a secret origin",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm"
+      },
+      {
+        "title": "Hawaii's famous \u201chappy-face\u201d spider has a surprising relative",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm"
+      },
+      {
+        "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "name": "Medical And Biological Discoveries",
+    "articles": [
+      {
+        "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
+      },
+      {
+        "title": "AI flags more than 250,000 suspicious cancer research papers",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm"
+      },
+      {
+        "title": "This pet gecko could help scientists unlock the secrets of cancer",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm"
+      },
+      {
+        "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm"
+      },
+      {
+        "title": "Exercise doesn't just strengthen the heart. It rewires it",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm"
+      },
+      {
+        "title": "Common constipation drug may help clear depression brain fog",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm"
+      },
+      {
+        "title": "Deep-sea life has a secret food source scientists never expected",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm"
+      },
+      {
+        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm"
+      },
+      {
+        "title": "Alzheimer's tau protein has a surprising secret role in memory",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
+      },
+      {
+        "title": "A vitamin A discovery is changing what scientists know about vision",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
+      },
+      {
+        "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm"
+      },
+      {
+        "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
+      },
+      {
+        "title": "Incredible new material makes heat programmable",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm"
       }
     ]
   },
   {
     "cluster": 2,
-    "name": "Wildlife And Paleontology Findings",
+    "name": "Space Exploration Missions",
     "articles": [
       {
-        "title": "Brazen Japanese Bears Are Breaking Into Homes and Raiding Pantries",
-        "link": "https://www.nytimes.com/2026/07/15/world/asia/japan-bear-home-break-in.html"
+        "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+        "link": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html"
       },
+      {
+        "title": "Scientists built a camera that can track invisible particles in 3D",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm"
+      },
+      {
+        "title": "NASA's Perseverance just completed a marathon on Mars",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm"
+      },
+      {
+        "title": "NASA selects four new Moon missions to build a permanent lunar base",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm"
+      },
+      {
+        "title": "A 200-year-old physics experiment could help build future computers",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
+      },
+      {
+        "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm"
+      },
+      {
+        "title": "Future moon landings could wipe out clues to how life began on Earth",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm"
+      },
+      {
+        "title": "This common pesticide may be quietly wiping out future bumblebees",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm"
+      },
+      {
+        "title": "This Mars rover could finally reveal whether life ever existed on Mars",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm"
+      },
+      {
+        "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm"
+      },
+      {
+        "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm"
+      },
+      {
+        "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Activism And Dissidents",
+    "articles": [
+      {
+        "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+        "link": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html"
+      },
+      {
+        "title": "They Called Sam Neill \u2018Skux.\u2019 (It Was a Compliment.)",
+        "link": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html"
+      },
+      {
+        "title": "\u2018Suddenly, I Was Free\u2019: A Chinese Pastor\u2019s Journey From Jail to the U.S.",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html"
+      },
+      {
+        "title": "How Andy Burnham, \u2018King of the North,\u2019 Conquered U.K. Politics",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+      },
+      {
+        "title": "Beijing Rejects Trump\u2019s Claim of Meddling, but Avoids a Fight",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/heres-the-latest"
+      },
+      {
+        "title": "Lam Wing-Kee, Hong Kong Bookseller Who Defied Authorities, Dies at 70",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html"
+      },
+      {
+        "title": "Cuban Dissident Was Missing A Week After Prison Release",
+        "link": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-missing-exile.html"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour/heres-the-latest"
+      },
+      {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz/us-strikes-iran-bridges-port"
+      },
+      {
+        "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html"
+      },
+      {
+        "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 0,
+    "name": "Natural Disasters And Casualties",
+    "articles": [
+      {
+        "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+        "link": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html"
+      },
+      {
+        "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
+        "link": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html"
+      },
+      {
+        "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+        "link": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html"
+      },
+      {
+        "title": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
+        "link": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html"
+      },
+      {
+        "title": "Hundreds of Rohingya Feared Drowned at Sea",
+        "link": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html"
+      },
+      {
+        "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+        "link": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html"
+      },
+      {
+        "title": "Canada\u2019s Wildfires Are Burning Through the Night",
+        "link": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
+      },
+      {
+        "title": "Orphanage Fire Kills Eleven in Algeria",
+        "link": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html"
+      },
+      {
+        "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html"
+      },
+      {
+        "title": "Sam Neill\u2019s Cause of Death Was Pneumonia, Actor\u2019s Agent Confirms",
+        "link": "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "name": "Scientific Mystery Solutions",
+    "articles": [
+      {
+        "title": "E.U. Proposes Changes to Emissions Trading System",
+        "link": "https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html"
+      },
+      {
+        "title": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
+        "link": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html"
+      },
+      {
+        "title": "Scientists finally solved why some frogs survive a deadly fungus",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm"
+      },
+      {
+        "title": "Yale scientists found a hidden network inside the eye",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm"
+      },
+      {
+        "title": "Scientists discover how the brain rewires itself to truly multitask",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm"
+      },
+      {
+        "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm"
+      },
+      {
+        "title": "Why gold never tarnishes has finally been explained",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm"
+      },
+      {
+        "title": "Trees keep absorbing carbon long after they stop growing",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm"
+      },
+      {
+        "title": "Scientists finally solved a 150-year-old gallium mystery",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm"
+      },
+      {
+        "title": "Scientists used AI to crack one of water's biggest mysteries",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "name": "Quantum Physics Breakthroughs",
+    "articles": [
+      {
+        "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm"
+      },
+      {
+        "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
+      },
+      {
+        "title": "Stephen Hawking's black hole laws just got a major upgrade",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm"
+      },
+      {
+        "title": "New dark matter theory could solve multiple cosmic mysteries at once",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm"
+      },
+      {
+        "title": "Physicists recreate black hole energy extraction in the lab",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm"
+      },
+      {
+        "title": "Why the human body has so many design flaws",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm"
+      },
+      {
+        "title": "Physicists created a tiny universe where time emerged without a clock",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm"
+      },
+      {
+        "title": "Heidelberg physicists just united two opposing quantum theories",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm"
+      },
+      {
+        "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 8,
+    "name": "Political Leadership Changes",
+    "articles": [
+      {
+        "title": "Burnham Becomes Labour Leader and Britain\u2019s Incoming Prime Minister",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
+      },
+      {
+        "title": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
+        "link": "https://www.nytimes.com/2026/07/18/world/canada/freedom-convoy-ottawa-lich-wildfires.html"
+      },
+      {
+        "title": "Karim Khan\u2019s Accuser Breaks Silence on Alleged Sexual Misconduct at I.C.C.",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/karim-khan-icc-accusations.html"
+      },
+      {
+        "title": "How Andy Burnham Becomes Britain\u2019s New Prime Minister",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html"
+      },
+      {
+        "title": "German Man Accused of Drugging and Filming the Rape of 14 Women",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/german-man-rape-case.html"
+      },
+      {
+        "title": "Pakistan, a mediator in the war, struggles to make itself heard.",
+        "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/pakistan-a-mediator-in-the-war-struggles-to-make-itself-heard"
+      },
+      {
+        "title": "What to Know About Mykhailo Fedorov, Ukraine\u2019s Ousted Defense Minister",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html"
+      },
+      {
+        "title": "Ukraine\u2019s Ousted Defense Minister Attacks the Military\u2019s Old Guard",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "name": "Paleontology And Zoology",
+    "articles": [
       {
         "title": "Are humans really the ultimate super-predator?",
         "link": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm"
@@ -416,130 +524,6 @@
       {
         "title": "Scientists just debunked a dangerous baby rattlesnake myth",
         "link": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 7,
-    "name": "Space Exploration And Technology",
-    "articles": [
-      {
-        "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 People",
-        "link": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html"
-      },
-      {
-        "title": "The Race for A.I. Data Centers Arrives in India",
-        "link": "https://www.nytimes.com/video/world/100000011024159/the-race-for-ai-data-centers-arrives-in-india.html"
-      },
-      {
-        "title": "Scientists built a camera that can track invisible particles in 3D",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm"
-      },
-      {
-        "title": "NASA's Perseverance just completed a marathon on Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm"
-      },
-      {
-        "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm"
-      },
-      {
-        "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm"
-      },
-      {
-        "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 9,
-    "name": "International Diplomatic Incidents",
-    "articles": [
-      {
-        "title": "Hundreds of Rohingya Feared Drowned at Sea",
-        "link": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html"
-      },
-      {
-        "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
-        "link": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html"
-      },
-      {
-        "title": "Beijing Rejects Trump\u2019s Claim of Meddling, but Avoids a Fight",
-        "link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html"
-      },
-      {
-        "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
-      },
-      {
-        "title": "Billboard in Iran\u2019s Capital Depicts Trump in a Coffin",
-        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-tehran-billboard-trump-coffin.html"
-      },
-      {
-        "title": "Hawaii's famous \u201chappy-face\u201d spider has a surprising relative",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 8,
-    "name": "AI Infrastructure And Moon Missions",
-    "articles": [
-      {
-        "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
-        "link": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html"
-      },
-      {
-        "title": "Australia to Put Environmental Brakes on A.I. Data Centers",
-        "link": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html"
-      },
-      {
-        "title": "NASA selects four new Moon missions to build a permanent lunar base",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm"
-      },
-      {
-        "title": "A 200-year-old physics experiment could help build future computers",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
-      },
-      {
-        "title": "Future moon landings could wipe out clues to how life began on Earth",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm"
-      },
-      {
-        "title": "This common pesticide may be quietly wiping out future bumblebees",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 6,
-    "name": "Cancer Research Breakthroughs",
-    "articles": [
-      {
-        "title": "AI flags more than 250,000 suspicious cancer research papers",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm"
-      },
-      {
-        "title": "This pet gecko could help scientists unlock the secrets of cancer",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm"
-      },
-      {
-        "title": "Deep-sea life has a secret food source scientists never expected",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm"
-      },
-      {
-        "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm"
-      },
-      {
-        "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
-      },
-      {
-        "title": "Incredible new material makes heat programmable",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm"
       }
     ]
   }
