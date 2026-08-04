@@ -1,9 +1,81 @@
 [
   {
-    "phrase": "Strikes on Iran",
+    "phrase": "Beloved Gas Stations",
+    "relevance": 0.001881309737406442,
+    "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html"
+  },
+  {
+    "phrase": "Podcasts and Promises",
+    "relevance": 0.007444681613352736,
+    "title": "Andy Burnham\u2019s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html"
+  },
+  {
+    "phrase": "Kashmir Problem",
+    "relevance": 0.012602360123953448,
+    "title": "Pakistan\u2019s Kashmir Problem",
+    "link": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html"
+  },
+  {
+    "phrase": "debuts biometric border",
+    "relevance": 0.01655915082773619,
+    "title": "Airport chaos, delays as E.U. debuts biometric border system",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html"
+  },
+  {
+    "phrase": "Ended Greyhound Racing",
+    "relevance": 0.0006338968490252106,
+    "title": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html"
+  },
+  {
+    "phrase": "Migration Crisis Exposes",
+    "relevance": 0.0032173869679631944,
+    "title": "Ceuta Migration Crisis Exposes Despair Among Morocco\u2019s Young People",
+    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
+  },
+  {
+    "phrase": "Trump Cites Progress",
+    "relevance": 0.0032173869679631944,
+    "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html"
+  },
+  {
+    "phrase": "Honduras President Hern\u00e1ndez",
+    "relevance": 0.0032173869679631944,
+    "title": "After Trump Pardon, Former Honduras President Hern\u00e1ndez Faces Charges in His Home Country",
+    "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html"
+  },
+  {
+    "phrase": "Postal Workers",
     "relevance": 0.004925103769790319,
-    "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-    "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+    "title": "As France\u2019s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html"
+  },
+  {
+    "phrase": "Soft on Migrants",
+    "relevance": 0.004925103769790319,
+    "title": "Spain\u2019s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html"
+  },
+  {
+    "phrase": "Trump \u2019s Reversal",
+    "relevance": 0.012602360123953448,
+    "title": "For Iran, Trump\u2019s Reversal on Escalation Shows Who Has the Upper Hand",
+    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
+  },
+  {
+    "phrase": "Aung San Suu",
+    "relevance": 0.0032173869679631944,
+    "title": "Myanmar Junta Allows Aung San Suu Kyi Rare Contact With an Outsider",
+    "link": "https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html"
+  },
+  {
+    "phrase": "Displaying Palestinian Flag",
+    "relevance": 0.001881309737406442,
+    "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+    "link": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html"
   },
   {
     "phrase": "Deadly Earthquakes",
@@ -12,76 +84,100 @@
     "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html"
   },
   {
+    "phrase": "Mohegan Tribe Lost",
+    "relevance": 0.0032173869679631944,
+    "title": "How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea",
+    "link": "https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html"
+  },
+  {
+    "phrase": "Soccer Fiasco",
+    "relevance": 0.012602360123953448,
+    "title": "JPMorgan Again Entangled in a Soccer Fiasco",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html"
+  },
+  {
+    "phrase": "Russian Beach",
+    "relevance": 0.012602360123953448,
+    "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html"
+  },
+  {
+    "phrase": "Sends Flight",
+    "relevance": 0.012602360123953448,
+    "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+    "link": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html"
+  },
+  {
+    "phrase": "Falling Space Junk",
+    "relevance": 0.0020632546775457305,
+    "title": "Falling Space Junk",
+    "link": "https://www.nytimes.com/2026/08/03/world/falling-space-debris-iran-oman.html"
+  },
+  {
+    "phrase": "Opposition Politician Flees",
+    "relevance": 0.0032173869679631944,
+    "title": "Russian Opposition Politician Flees to France",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html"
+  },
+  {
+    "phrase": "Jailed for Concealing",
+    "relevance": 0.02140921543860024,
+    "title": "Man Is Jailed for Concealing Mother\u2019s Body in Freezer After Her Death",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html"
+  },
+  {
+    "phrase": "South Pacific",
+    "relevance": 0.012602360123953448,
+    "title": "Nauru, a Small Island in South Pacific, Changes Its Name to Naoero",
+    "link": "https://www.nytimes.com/2026/08/03/world/naoero-nauru-name-change.html"
+  },
+  {
+    "phrase": "Strike Destroyed Millions",
+    "relevance": 0.0042542192213185686,
+    "title": "Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine",
+    "link": "https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html"
+  },
+  {
+    "phrase": "Canadian Airline Reaches",
+    "relevance": 0.0032173869679631944,
+    "title": "WestJet Strike Ends After Canadian Airline Reaches Deal With Flight Attendants",
+    "link": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html"
+  },
+  {
+    "phrase": "Making Hive Calls",
+    "relevance": 0.001881309737406442,
+    "title": "Meet the Bee Vet, Now Making Hive Calls",
+    "link": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html"
+  },
+  {
+    "phrase": "Firefighting Helicopters Collide",
+    "relevance": 0.0032173869679631944,
+    "title": "2 Killed as Firefighting Helicopters Collide in Greece",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html"
+  },
+  {
+    "phrase": "Chaos in Ceuta",
+    "relevance": 0.012602360123953448,
+    "title": "Unraveling the Chaos in Ceuta",
+    "link": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html"
+  },
+  {
+    "phrase": "Police Station Bombing",
+    "relevance": 0.0032173869679631944,
+    "title": "Pakistan Police Station Bombing Kills at Least 14",
+    "link": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html"
+  },
+  {
+    "phrase": "Far-Right Leaders Call",
+    "relevance": 0.0035308295728302113,
+    "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
+  },
+  {
     "phrase": "Cowboys Fringants Bassist",
     "relevance": 0.0035308295728302113,
     "title": "Cowboys Fringants Bassist Is Named Quebec\u2019s Chief Scientist",
     "link": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html"
-  },
-  {
-    "phrase": "Expelling Remaining Migrants",
-    "relevance": 0.0032173869679631944,
-    "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-    "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
-  },
-  {
-    "phrase": "Spain Migrant Crisis",
-    "relevance": 0.001881309737406442,
-    "title": "Europe\u2019s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-    "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
-  },
-  {
-    "phrase": "Tabs on Foreigners",
-    "relevance": 0.012602360123953448,
-    "title": "How China Keeps Tabs on Foreigners",
-    "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html"
-  },
-  {
-    "phrase": "Cancels Trips Amid",
-    "relevance": 0.0032173869679631944,
-    "title": "Canada\u2019s WestJet Cancels Trips Amid Strike By Flight Attendants",
-    "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
-  },
-  {
-    "phrase": "Indie Music Venues",
-    "relevance": 0.0032173869679631944,
-    "title": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-    "link": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html"
-  },
-  {
-    "phrase": "Plotted Wider War",
-    "relevance": 0.0032173869679631944,
-    "title": "Iran Plotted Wider War With Help of Its Proxies",
-    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
-  },
-  {
-    "phrase": "Migrants Leave Ceuta",
-    "relevance": 0.001881309737406442,
-    "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-    "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html"
-  },
-  {
-    "phrase": "Key Lebanon Hilltop",
-    "relevance": 0.001881309737406442,
-    "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
-  },
-  {
-    "phrase": "Tourist Plane Crashes",
-    "relevance": 0.0035308295728302113,
-    "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
-    "link": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html"
-  },
-  {
-    "phrase": "Allies Fear",
-    "relevance": 0.007444681613352736,
-    "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
-  },
-  {
-    "phrase": "Upscale Moscow Restaurant",
-    "relevance": 0.001881309737406442,
-    "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-    "link": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html"
   },
   {
     "phrase": "World Food Programme",
@@ -90,10 +186,70 @@
     "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   },
   {
+    "phrase": "Cancels Trips Amid",
+    "relevance": 0.0032173869679631944,
+    "title": "Canada\u2019s WestJet Cancels Trips Amid Strike By Flight Attendants",
+    "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
+  },
+  {
+    "phrase": "Strikes on Iran",
+    "relevance": 0.004925103769790319,
+    "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+    "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+  },
+  {
+    "phrase": "Tabs on Foreigners",
+    "relevance": 0.012602360123953448,
+    "title": "How China Keeps Tabs on Foreigners",
+    "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html"
+  },
+  {
+    "phrase": "Migrants Leave Ceuta",
+    "relevance": 0.001881309737406442,
+    "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html"
+  },
+  {
+    "phrase": "Spain Migrant Crisis",
+    "relevance": 0.001881309737406442,
+    "title": "Europe\u2019s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+  },
+  {
+    "phrase": "Indie Music Venues",
+    "relevance": 0.0032173869679631944,
+    "title": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+    "link": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html"
+  },
+  {
+    "phrase": "Tourist Plane Crashes",
+    "relevance": 0.0035308295728302113,
+    "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+    "link": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html"
+  },
+  {
     "phrase": "Google Maps Hike",
     "relevance": 0.001881309737406442,
     "title": "Teen Hikers Rescued 12 Hours Into Google Maps Hike",
     "link": "https://www.nytimes.com/2026/08/01/world/canada/canada-hiking-rescue-google-maps.html"
+  },
+  {
+    "phrase": "Upscale Moscow Restaurant",
+    "relevance": 0.001881309737406442,
+    "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+    "link": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html"
+  },
+  {
+    "phrase": "Key Lebanon Hilltop",
+    "relevance": 0.001881309737406442,
+    "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
+  },
+  {
+    "phrase": "Plotted Wider War",
+    "relevance": 0.0032173869679631944,
+    "title": "Iran Plotted Wider War With Help of Its Proxies",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
   },
   {
     "phrase": "Israel Bombards Gaza",
@@ -150,6 +306,12 @@
     "link": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html"
   },
   {
+    "phrase": "Allies Fear",
+    "relevance": 0.007444681613352736,
+    "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
+  },
+  {
     "phrase": "Jail in Russia",
     "relevance": 0.01560470695632768,
     "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
@@ -180,172 +342,142 @@
     "link": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html"
   },
   {
-    "phrase": "Migrants Surged",
-    "relevance": 0.012602360123953448,
-    "title": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
-    "link": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html"
+    "phrase": "gum cuts HPV",
+    "relevance": 0.015042304599106411,
+    "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
   },
   {
-    "phrase": "Generations in Europe",
-    "relevance": 0.012602360123953448,
-    "title": "Extreme Heat Has Transformed What Summer Means Across Generations in Europe",
-    "link": "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html"
+    "phrase": "creature reveals",
+    "relevance": 0.04940384002065631,
+    "title": "518-million-year-old creature reveals the origins of spider fangs",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm"
   },
   {
-    "phrase": "Rescuers Battle Cruel",
-    "relevance": 0.0032173869679631944,
-    "title": "Japan\u2019s Rescuers Battle Cruel Heat After Major Earthquake",
-    "link": "https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html"
-  },
-  {
-    "phrase": "Dropped Bomb",
-    "relevance": 0.012602360123953448,
-    "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
-    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html"
-  },
-  {
-    "phrase": "Build Patriot Missiles",
-    "relevance": 0.001881309737406442,
-    "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
-  },
-  {
-    "phrase": "Prompting Political Backlash",
-    "relevance": 0.0011031048803583578,
-    "title": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html"
-  },
-  {
-    "phrase": "Morocco Into Ceuta",
-    "relevance": 0.012602360123953448,
-    "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html"
-  },
-  {
-    "phrase": "Ceuta Seeking Work",
-    "relevance": 0.001881309737406442,
-    "title": "Young Men Poured Into Ceuta Seeking Work",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html"
-  },
-  {
-    "phrase": "Ceuta Evokes Europe",
-    "relevance": 0.005453701220886843,
-    "title": "Ceuta Evokes Europe\u2019s 2015 Migration Crisis. But Much Has Changed Since.",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html"
-  },
-  {
-    "phrase": "Iranian Ship Shows",
-    "relevance": 0.0032173869679631944,
-    "title": "Ukraine\u2019s Strike on Iranian Ship Shows How Two Wars Could Spiral",
-    "link": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html"
-  },
-  {
-    "phrase": "Students Cheat",
-    "relevance": 0.012602360123953448,
-    "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
-    "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html"
-  },
-  {
-    "phrase": "Far-right politicians seize",
+    "phrase": "Strange quantum experiment",
     "relevance": 0.01655915082773619,
-    "title": "Far-right politicians seize on Ceuta",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
+    "title": "Strange quantum experiment shows \u201cnegative time\u201d is more than an illusion",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
   },
   {
-    "phrase": "British Air Base",
-    "relevance": 0.0032173869679631944,
-    "title": "Man Accused of Spying for Iran at British Air Base in Cyprus",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/iran-spy-uk-air-base-cyprus-sultanov.html"
+    "phrase": "regain lost weight",
+    "relevance": 0.016559150827736194,
+    "title": "Your brain may be wired to regain lost weight",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
   },
   {
-    "phrase": "Archaeologists Find Hundreds",
-    "relevance": 0.0035308295728302113,
-    "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
-    "link": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"
+    "phrase": "Turin reveals centuries",
+    "relevance": 0.002263175936744087,
+    "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
   },
   {
-    "phrase": "Gaza Deal Sparks",
-    "relevance": 0.0032173869679631944,
-    "title": "Trump\u2019s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
+    "phrase": "Alzheimer \u2019s disease",
+    "relevance": 0.023458380875189744,
+    "title": "Two new compounds could reveal hidden drivers of Alzheimer\u2019s disease",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm"
   },
   {
-    "phrase": "Military in Kuwait",
-    "relevance": 0.012602360123953448,
-    "title": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
-    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html"
+    "phrase": "brain disease",
+    "relevance": 0.04940384002065631,
+    "title": "Scientists may have found aging\u2019s hidden trigger for brain disease",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm"
   },
   {
-    "phrase": "German Authorities Knew",
-    "relevance": 0.0035308295728302113,
-    "title": "German Authorities Knew of Pride Attacker\u2019s Extremism",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html"
+    "phrase": "trees in Taiwan",
+    "relevance": 0.04498862876540802,
+    "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm"
   },
   {
-    "phrase": "Selling Burritos Back",
-    "relevance": 0.0035308295728302113,
-    "title": "Selling Burritos Back to Mexico: Chipotle\u2019s Bold Expansion",
-    "link": "https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html"
+    "phrase": "named them Luffy",
+    "relevance": 0.026233073037508336,
+    "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm"
   },
   {
-    "phrase": "Workhorse of Aviation",
-    "relevance": 0.004925103769790319,
-    "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-    "link": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html"
+    "phrase": "extinct giants",
+    "relevance": 0.04940384002065631,
+    "title": "These underwater bones could solve a mystery about extinct giants",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm"
   },
   {
-    "phrase": "Coal Mine Blast",
-    "relevance": 0.0032173869679631944,
-    "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-    "link": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
+    "phrase": "Ancient Arctic carbon",
+    "relevance": 0.0013485152131775045,
+    "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm"
   },
   {
-    "phrase": "Burst Across Border",
-    "relevance": 0.012602360123953448,
-    "title": "Spain\u2019s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
+    "phrase": "hidden force driving",
+    "relevance": 0.0042542192213185686,
+    "title": "Scientists reveal the hidden force driving the universe\u2019s hottest fluid",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm"
   },
   {
-    "phrase": "Years in Prison",
-    "relevance": 0.007444681613352736,
-    "title": "Myanmar Pro-Democracy Activists Each Sentenced to 37 Years in Prison",
-    "link": "https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html"
+    "phrase": "reveal hidden water",
+    "relevance": 0.03339840940482845,
+    "title": "Moonquakes could reveal hidden water beneath the lunar surface",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm"
   },
   {
-    "phrase": "Whale Gave Birth",
-    "relevance": 0.0006338968490252106,
-    "title": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
-    "link": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html"
+    "phrase": "immune system fight",
+    "relevance": 0.03339840940482845,
+    "title": "A simple supplement could help the immune system fight cancer and viruses",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm"
   },
   {
-    "phrase": "Climber Nirmal Purja",
-    "relevance": 0.0032173869679631944,
-    "title": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-    "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
+    "phrase": "Scientists detect",
+    "relevance": 0.04940384002065631,
+    "title": "Scientists detect a sharp acceleration in global warming",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm"
   },
   {
-    "phrase": "Space Junk Tumbles",
-    "relevance": 0.0032173869679631944,
-    "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-    "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html"
+    "phrase": "ocean is rising",
+    "relevance": 0.04940384002065631,
+    "title": "Some coastal cities are sinking faster than the ocean is rising",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm"
   },
   {
-    "phrase": "Killer Robot Program",
-    "relevance": 0.001881309737406442,
-    "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
-    "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html"
+    "phrase": "Dark matter",
+    "relevance": 0.04940384002065631,
+    "title": "Dark matter\u2019s secret force does the opposite of what scientists expected",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm"
   },
   {
-    "phrase": "Ceuta",
-    "relevance": 0.08596317751626563,
-    "title": "What to Know About Ceuta",
-    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
+    "phrase": "powerful new medicines",
+    "relevance": 0.04940384002065631,
+    "title": "Two deadly flowers could inspire powerful new medicines",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm"
+  },
+  {
+    "phrase": "sweeping Mars\u2019 atmosphere",
+    "relevance": 0.015042304599106411,
+    "title": "Giant waves are sweeping Mars\u2019 atmosphere into space",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm"
+  },
+  {
+    "phrase": "Mathematicians prove perfectly",
+    "relevance": 0.01655915082773619,
+    "title": "Mathematicians prove perfectly fair elections are impossible",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
+  },
+  {
+    "phrase": "DNA",
+    "relevance": 0.1447773057422032,
+    "title": "Cancer may be breaking its own DNA to keep growing",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm"
   },
   {
     "phrase": "towering lava fountains",
     "relevance": 0.016559150827736194,
     "title": "Superheated magma may power towering lava fountains",
     "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm"
+  },
+  {
+    "phrase": "quadrillion electron volts",
+    "relevance": 0.016559150827736194,
+    "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm"
   },
   {
     "phrase": "NASA \u2019s Curiosity",
@@ -568,137 +700,5 @@
     "relevance": 0.03339840940482845,
     "title": "These insect submariners survive depths that should crush them",
     "link": "https://www.sciencedaily.com/releases/2026/07/260726015241.htm"
-  },
-  {
-    "phrase": "Alien signals",
-    "relevance": 0.04940384002065631,
-    "title": "Alien signals may be hiding where we rarely listen",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm"
-  },
-  {
-    "phrase": "Hidden genetic diversity",
-    "relevance": 0.01655915082773619,
-    "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm"
-  },
-  {
-    "phrase": "n\u2019t random",
-    "relevance": 0.02541909697430123,
-    "title": "Your dreams aren\u2019t random. Your brain is rewriting reality",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm"
-  },
-  {
-    "phrase": "fresh magma",
-    "relevance": 0.04940384002065631,
-    "title": "One of Earth\u2019s most explosive supervolcanoes is recharging with fresh magma",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260725105644.htm"
-  },
-  {
-    "phrase": "cyclops",
-    "relevance": 0.04491197687864554,
-    "title": "Scientists trace the shocking origin of human eyes to an ancient \u201ccyclops\u201d",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm"
-  },
-  {
-    "phrase": "tiny molecular basket",
-    "relevance": 0.0042542192213185686,
-    "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm"
-  },
-  {
-    "phrase": "Einstein \u2019s rules",
-    "relevance": 0.023458380875189744,
-    "title": "The Universe can outrun light without breaking Einstein\u2019s rules",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm"
-  },
-  {
-    "phrase": "food craving circuit",
-    "relevance": 0.016559150827736194,
-    "title": "Oral GLP-1 drugs may quiet the brain\u2019s food craving circuit",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm"
-  },
-  {
-    "phrase": "Scientists put",
-    "relevance": 0.015380821171891606,
-    "title": "Scientists put the \u201crecycling is a distraction\u201d claim to the test",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm"
-  },
-  {
-    "phrase": "Venus",
-    "relevance": 0.15831692877998726,
-    "title": "Venus may be tearing itself apart from within",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm"
-  },
-  {
-    "phrase": "brain from Alzheimer",
-    "relevance": 0.04498862876540802,
-    "title": "APOE2 may protect the brain from Alzheimer\u2019s and aging",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm"
-  },
-  {
-    "phrase": "Ancient ape fossil",
-    "relevance": 0.01655915082773619,
-    "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm"
-  },
-  {
-    "phrase": "hidden rare earth",
-    "relevance": 0.0042542192213185686,
-    "title": "Sweden\u2019s hidden rare earth deposits could help break China\u2019s grip",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
-  },
-  {
-    "phrase": "ATLAS near Mars",
-    "relevance": 0.007444681613352736,
-    "title": "China\u2019s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm"
-  },
-  {
-    "phrase": "discover the Sun",
-    "relevance": 0.04498862876540802,
-    "title": "Scientists discover the Sun contains 55% more silver than expected",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm"
-  },
-  {
-    "phrase": "Orcas filmed smashing",
-    "relevance": 0.01655915082773619,
-    "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
-  },
-  {
-    "phrase": "boosts energy transfer",
-    "relevance": 0.016559150827736194,
-    "title": "A strange quantum effect dramatically boosts energy transfer",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
-  },
-  {
-    "phrase": "giant salamander species",
-    "relevance": 0.03339840940482845,
-    "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm"
-  },
-  {
-    "phrase": "hidden brain switch",
-    "relevance": 0.03339840940482845,
-    "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm"
-  },
-  {
-    "phrase": "Blue Origin Moon",
-    "relevance": 0.0032173869679631944,
-    "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm"
-  },
-  {
-    "phrase": "Webb telescope discovers",
-    "relevance": 0.002263175936744087,
-    "title": "NASA\u2019s Webb telescope discovers giant planet hiding in one of astronomy\u2019s most famous systems",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm"
-  },
-  {
-    "phrase": "Scientists revive",
-    "relevance": 0.04940384002065631,
-    "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm"
   }
 ]
