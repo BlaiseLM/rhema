@@ -1,15 +1,669 @@
 [
   {
+    "phrase": "Rust and Tauri",
+    "relevance": 0.012602360123953448,
+    "title": "Show HN: Seal \u2013 Open-source P2P encrypted chat in Rust and Tauri",
+    "link": "https://github.com/Emn4tor/Seal"
+  },
+  {
+    "phrase": "Narrative in Biotech",
+    "relevance": 0.012602360123953448,
+    "title": "The power (and weakness) of Narrative in Biotech",
+    "link": "https://agapow.substack.com/p/the-power-and-weakness-of-narrative"
+  },
+  {
+    "phrase": "Land Value Tax",
+    "relevance": 0.012602360123953448,
+    "title": "DALT: Depreciation-Assisted Land Value Tax",
+    "link": "https://progressandpoverty.substack.com/p/dalt-depreciation-assisted-land-value"
+  },
+  {
+    "phrase": "Released",
+    "relevance": 0.030396371632413578,
+    "title": "Noctule 3.0 Released",
+    "link": "https://noctule.dev/posts/noctule-3.0"
+  },
+  {
+    "phrase": "Technological",
+    "relevance": 0.15831692877998726,
+    "title": "Technological News",
+    "link": "https://news.ycombinator.com/item?id=49257613"
+  },
+  {
+    "phrase": "MCP server framework",
+    "relevance": 0.008680855907871378,
+    "title": "Show HN: Tachyon \u2013 MCP server framework for Java and Kotlin",
+    "link": "https://github.com/kpavlov/tachyon"
+  },
+  {
+    "phrase": "time Amazon played",
+    "relevance": 0.015042304599106411,
+    "title": "It's time Amazon played by the same rules as everyone else [video]",
+    "link": "https://www.youtube.com/watch?v=91DoiansHqk"
+  },
+  {
+    "phrase": "Linux with Bubblewrap",
+    "relevance": 0.012602360123953448,
+    "title": "Easy Sandboxing on Linux with Bubblewrap",
+    "link": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/"
+  },
+  {
+    "phrase": "Gaming Processor",
+    "relevance": 0.007444681613352736,
+    "title": "AMD Reengineers Its Ryzen 7 5800X3D Gaming Processor",
+    "link": "https://www.electronicdesign.com/technologies/embedded/digital-ics/processors/microprocessors/article/55396754/electronic-design-amd-reengineers-its-ryzen-7-5800x3d-gaming-processor"
+  },
+  {
+    "phrase": "Hatchbox MCP",
+    "relevance": 0.013797198203993007,
+    "title": "Hatchbox MCP \u2013 control your Rails hosting from Claude",
+    "link": "https://github.com/hatchboxio/hatchbox-mcp"
+  },
+  {
+    "phrase": "Black Box Warfare",
+    "relevance": 0.0020632546775457305,
+    "title": "Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI",
+    "link": "https://journals.sagepub.com/doi/10.1177/00220027261463443"
+  },
+  {
+    "phrase": "Grow on Bushes",
+    "relevance": 0.012602360123953448,
+    "title": "Seedless Blackberries and Cherries That Grow on Bushes",
+    "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/"
+  },
+  {
+    "phrase": "Platform Publishing Hub",
+    "relevance": 0.0011031048803583578,
+    "title": "Fed-Poster: The First and Largest 100 Platform Publishing Hub",
+    "link": "https://github.com/FED-OS/Fed-Poster"
+  },
+  {
+    "phrase": "Claude Sonnet",
+    "relevance": 0.013797198203993007,
+    "title": "Claude Sonnet 5 introductory pricing becomes permanent",
+    "link": "https://twitter.com/claudeai/status/2086891169217122586"
+  },
+  {
+    "phrase": "Context-Aware Scoring Engine",
+    "relevance": 0.003995142956050651,
+    "title": "Building a Generic Context-Aware Scoring Engine",
+    "link": "https://github.com/Kevinci/ts-profanity-filter"
+  },
+  {
+    "phrase": "cost efficient browser",
+    "relevance": 0.0038881764045328197,
+    "title": "Show HN: Browser Agent \u2013 cost efficient browser automation",
+    "link": "https://github.com/visnia-ai/browser-agent"
+  },
+  {
+    "phrase": "marketing-focused co-founder",
+    "relevance": 0.02570861714399338,
+    "title": "Looking for marketing-focused co-founder for our startup",
+    "link": "https://www.rakupay.io"
+  },
+  {
+    "phrase": "Porcupine",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Porcupine, a terminal AI agent built for safe autonomy",
+    "link": "https://github.com/Abd0r/porcupineai"
+  },
+  {
+    "phrase": "Muuted",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Muuted \u2013 I built a feed that knows when to shut up",
+    "link": "https://muuted.com/"
+  },
+  {
+    "phrase": "Amber",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Amber \u2013 An open-source C99 Q/K array engine for quant finance",
+    "link": "https://github.com/BonucciAndrea/amber"
+  },
+  {
+    "phrase": "Session Manager Widget",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: Claude Fleet \u2013 Session Manager Widget Always on Top for CC (Windows)",
+    "link": "https://github.com/Shalom-Borohov/claude-fleet"
+  },
+  {
+    "phrase": "Agent Harness",
+    "relevance": 0.012602360123953448,
+    "title": "What Is an Agent Harness?",
+    "link": "https://rubriclabs.com/blog/what-is-an-agent-harness"
+  },
+  {
+    "phrase": "Humans' sense",
+    "relevance": 0.04940384002065631,
+    "title": "Humans' sense of smell is still evolving",
+    "link": "https://www.scientificamerican.com/article/humans-sense-of-smell-is-still-evolving/"
+  },
+  {
+    "phrase": "paste a URL",
+    "relevance": 0.013797198203993007,
+    "title": "Show HN: OpenCorp \u2013 paste a URL, AI finds competing products and Reddit threads",
+    "link": "https://opencorp.live/"
+  },
+  {
+    "phrase": "Tech Sucks",
+    "relevance": 0.01984585111858601,
+    "title": "Tech Sucks? Really?",
+    "link": "https://www.gordonmclean.co.uk/2026/08/11/tech-sucks-really/"
+  },
+  {
+    "phrase": "stock rankings",
+    "relevance": 0.07796891081290885,
+    "title": "I backtested my own stock rankings. They lost to the index",
+    "link": "https://holderdashboard.com/learn/backtest-that-lost-to-the-index"
+  },
+  {
+    "phrase": "agent hacks gym",
+    "relevance": 0.03339840940482845,
+    "title": "AI agent hacks gym to get its owner spot in pilates class",
+    "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o"
+  },
+  {
+    "phrase": "Search Tricks",
+    "relevance": 0.012602360123953448,
+    "title": "Subproblems, Strings, and Search Tricks",
+    "link": "https://stochastic.blog/subproblems-strings-and-search-tricks/"
+  },
+  {
+    "phrase": "England set",
+    "relevance": 0.015380821171891606,
+    "title": "England set to be one of the first countries to eliminate hepatitis C",
+    "link": "https://www.bbc.com/news/articles/c75gk620r22o"
+  },
+  {
+    "phrase": "defaults and env",
+    "relevance": 0.02570861714399338,
+    "title": "SYNX \u2013 a config format that declares its own types, defaults and env",
+    "link": "https://github.com/APERTURESyndicate/synx-format"
+  },
+  {
+    "phrase": "boids' swarm intelligence",
+    "relevance": 0.008321268142839145,
+    "title": "Dancing with friends and enemies: boids' swarm intelligence",
+    "link": "https://community.wolfram.com/groups/-/m/t/122095"
+  },
+  {
+    "phrase": "snapshot compression",
+    "relevance": 0.04940384002065631,
+    "title": "On-the-fly snapshot compression for elastic inference at scale",
+    "link": "https://blog.doubleword.ai/efficient-snapshot-compression"
+  },
+  {
+    "phrase": "OSF Is Changing",
+    "relevance": 0.007444681613352736,
+    "title": "OSF Is Changing",
+    "link": "https://www.cos.io/osf-changes"
+  },
+  {
+    "phrase": "Reading Maps",
+    "relevance": 0.013797198203993007,
+    "title": "Reading Maps",
+    "link": "https://readingmaps.com/"
+  },
+  {
+    "phrase": "agent",
+    "relevance": 0.09568045026443411,
+    "title": "Ask HN: What do you do while you wait for your agent?",
+    "link": "https://news.ycombinator.com/item?id=49257326"
+  },
+  {
+    "phrase": "Coding Agents",
+    "relevance": 0.012602360123953448,
+    "title": "Show HN: SWE-ContextBench \u2013 A Benchmark for Context Learning in Coding Agents",
+    "link": "https://github.com/jiayuanz3/SWEContextBench"
+  },
+  {
+    "phrase": "Expert Atlas",
+    "relevance": 0.007444681613352736,
+    "title": "Call for probes: building the GLM-5.2 Expert Atlas",
+    "link": "https://github.com/JustVugg/colibri/issues/175"
+  },
+  {
+    "phrase": "OSS project",
+    "relevance": 0.008293207122436794,
+    "title": "Show HN: Connect a GitHub repo, get a community for your OSS project",
+    "link": "https://earde.com/"
+  },
+  {
+    "phrase": "Security Org Monitoring",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: GitSnitch \u2013 GitHub Security Org Monitoring",
+    "link": "https://gitsnitch.app"
+  },
+  {
+    "phrase": "Agentic Branches",
+    "relevance": 0.007444681613352736,
+    "title": "\"Cheap\" Agentic Branches",
+    "link": "https://eschmann.dev/2026/08/cheap-agentic-branches/"
+  },
+  {
+    "phrase": "Connes' Rigidity Conjecture",
+    "relevance": 0.000428304966184317,
+    "title": "The Invalidity of the Claimed Disproof of Connes' Rigidity Conjecture",
+    "link": "https://philarchive.org/archive/NIEWTCv16"
+  },
+  {
+    "phrase": "Caxton",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Caxton \u2013 A native macOS text editor for multi-GB files",
+    "link": "https://caxton.app/"
+  },
+  {
+    "phrase": "rare post-trip harms",
+    "relevance": 0.016559150827736194,
+    "title": "New psychedelic clinics treat rare post-trip harms",
+    "link": "https://www.scientificamerican.com/article/first-of-its-kind-clinic-treats-psychedelic-side-effects/"
+  },
+  {
+    "phrase": "apply invisible watermarks",
+    "relevance": 0.03339840940482845,
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
+  },
+  {
+    "phrase": "Blunt Implement",
+    "relevance": 0.012602360123953448,
+    "title": "The Date \u2013 Blunt Implement or Forcing Function",
+    "link": "https://cate.blog/2026/08/11/the-date-blunt-implement-or-forcing-function/"
+  },
+  {
+    "phrase": "Lightweight suite",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Implay AI \u2013 Lightweight suite of browser tools for text, images, & code",
+    "link": "https://implay.ai"
+  },
+  {
+    "phrase": "reading to learn",
+    "relevance": 0.015380821171891606,
+    "title": "What to write down when you're reading to learn",
+    "link": "https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/"
+  },
+  {
+    "phrase": "running Knowledge Distillation",
+    "relevance": 0.0035308295728302113,
+    "title": "Chunked KL loss, running Knowledge Distillation locally in less <6GB VRAM",
+    "link": "https://github.com/CompactifAI/Full-Chunked-KL-Loss"
+  },
+  {
+    "phrase": "Visa stress clouds",
+    "relevance": 0.01655915082773619,
+    "title": "Visa stress clouds my life as a scientist and parent",
+    "link": "https://www.science.org/content/article/visa-stress-clouds-my-life-scientist-and-parent"
+  },
+  {
+    "phrase": "Foreign-Made Robot Vacuums",
+    "relevance": 0.00688415006041516,
+    "title": "What the FCC Ban on Foreign-Made Robot Vacuums Means for U.S. Consumers",
+    "link": "https://www.consumerreports.org/appliances/vacuum-cleaners/foreign-made-robot-vacuums-fcc-ban-a9842224597/"
+  },
+  {
+    "phrase": "Ethicist Reportedly Left",
+    "relevance": 0.0032173869679631944,
+    "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+    "link": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883"
+  },
+  {
+    "phrase": "Expert Coding Ability",
+    "relevance": 0.0011031048803583578,
+    "title": "Video Demo of Grok 4.5 Expert's Coding Ability (Web Interface)",
+    "link": "https://www.youtube.com/watch?v=Nc-X8MHb2oU"
+  },
+  {
+    "phrase": "Jinks",
+    "relevance": 0.030396371632413578,
+    "title": "Hi, Jinks",
+    "link": "https://blog.gingerbeardman.com/2026/07/30/hi-jinks/"
+  },
+  {
+    "phrase": "months",
+    "relevance": 0.15831692877998726,
+    "title": "I got through my inbox in only two months",
+    "link": "http://ratfactor.com/inbox2026-done"
+  },
+  {
+    "phrase": "Testing with Wiremock",
+    "relevance": 0.012602360123953448,
+    "title": "Contract Testing with Wiremock",
+    "link": "https://manuelzubieta.com/blog/wiremock-http-providers/"
+  },
+  {
+    "phrase": "Maps Schizophrenia",
+    "relevance": 0.02140921543860024,
+    "title": "AI Maps Schizophrenia as a Network of 766 Genes",
+    "link": "https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/"
+  },
+  {
+    "phrase": "NVMe demand paging",
+    "relevance": 0.016559150827736194,
+    "title": "Show HN: DeepSeek V4 Flash with 7.7 GiB RAM using NVMe demand paging",
+    "link": "https://github.com/baker27727/ds4-8gb-cpu"
+  },
+  {
+    "phrase": "rival app stores",
+    "relevance": 0.006024405443439764,
+    "title": "Following Epic loss, Google has started hosting rival app stores in Play Store",
+    "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/"
+  },
+  {
+    "phrase": "Sqemo",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Sqemo \u2013 An ERD tool where column names are generated, not typed",
+    "link": "https://app.sqemo.com"
+  },
+  {
+    "phrase": "Frags framework",
+    "relevance": 0.04940384002065631,
+    "title": "Frags framework for precision in AI agents",
+    "link": "https://github.com/theirish81/frags"
+  },
+  {
+    "phrase": "planet",
+    "relevance": 0.15831692877998726,
+    "title": "Don't despair about what's happening to our planet",
+    "link": "https://www.theguardian.com/membership/2026/aug/11/dont-despair-about-whats-happening-to-our-planet-thats-what-they-want-you-to-feel"
+  },
+  {
+    "phrase": "Agentic test processes",
+    "relevance": 0.008321268142839145,
+    "title": "Agentic test processes, LLM benchmarks, and other notes",
+    "link": "https://danluu.com/ai-coding/"
+  },
+  {
+    "phrase": "Local video dubbing",
+    "relevance": 0.008680855907871378,
+    "title": "ReVoice: Local video dubbing with voice cloning, no cloud/API",
+    "link": "https://news.ycombinator.com/item?id=49256988"
+  },
+  {
+    "phrase": "core life skill",
+    "relevance": 0.016559150827736194,
+    "title": "Staring into the abyss as a core life skill (2022)",
+    "link": "https://www.benkuhn.net/abyss/"
+  },
+  {
+    "phrase": "Cloudflare Pricing Calculator",
+    "relevance": 0.0020632546775457305,
+    "title": "Cloudflare Pricing Calculator",
+    "link": "https://xoresearch.org/blog/cloudflare-pricing-calculator"
+  },
+  {
+    "phrase": "physics SIM",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Two LLMs sword-fight in a physics SIM, humans blind-vote who reasoned",
+    "link": "https://news.ycombinator.com/item?id=49256978"
+  },
+  {
+    "phrase": "Ruby on Rails",
+    "relevance": 0.02140921543860024,
+    "title": "GPU AI workloads with a Ruby on Rails monolith",
+    "link": "https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith"
+  },
+  {
+    "phrase": "LLM call",
+    "relevance": 0.01095127216436075,
+    "title": "No standard says what to record about an LLM call, so I built the record",
+    "link": "https://stillig.net/posts/tamper-evident-llm-calls/"
+  },
+  {
+    "phrase": "Rotten Tomatoes",
+    "relevance": 0.007444681613352736,
+    "title": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
+    "link": "https://popcorn.movie/"
+  },
+  {
+    "phrase": "Google Search",
+    "relevance": 0.004925103769790319,
+    "title": "The End of Google Search\u2013and the Internet\u2013As We Know It",
+    "link": "https://www.theringer.com/2026/08/04/tech/google-search-ai-internet"
+  },
+  {
+    "phrase": "extensible eBook reader",
+    "relevance": 0.03339840940482845,
+    "title": "Show HN: ReadAware \u2013 an extensible eBook reader that evolves with you",
+    "link": "https://github.com/ahpxex/read-aware"
+  },
+  {
+    "phrase": "local-first Mac productivity",
+    "relevance": 0.015042304599106411,
+    "title": "Show HN: PrimeTask \u2013 A local-first Mac productivity system with an MCP server",
+    "link": "https://www.primetask.app/"
+  },
+  {
+    "phrase": "AWS Elastic Beanstalk",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: Ebman \u2013 a k9s-style terminal UI for AWS Elastic Beanstalk",
+    "link": "https://github.com/tombaldwin/ebman"
+  },
+  {
+    "phrase": "change hit Europe",
+    "relevance": 0.015042304599106411,
+    "title": "How the hard reality of climate change hit Europe's economy this summer",
+    "link": "https://www.reuters.com/business/environment/how-hard-reality-climate-change-hit-europes-economy-this-summer-2026-08-10/"
+  },
+  {
+    "phrase": "Vladimir Arnold Rainbow",
+    "relevance": 0.0035308295728302113,
+    "title": "Vladimir Arnold's Rainbow Is a Masterclass in Simplification [video]",
+    "link": "https://www.youtube.com/watch?v=ZJH-5LLwWuo"
+  },
+  {
+    "phrase": "Website showing form",
+    "relevance": 0.01655915082773619,
+    "title": "Website showing form intersections in 3D",
+    "link": "https://eyes.training/intersections/"
+  },
+  {
+    "phrase": "Ghost Tools Act",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: HoneyMCP \u2013 Deception Layer for MCP Servers, Ghost Tools Act as Honeypot",
+    "link": "https://github.com/barvhaim/HoneyMCP"
+  },
+  {
+    "phrase": "Models' Inner Thoughts",
+    "relevance": 0.012602360123953448,
+    "title": "Reasoning Traces: A New Trick Reveals AI Models' Inner Thoughts",
+    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
+  },
+  {
+    "phrase": "Claude Code workflow",
+    "relevance": 0.0035308295728302113,
+    "title": "Show HN: Synapse \u2013 a monitoring SaaS shipped with my Claude Code workflow",
+    "link": "https://synapse.mdlc.ai"
+  },
+  {
+    "phrase": "insecure attachment",
+    "relevance": 0.04940384002065631,
+    "title": "The guide to healing your insecure attachment",
+    "link": "https://www.pasthepast.com/p/the-ultima-guide-to-healing-your"
+  },
+  {
+    "phrase": "Vaultwarden Sequence Diagrams",
+    "relevance": 0.0020632546775457305,
+    "title": "Vaultwarden Sequence Diagrams",
+    "link": "https://app.ilograph.com/demo.ilograph.Vaultwarden/Log%2520In"
+  },
+  {
+    "phrase": "American Cities",
+    "relevance": 0.012602360123953448,
+    "title": "How 10,000 American Cities Got Their Names",
+    "link": "https://www.wsj.com/us-news/how-10-000-american-cities-got-their-names-a67c625e"
+  },
+  {
+    "phrase": "planning system",
+    "relevance": 0.015380821171891606,
+    "title": "How the government is using AI to speed up the planning system",
+    "link": "https://takes.jamesomalley.co.uk/p/build-gemini-build"
+  },
+  {
+    "phrase": "Replacing HTML",
+    "relevance": 0.007444681613352736,
+    "title": "Show HN: Replacing HTML/CSS/JS with Rust",
+    "link": "https://fui-rs-demo.effindom.dev/"
+  },
+  {
+    "phrase": "Reprogram your mind",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Reprogram your mind while you vibe code",
+    "link": "https://justglow.dev/"
+  },
+  {
+    "phrase": "Important Social Phenomenon",
+    "relevance": 0.0002979868059763887,
+    "title": "The Closure of the Internet: Most Important Social Phenomenon of the Late 2010s",
+    "link": "https://arctotherium.substack.com/p/the-closure-of-the-internet"
+  },
+  {
+    "phrase": "general intelligence unit",
+    "relevance": 0.016559150827736194,
+    "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+    "link": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html"
+  },
+  {
+    "phrase": "CPU jitter entropy",
+    "relevance": 0.008680855907871378,
+    "title": "CPU jitter entropy random number generator",
+    "link": "https://www.chronox.de/jent/"
+  },
+  {
+    "phrase": "GitHub Custom thread",
+    "relevance": 0.007568253837993474,
+    "title": "GitHub Custom thread subscriptions are being deprecated",
+    "link": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated/"
+  },
+  {
+    "phrase": "Dude Photographed",
+    "relevance": 0.007444681613352736,
+    "title": "\"I Don't Have Anything to Hide\", Said the Dude Photographed on the Toilet",
+    "link": "https://postcapitalistrobots.substack.com/p/i-dont-have-anything-to-hide-said"
+  },
+  {
+    "phrase": "CISOs spend",
+    "relevance": 0.04940384002065631,
+    "title": "71% of CISOs spend 10 hours on board reports",
+    "link": "https://www.helpnetsecurity.com/2026/08/10/ciso-board-communication-gap-report/"
+  },
+  {
+    "phrase": "teach analog electronics",
+    "relevance": 0.03339840940482845,
+    "title": "Ask HN: How did you teach analog electronics to your kids?",
+    "link": "https://news.ycombinator.com/item?id=49256631"
+  },
+  {
+    "phrase": "community-powered generation service",
+    "relevance": 0.008321268142839145,
+    "title": "AI Horde A free, community-powered generation service",
+    "link": "https://stablehorde.net/"
+  },
+  {
+    "phrase": "generate more ideas",
+    "relevance": 0.02570861714399338,
+    "title": "How to get AI to generate more ideas by itself",
+    "link": "https://bymorning.ai/journal/idea-mode-collapse"
+  },
+  {
+    "phrase": "Charging drones mid-flight",
+    "relevance": 0.01655915082773619,
+    "title": "Charging drones mid-flight with lasers",
+    "link": "https://www.eurekalert.org/news-releases/1137218"
+  },
+  {
+    "phrase": "std",
+    "relevance": 0.04491197687864554,
+    "title": "How fast is C++26's std::hive?",
+    "link": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/"
+  },
+  {
+    "phrase": "scans your Supabase",
+    "relevance": 0.023458380875189744,
+    "title": "Show HN: Sentris \u2013 scans your Supabase repo for missing RLS and leaked keys",
+    "link": "https://www.sentris.dev/index"
+  },
+  {
+    "phrase": "Agentic",
+    "relevance": 0.030396371632413578,
+    "title": "WorldClaw \u2013 Agentic 3D open-world generation at scale",
+    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"
+  },
+  {
+    "phrase": "Tesserae",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: Tesserae, self-hosted dashboards for e-ink panels",
+    "link": "https://tesserae.ink/"
+  },
+  {
+    "phrase": "Investable Asset Class",
+    "relevance": 0.001881309737406442,
+    "title": "Jensen: \"Nvidia AI Factory Compute Is Becoming an Investable Asset Class\"",
+    "link": "https://twitter.com/JensenHuang/status/2086934705207959965"
+  },
+  {
+    "phrase": "Russian Civilian Deaths",
+    "relevance": 0.0035308295728302113,
+    "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
+  },
+  {
+    "phrase": "Syrian Holdout Province",
+    "relevance": 0.000428304966184317,
+    "title": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
+    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html"
+  },
+  {
+    "phrase": "Earthquake in Colombia",
+    "relevance": 0.012602360123953448,
+    "title": "What We Know About the Earthquake in Colombia",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html"
+  },
+  {
+    "phrase": "Eclipse Is Coming",
+    "relevance": 0.004925103769790319,
+    "title": "The Eclipse Is Coming, and Iceland Is \u2026 Mostly Ready",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html"
+  },
+  {
+    "phrase": "Ceuta Migrant Surge",
+    "relevance": 0.001881309737406442,
+    "title": "Spain\u2019s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html"
+  },
+  {
+    "phrase": "Power Broker",
+    "relevance": 0.006240805376552952,
+    "title": "How Ra\u00fal Castro\u2019s Grandson, Ra\u00fal G. Rodr\u00edguez Castro, Became a Power Broker",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+  },
+  {
+    "phrase": "Quintana Roo",
+    "relevance": 0.012602360123953448,
+    "title": "What to Know About the Cuban Mafia in Quintana Roo",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html"
+  },
+  {
+    "phrase": "Sweltering Summer",
+    "relevance": 0.012602360123953448,
+    "title": "In a Sweltering Summer, These Italians Want Romans to Curl",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html"
+  },
+  {
+    "phrase": "Unsolicited Telemarketing Calls",
+    "relevance": 0.001881309737406442,
+    "title": "France Bans Unsolicited Telemarketing Calls",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html"
+  },
+  {
+    "phrase": "Quake Hits Colombia",
+    "relevance": 0.001881309737406442,
+    "title": "Major Quake Hits Colombia, Killing at Least 111",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+  },
+  {
     "phrase": "Iran Bears Brunt",
     "relevance": 0.0032173869679631944,
     "title": "Southern Iran Bears Brunt of U.S. Bombing",
     "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html"
-  },
-  {
-    "phrase": "Red Chile Capital",
-    "relevance": 0.0032173869679631944,
-    "title": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
-    "link": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html"
   },
   {
     "phrase": "Ukraine Drone Attack",
@@ -18,10 +672,112 @@
     "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html"
   },
   {
-    "phrase": "Potential Chinese Attack",
+    "phrase": "Red Chile Capital",
+    "relevance": 0.0032173869679631944,
+    "title": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
+    "link": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html"
+  },
+  {
+    "phrase": "Gaza Disarmament Deal",
     "relevance": 0.001881309737406442,
-    "title": "How Taiwan Simulated a Potential Chinese Attack",
-    "link": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html"
+    "title": "Netanyahu Walks Tightrope on Trump\u2019s Gaza Disarmament Deal",
+    "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html"
+  },
+  {
+    "phrase": "Crimes Against Humanity",
+    "relevance": 0.012602360123953448,
+    "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
+  },
+  {
+    "phrase": "Social Media Sparked",
+    "relevance": 0.0032173869679631944,
+    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+    "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html"
+  },
+  {
+    "phrase": "East Asia Deploys",
+    "relevance": 0.05944691994623412,
+    "title": "A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets",
+    "link": "https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html"
+  },
+  {
+    "phrase": "Consulate in Nova",
+    "relevance": 0.004925103769790319,
+    "title": "Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html"
+  },
+  {
+    "phrase": "Quake Hit Hardest",
+    "relevance": 0.001881309737406442,
+    "title": "Here Is Where Colombia\u2019s Quake Hit Hardest",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html"
+  },
+  {
+    "phrase": "Russian Antiwar Party",
+    "relevance": 0.0011031048803583578,
+    "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html"
+  },
+  {
+    "phrase": "Advance Peace Process",
+    "relevance": 0.0032173869679631944,
+    "title": "Turkey Moves to Advance Peace Process With P.K.K.",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/turkey-law-pkk-peace-framework.html"
+  },
+  {
+    "phrase": "Quake Chases Teenage",
+    "relevance": 0.0032173869679631944,
+    "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html"
+  },
+  {
+    "phrase": "Arday \u2019s Memoir",
+    "relevance": 0.012602360123953448,
+    "title": "Takeaways From Jason Arday\u2019s Memoir",
+    "link": "https://www.nytimes.com/2026/08/10/books/review/jason-arday-memoir-takeaways.html"
+  },
+  {
+    "phrase": "Journalism and Paywalls",
+    "relevance": 0.013797198203993007,
+    "title": "Journalism and Paywalls",
+    "link": "https://www.nytimes.com/2026/08/10/world/journalism-us-colombia-quake.html"
+  },
+  {
+    "phrase": "Diver Discovers Hundreds",
+    "relevance": 0.0032173869679631944,
+    "title": "Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html"
+  },
+  {
+    "phrase": "Earthquake Puts Abelardo",
+    "relevance": 0.0032173869679631944,
+    "title": "Colombia\u2019s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html"
+  },
+  {
+    "phrase": "Images Emerge",
+    "relevance": 0.023458380875189744,
+    "title": "Images Emerge From Quake-Battered Colombia",
+    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html"
+  },
+  {
+    "phrase": "Ireland Power Cable",
+    "relevance": 0.0011031048803583578,
+    "title": "How \u2018Harry Potter\u2019 Fans Protected Dobby\u2019s Grave From the Path of a U.K.-Ireland Power Cable",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html"
+  },
+  {
+    "phrase": "Break Youth Protest",
+    "relevance": 0.001881309737406442,
+    "title": "Police in India Use Tear Gas to Break Youth Protest",
+    "link": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html"
+  },
+  {
+    "phrase": "latest",
+    "relevance": 0.15831692877998726,
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake"
   },
   {
     "phrase": "Iran Insists Strait",
@@ -30,16 +786,10 @@
     "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html"
   },
   {
-    "phrase": "Spanish Hometown",
-    "relevance": 0.00643573886924208,
-    "title": "He Transformed His Spanish Hometown. Did He Also Spoil It?",
-    "link": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html"
-  },
-  {
-    "phrase": "Social Media Ban",
-    "relevance": 0.000428304966184317,
-    "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
-    "link": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html"
+    "phrase": "Potential Chinese Attack",
+    "relevance": 0.001881309737406442,
+    "title": "How Taiwan Simulated a Potential Chinese Attack",
+    "link": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html"
   },
   {
     "phrase": "Prompting Mass Evacuations",
@@ -48,46 +798,22 @@
     "link": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html"
   },
   {
-    "phrase": "Hezbollah \u2019s Finances",
-    "relevance": 0.012602360123953448,
-    "title": "Inside the War on Hezbollah\u2019s Finances",
-    "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
-  },
-  {
-    "phrase": "Holding Firm",
-    "relevance": 0.004925103769790319,
-    "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-    "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html"
-  },
-  {
-    "phrase": "Iran War Timeline",
-    "relevance": 0.000477348531910374,
-    "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel\u2019s Campaign",
-    "link": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html"
-  },
-  {
-    "phrase": "Iran Taps Longtime",
-    "relevance": 0.0032788586545169198,
-    "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-    "link": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
-  },
-  {
-    "phrase": "Israel Rejects Trump",
-    "relevance": 0.0035308295728302113,
-    "title": "Israel Rejects Trump\u2019s 15-Point Plan to Disarm Hamas",
-    "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
-  },
-  {
-    "phrase": "Climate Warms",
-    "relevance": 0.012602360123953448,
-    "title": "As the Climate Warms, Beavers are Coming for Canada\u2019s Arctic",
-    "link": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html"
-  },
-  {
     "phrase": "Canada Wildfire Leaves",
     "relevance": 0.001881309737406442,
     "title": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
     "link": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html"
+  },
+  {
+    "phrase": "Social Media Ban",
+    "relevance": 0.000428304966184317,
+    "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
+    "link": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html"
+  },
+  {
+    "phrase": "Spanish Hometown",
+    "relevance": 0.00643573886924208,
+    "title": "He Transformed His Spanish Hometown. Did He Also Spoil It?",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html"
   },
   {
     "phrase": "Daniel Kinahan Extradited",
@@ -102,10 +828,40 @@
     "link": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html"
   },
   {
+    "phrase": "Iran Taps Longtime",
+    "relevance": 0.0032788586545169198,
+    "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+    "link": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
+  },
+  {
+    "phrase": "Holding Firm",
+    "relevance": 0.004925103769790319,
+    "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+    "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html"
+  },
+  {
     "phrase": "Russian Military Presence",
     "relevance": 0.001881309737406442,
     "title": "Syria Agrees to Reorganized Russian Military Presence",
     "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html"
+  },
+  {
+    "phrase": "Israel Rejects Trump",
+    "relevance": 0.0035308295728302113,
+    "title": "Israel Rejects Trump\u2019s 15-Point Plan to Disarm Hamas",
+    "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
+  },
+  {
+    "phrase": "Climate Warms",
+    "relevance": 0.012602360123953448,
+    "title": "As the Climate Warms, Beavers are Coming for Canada\u2019s Arctic",
+    "link": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html"
+  },
+  {
+    "phrase": "Hezbollah \u2019s Finances",
+    "relevance": 0.012602360123953448,
+    "title": "Inside the War on Hezbollah\u2019s Finances",
+    "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
   },
   {
     "phrase": "Hellscape\u2019 Might Stop",
@@ -180,160 +936,46 @@
     "link": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html"
   },
   {
-    "phrase": "Soldiers Who Fought",
-    "relevance": 0.007444681613352736,
-    "title": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time",
-    "link": "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html"
+    "phrase": "inside silver nanocatalysts",
+    "relevance": 0.016559150827736194,
+    "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm"
   },
   {
-    "phrase": "Concessions in Trade",
-    "relevance": 0.012602360123953448,
-    "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-    "link": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html"
+    "phrase": "Watch live",
+    "relevance": 0.013797198203993007,
+    "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
   },
   {
-    "phrase": "Yemeni Military Camp",
-    "relevance": 0.001881309737406442,
-    "title": "Houthis Claim Attack on Yemeni Military Camp",
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html"
-  },
-  {
-    "phrase": "Russian Detention",
-    "relevance": 0.012602360123953448,
-    "title": "Former Marine Is Unresponsive After Mistreatment in Russian Detention, Family Says",
-    "link": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html"
-  },
-  {
-    "phrase": "Squeezes Cuba",
-    "relevance": 0.012602360123953448,
-    "title": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html"
-  },
-  {
-    "phrase": "Iran War Drags",
-    "relevance": 0.0032173869679631944,
-    "title": "Iranians Say Trump\u2019s Promises Have Fallen by the Wayside as Iran War Drags On",
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
-  },
-  {
-    "phrase": "Central Europe Broke",
-    "relevance": 0.0032173869679631944,
-    "title": "Parts of Eastern and Central Europe Broke Heat Records This Week",
-    "link": "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html"
-  },
-  {
-    "phrase": "Show England Turning",
-    "relevance": 0.0032173869679631944,
-    "title": "Photos Show England Turning Brown in Drought",
-    "link": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html"
-  },
-  {
-    "phrase": "Drying Danube River",
-    "relevance": 0.0032173869679631944,
-    "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
-    "link": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html"
-  },
-  {
-    "phrase": "Joint Defense Pact",
-    "relevance": 0.001881309737406442,
-    "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
-  },
-  {
-    "phrase": "Battled Extreme Weather",
-    "relevance": 0.0032173869679631944,
-    "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
-    "link": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html"
-  },
-  {
-    "phrase": "Earthquake Strikes Japan",
-    "relevance": 0.0032173869679631944,
-    "title": "Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery",
-    "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html"
-  },
-  {
-    "phrase": "Key Nuclear Sites",
-    "relevance": 0.001881309737406442,
-    "title": "The State of Iran\u2019s Three Key Nuclear Sites",
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html"
-  },
-  {
-    "phrase": "Target Drug Traffickers",
-    "relevance": 0.001881309737406442,
-    "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-    "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html"
-  },
-  {
-    "phrase": "Israeli Custody",
-    "relevance": 0.012602360123953448,
-    "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html"
-  },
-  {
-    "phrase": "Boy Kills Grandparents",
-    "relevance": 0.0035308295728302113,
-    "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
-    "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
-  },
-  {
-    "phrase": "Communist Justice System",
-    "relevance": 0.001881309737406442,
-    "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
-    "link": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html"
-  },
-  {
-    "phrase": "Japan Reduced Deaths",
-    "relevance": 0.0032173869679631944,
-    "title": "How Japan Reduced Deaths From a Major Quake",
-    "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html"
-  },
-  {
-    "phrase": "Barbican in London",
-    "relevance": 0.02140921543860024,
-    "title": "Residents of the Barbican in London Are Battling a New Tower",
-    "link": "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html"
-  },
-  {
-    "phrase": "Trump Calls Canadians",
-    "relevance": 0.001881309737406442,
-    "title": "After Trump Calls Canadians \u2018Nasty,\u2019 Mark Carney Says the Word Fits Trade Talks",
-    "link": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html"
-  },
-  {
-    "phrase": "Good Things",
-    "relevance": 0.012602360123953448,
-    "title": "A List of Good Things",
-    "link": "https://www.nytimes.com/2026/08/06/world/good-list-rituals-strait-hormuz-fifa.html"
-  },
-  {
-    "phrase": "Birds Are Dying",
-    "relevance": 0.01984585111858601,
-    "title": "Birds Are Dying. Clues Point to El Ni\u00f1o.",
-    "link": "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html"
-  },
-  {
-    "phrase": "Kick Livestream Death",
-    "relevance": 0.001881309737406442,
-    "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
-    "link": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html"
-  },
-  {
-    "phrase": "Brazilian Legislature",
-    "relevance": 0.012602360123953448,
-    "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
-    "link": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html"
-  },
-  {
-    "phrase": "Reignite Civil War",
-    "relevance": 0.001881309737406442,
-    "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
-    "link": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html"
+    "phrase": "years",
+    "relevance": 0.04491197687864554,
+    "title": "For 15,000 years, humans and dogs have been changing each other",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
   },
   {
     "phrase": "ostrich eggshell engravings",
     "relevance": 0.01655915082773619,
     "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
     "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm"
+  },
+  {
+    "phrase": "Indigenous Andeans",
+    "relevance": 0.02140921543860024,
+    "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm"
+  },
+  {
+    "phrase": "reptile fossil reveals",
+    "relevance": 0.01655915082773619,
+    "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm"
+  },
+  {
+    "phrase": "twist in Saturn",
+    "relevance": 0.04498862876540802,
+    "title": "Cassini reveals a surprising twist in Saturn\u2019s magnetic shield",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm"
   },
   {
     "phrase": "MRI study finds",
@@ -652,41 +1294,5 @@
     "relevance": 0.015042304599106411,
     "title": "Giant waves are sweeping Mars\u2019 atmosphere into space",
     "link": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm"
-  },
-  {
-    "phrase": "Mathematicians prove perfectly",
-    "relevance": 0.01655915082773619,
-    "title": "Mathematicians prove perfectly fair elections are impossible",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
-  },
-  {
-    "phrase": "DNA",
-    "relevance": 0.1447773057422032,
-    "title": "Cancer may be breaking its own DNA to keep growing",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm"
-  },
-  {
-    "phrase": "towering lava fountains",
-    "relevance": 0.016559150827736194,
-    "title": "Superheated magma may power towering lava fountains",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm"
-  },
-  {
-    "phrase": "quadrillion electron volts",
-    "relevance": 0.016559150827736194,
-    "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm"
-  },
-  {
-    "phrase": "NASA \u2019s Curiosity",
-    "relevance": 0.012602360123953448,
-    "title": "NASA\u2019s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm"
-  },
-  {
-    "phrase": "ghost\u2019 ancestors hiding",
-    "relevance": 0.01655915082773619,
-    "title": "Scientists found two mysterious \u2018ghost\u2019 ancestors hiding in our DNA",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm"
   }
 ]
