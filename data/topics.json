@@ -1,15 +1,89 @@
 [
   {
-    "cluster": 2,
-    "name": "Ancient Fossils and Archaeological Findings",
+    "cluster": -1,
+    "name": "Global News Roundup",
     "articles": [
       {
-        "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
-        "link": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html"
+        "title": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
       },
       {
-        "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html"
+        "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+        "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html"
+      },
+      {
+        "title": "After Notre-Dame Fire, France Restored the Cathedral \u2014 but Not These Windows",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html"
+      },
+      {
+        "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+      },
+      {
+        "title": "With Trump\u2019s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "link": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html"
+      },
+      {
+        "title": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html"
+      },
+      {
+        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+        "link": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html"
+      },
+      {
+        "title": "Former Catholic Bishop Is Convicted of Sexual Abuse, Australian News Outlets Say",
+        "link": "https://www.nytimes.com/2026/08/13/world/australia/bishop-christopher-saunders-abuse.html"
+      },
+      {
+        "title": "What to Know About the U.K. Special Election: Farage vs. Binface",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html"
+      },
+      {
+        "title": "Muddling through Iceland\u2019s rainy eclipse, accompanied by clouds, whales and at least one proposal.",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal"
+      },
+      {
+        "title": "Afghanistan\u2019s Unhappy Anniversary",
+        "link": "https://www.nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html"
+      },
+      {
+        "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html"
+      },
+      {
+        "title": "Dogs can tell fear from sadness \u2014 and scientists saw it in their brains",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm"
+      },
+      {
+        "title": "For 15,000 years, humans and dogs have been changing each other",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
+      },
+      {
+        "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm"
+      },
+      {
+        "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "name": "Ancient Fossils And Scientific Discovery",
+    "articles": [
+      {
+        "title": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
+        "link": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html"
+      },
+      {
+        "title": "More Than 40 Dead After a Ferry Capsizes on Zimbabwe\u2019s Lake Kariba",
+        "link": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html"
+      },
+      {
+        "title": "This remote spot has cliffs, seabirds \u2014 and today, a few extra seconds of darkness.",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/this-remote-spot-has-cliffs-seabirds-and-today-a-few-extra-seconds-of-darkness"
       },
       {
         "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
@@ -18,10 +92,6 @@
       {
         "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
         "link": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm"
-      },
-      {
-        "title": "The secret hidden in these ancient manuscripts isn\u2019t written in ink",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm"
       },
       {
         "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
@@ -44,6 +114,10 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
       },
       {
+        "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm"
+      },
+      {
         "title": "The key to colonizing Mars may be hidden inside asteroids",
         "link": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm"
       },
@@ -60,30 +134,214 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
       },
       {
-        "title": "Scientists catch a \u201cjumping gene\u201d mid-leap between species",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm"
-      },
-      {
         "title": "518-million-year-old creature reveals the origins of spider fangs",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm"
       }
     ]
   },
   {
-    "cluster": 6,
-    "name": "Brain Science and Neuroscience",
+    "cluster": 0,
+    "name": "Solar Eclipse Coverage",
     "articles": [
       {
-        "title": "The Man on a Mission to Build India\u2019s Most Livable City",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html"
+        "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html"
       },
+      {
+        "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
+      },
+      {
+        "title": "At Iceland\u2019s eclipse festival, a prayer for sea cucumbers and \u2018generosity from the sky.\u2019",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/at-icelands-eclipse-festival-prayer-for-sea-cucumbers-and-generosity-from-the-sky"
+      },
+      {
+        "title": "Eclipse chasers stake out their viewing spots in Iceland.",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland"
+      },
+      {
+        "title": "A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html"
+      },
+      {
+        "title": "How Scientists Use Eclipses for Research",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html"
+      },
+      {
+        "title": "What happens to animals during an eclipse?",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/what-happens-to-animals-during-an-eclipse"
+      },
+      {
+        "title": "Even outside the path of totality, the eclipse will provide remarkable views.",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/even-outside-the-path-of-totality-the-eclipse-will-provide-remarkable-views"
+      },
+      {
+        "title": "How to Safely Watch the Solar Eclipse, Even Without Glasses",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/watch-solar-eclipse-without-glasses-pinhole-camera-colander.html"
+      },
+      {
+        "title": "In Iceland, the eclipse czar is broken-hearted over the weather.",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/in-iceland-the-eclipse-czar-is-broken-hearted-over-the-weather"
+      },
+      {
+        "title": "The sun is covered in tiny whirlpools we\u2019ve never seen before",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm"
+      },
+      {
+        "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "name": "International Crises And Space",
+    "articles": [
+      {
+        "title": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
+        "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html"
+      },
+      {
+        "title": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html"
+      },
+      {
+        "title": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
+        "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html"
+      },
+      {
+        "title": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
+        "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html"
+      },
+      {
+        "title": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+        "link": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html"
+      },
+      {
+        "title": "Brazil\u2019s Disease-Fighting Mosquitoes",
+        "link": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html"
+      },
+      {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
+      },
+      {
+        "title": "A Bright Spot in Colombia as Rescuers Free Quake Victim",
+        "link": "https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html"
+      },
+      {
+        "title": "A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html"
+      },
+      {
+        "title": "James Webb captures a cosmic lion sculpted by a dying star",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
+      },
+      {
+        "title": "A protein older than blood circulation could transform cancer immunotherapy",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 9,
+    "name": "Climate Impact On Infrastructure",
+    "articles": [
+      {
+        "title": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html"
+      },
+      {
+        "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+        "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html"
+      },
+      {
+        "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html"
+      },
+      {
+        "title": "Coming next summer: the \u2018eclipse of the century.\u2019",
+        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt"
+      },
+      {
+        "title": "The Man on a Mission to Build India\u2019s Most Livable City",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html"
+      },
+      {
+        "title": "\u2018An English Summer Is Not the Same Anymore\u2019",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html"
+      },
+      {
+        "title": "Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos",
+        "link": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html"
+      },
+      {
+        "title": "Effects of Record-Breaking El Ni\u00f1o Are Happening on 3 Continents",
+        "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html"
+      },
+      {
+        "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
+      },
+      {
+        "title": "Scientists tracked 12 people in Antarctica for 10 months\u2014what happened could shape future Mars missions",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "name": "Brain Science Breakthroughs",
+    "articles": [
+      {
+        "title": "Electric Thrills",
+        "link": "https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html"
+      },
+      {
+        "title": "Trump\u2019s Plane Switch Ruse Pales in Comparison With Putin\u2019s Secrecy",
+        "link": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html"
+      },
+      {
+        "title": "Black holes older than the Big Bang could explain dark matter",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm"
+      },
+      {
+        "title": "Ozempic may have revealed the brain\u2019s hidden \u201ccraving center\u201d",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm"
+      },
+      {
+        "title": "Cassini reveals a surprising twist in Saturn\u2019s magnetic shield",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm"
+      },
+      {
+        "title": "The dodo bird had a secret sensory world scientists are only now discovering",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm"
+      },
+      {
+        "title": "Teen cannabis use linked to slower memory and thinking growth",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm"
+      },
+      {
+        "title": "A star\u2019s violent death exposed a hidden supermassive black hole",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
+      },
+      {
+        "title": "Scientists catch a \u201cjumping gene\u201d mid-leap between species",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm"
+      },
+      {
+        "title": "Your brain may be wired to regain lost weight",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "name": "Neuroscience And Brain Health",
+    "articles": [
       {
         "title": "Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 M.P.H.",
         "link": "https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html"
-      },
-      {
-        "title": "Why Nigel Farage Is Running Against a \u2018Trash Can\u2019",
-        "link": "https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html"
       },
       {
         "title": "Scientists discover a hidden brain rhythm that could improve Parkinson\u2019s treatment",
@@ -94,10 +352,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm"
       },
       {
-        "title": "Ozempic may have revealed the brain\u2019s hidden \u201ccraving center\u201d",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm"
-      },
-      {
         "title": "Exercise may help the aging brain \u201ctake out the trash\u201d",
         "link": "https://www.sciencedaily.com/releases/2026/08/260810015719.htm"
       },
@@ -106,12 +360,8 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm"
       },
       {
-        "title": "The dodo bird had a secret sensory world scientists are only now discovering",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm"
-      },
-      {
-        "title": "Teen cannabis use linked to slower memory and thinking growth",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm"
+        "title": "Earth\u2019s molten core suddenly reversed direction \u2014 and scientists don\u2019t know why",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm"
       },
       {
         "title": "Scientists discover a hidden brain shift that begins around age 50",
@@ -128,25 +378,13 @@
       {
         "title": "Nearly half of dementia cases may be linked to risks you can change",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm"
-      },
-      {
-        "title": "Your brain may be wired to regain lost weight",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
       }
     ]
   },
   {
-    "cluster": 0,
-    "name": "Scientific Discoveries and Breakthroughs",
+    "cluster": 7,
+    "name": "Materials And Biological Innovation",
     "articles": [
-      {
-        "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html"
-      },
-      {
-        "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html"
-      },
       {
         "title": "Scientists turn Starlink into a giant scanner for Earth\u2019s upper atmosphere",
         "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
@@ -168,24 +406,12 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm"
       },
       {
-        "title": "Dogs can tell fear from sadness \u2014 and scientists saw it in their brains",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm"
-      },
-      {
         "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
         "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm"
       },
       {
-        "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm"
-      },
-      {
         "title": "Scientists find unexpected life on \u00d6tzi the Iceman\u2019s 5,300-year-old body",
         "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm"
-      },
-      {
-        "title": "Earth\u2019s molten core suddenly reversed direction \u2014 and scientists don\u2019t know why",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm"
       },
       {
         "title": "Scientists discover the brain cells that keep you motivated",
@@ -194,68 +420,36 @@
       {
         "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm"
-      },
-      {
-        "title": "Strange quantum experiment shows \u201cnegative time\u201d is more than an illusion",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
       }
     ]
   },
   {
-    "cluster": 7,
-    "name": "Geopolitics and International Incidents",
+    "cluster": 2,
+    "name": "History Art And Culture",
     "articles": [
+      {
+        "title": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
+        "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html"
+      },
+      {
+        "title": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+        "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html"
+      },
+      {
+        "title": "8 Matisse Works, Looted from Library in Brazil, Are Recovered",
+        "link": "https://www.nytimes.com/2026/08/14/world/americas/matisse-stolen-art-found-sao-paulo-brazil-heist.html"
+      },
       {
         "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
         "link": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html"
       },
       {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
-      },
-      {
-        "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
-        "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html"
-      },
-      {
-        "title": "More Than 40 Dead After a Ferry Capsizes on Zimbabwe\u2019s Lake Kariba",
-        "link": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html"
-      },
-      {
-        "title": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
-        "link": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html"
-      },
-      {
-        "title": "Muddling through Iceland\u2019s rainy eclipse, accompanied by clouds, whales and at least one proposal.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal"
-      },
-      {
-        "title": "A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html"
-      },
-      {
-        "title": "This remote spot has cliffs, seabirds \u2014 and today, a few extra seconds of darkness.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/this-remote-spot-has-cliffs-seabirds-and-today-a-few-extra-seconds-of-darkness"
-      },
-      {
-        "title": "An Electric Motorcycle Revolution",
-        "link": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html"
-      },
-      {
-        "title": "Ex-Marine Robert Gilman, Freed by Russia After 4 Years in Prison, Arrives in the U.S.",
-        "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html"
-      },
-      {
-        "title": "Six Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-        "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html"
-      },
-      {
-        "title": "James Webb captures a cosmic lion sculpted by a dying star",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
-      },
-      {
         "title": "King Harold may have lost England by backing the wrong pope",
         "link": "https://www.sciencedaily.com/releases/2026/08/260811011129.htm"
+      },
+      {
+        "title": "The secret hidden in these ancient manuscripts isn\u2019t written in ink",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm"
       },
       {
         "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
@@ -265,208 +459,42 @@
   },
   {
     "cluster": 8,
-    "name": "Natural Disasters and Humanitarian Crisis",
+    "name": "European Heat And Climate",
     "articles": [
       {
-        "title": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
-        "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html"
+        "title": "More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon",
+        "link": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html"
       },
       {
-        "title": "What to Know About Today\u2019s U.K. Special Election: Farage vs. Binface",
-        "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html"
+        "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
       },
       {
-        "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
-        "link": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html"
+        "title": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html"
       },
       {
-        "title": "A Bright Spot in Colombia as Rescuers Free Quake Victim",
-        "link": "https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html"
+        "title": "Heat is Hammering Europe, Again. Here\u2019s What That Looks Like.",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html"
       },
       {
-        "title": "Effects of Record-Breaking El Ni\u00f1o Are Happening on 3 Continents",
-        "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html"
-      },
-      {
-        "title": "He Was Deported to Eswatini in Southern Africa. He May Never Go Free.",
-        "link": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html"
-      },
-      {
-        "title": "A Rescue Effort After Colombia\u2019s Earthquake",
-        "link": "https://www.nytimes.com/video/world/americas/100000011086264/a-rescue-effort-after-colombias-earthquake.html"
-      },
-      {
-        "title": "Deported From the U.S., Trapped in a Prison in Africa",
-        "link": "https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html"
-      },
-      {
-        "title": "Searching for Survivors After Colombia\u2019s Earthquake",
-        "link": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html"
-      },
-      {
-        "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-        "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
-      },
-      {
-        "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-        "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
-      },
-      {
-        "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm"
-      },
-      {
-        "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 5,
-    "name": "European Heat Waves and Eclipse Coverage",
-    "articles": [
-      {
-        "title": "\u2018An English Summer Is Not the Same Anymore\u2019",
-        "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html"
-      },
-      {
-        "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html"
-      },
-      {
-        "title": "Coming next summer: the \u2018eclipse of the century.\u2019",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt"
+        "title": "Early-Onset El Ni\u00f1o",
+        "link": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html"
       },
       {
         "title": "As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt",
         "link": "https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html"
       },
       {
-        "title": "Even outside the path of totality, the eclipse will provide remarkable views.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/even-outside-the-path-of-totality-the-eclipse-will-provide-remarkable-views"
-      },
-      {
-        "title": "Here\u2019s how to stay safe watching the solar eclipse.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/heres-how-to-stay-safe-watching-the-solar-eclipse"
-      },
-      {
-        "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
-        "link": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe"
-      },
-      {
-        "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
-      },
-      {
-        "title": "For 15,000 years, humans and dogs have been changing each other",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
-      },
-      {
-        "title": "Scientists tracked 12 people in Antarctica for 10 months\u2014what happened could shape future Mars missions",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
+        "title": "Forget the sperm race: Fertilization may depend on teamwork",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
       }
     ]
   },
   {
-    "cluster": 3,
-    "name": "Eclipse Observations and Research",
+    "cluster": 6,
+    "name": "Quantum Physics Discoveries",
     "articles": [
-      {
-        "title": "Afghanistan\u2019s Unhappy Anniversary",
-        "link": "https://www.nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html"
-      },
-      {
-        "title": "At Iceland\u2019s eclipse festival, a prayer for sea cucumbers and \u2018generosity from the sky.\u2019",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/at-icelands-eclipse-festival-prayer-for-sea-cucumbers-and-generosity-from-the-sky"
-      },
-      {
-        "title": "Eclipse chasers stake out their viewing spots in Iceland.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland"
-      },
-      {
-        "title": "How Scientists Use Eclipses for Research",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html"
-      },
-      {
-        "title": "What happens to animals during an eclipse?",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/what-happens-to-animals-during-an-eclipse"
-      },
-      {
-        "title": "In Iceland, the eclipse czar is broken-hearted over the weather.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/in-iceland-the-eclipse-czar-is-broken-hearted-over-the-weather"
-      },
-      {
-        "title": "Spain Urges Eclipse Watchers to Be Wary of Wildfire Risks",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/be-wary-of-wildfire-risks-spanish-officials-tell-eclipse-watchers"
-      },
-      {
-        "title": "Total Eclipse",
-        "link": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html"
-      },
-      {
-        "title": "Black holes older than the Big Bang could explain dark matter",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm"
-      },
-      {
-        "title": "Cassini reveals a surprising twist in Saturn\u2019s magnetic shield",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm"
-      },
-      {
-        "title": "A star\u2019s violent death exposed a hidden supermassive black hole",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 4,
-    "name": "Solar Eclipse Events and Safety",
-    "articles": [
-      {
-        "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
-      },
-      {
-        "title": "A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html"
-      },
-      {
-        "title": "How to Safely Watch the Solar Eclipse, Even Without Glasses",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/watch-solar-eclipse-without-glasses-pinhole-camera-colander.html"
-      },
-      {
-        "title": "Solar eclipses occur when the sun, moon and Earth align in space.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipses-occur-when-the-sun-moon-and-earth-align-in-space"
-      },
-      {
-        "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
-        "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html"
-      },
-      {
-        "title": "The sun is covered in tiny whirlpools we\u2019ve never seen before",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm"
-      },
-      {
-        "title": "Sunlight creates quantum entanglement once thought to require lasers",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
-      },
-      {
-        "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 1,
-    "name": "Nanotechnology and Materials Science",
-    "articles": [
-      {
-        "title": "Thailand Halts New Gun Permits After Mass Shooting at a School",
-        "link": "https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html"
-      },
       {
         "title": "A strange crystal made of electrons just revealed its hidden motion",
         "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm"
@@ -476,50 +504,24 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm"
       },
       {
-        "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm"
+        "title": "Chemists set electrons free and break a decades-old chemistry barrier",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm"
+      },
+      {
+        "title": "Sunlight creates quantum entanglement once thought to require lasers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
       },
       {
         "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
         "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm"
       },
       {
-        "title": "A protein older than blood circulation could transform cancer immunotherapy",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm"
-      },
-      {
         "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
         "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Politics and Global Economics",
-    "articles": [
-      {
-        "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-        "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
       },
       {
-        "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
-        "link": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html"
-      },
-      {
-        "title": "Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos",
-        "link": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html"
-      },
-      {
-        "title": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-        "link": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
-      },
-      {
-        "title": "Before Trump\u2019s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
-        "link": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html"
-      },
-      {
-        "title": "Forget the sperm race: Fertilization may depend on teamwork",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
+        "title": "Strange quantum experiment shows \u201cnegative time\u201d is more than an illusion",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
       }
     ]
   }
