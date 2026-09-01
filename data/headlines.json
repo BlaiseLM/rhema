@@ -1,5 +1,60 @@
 [
   {
+    "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=13, tm_min=30, tm_sec=10, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "The Ritual of Coffin Making in a City Hit by Ebola",
+    "link": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=7, tm_sec=6, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=10, tm_min=44, tm_sec=7, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+    "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=4, tm_sec=17, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=58, tm_sec=41, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=10, tm_min=59, tm_sec=16, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
+    "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=6, tm_sec=58, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=9, tm_min=0, tm_sec=29, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=14, tm_min=24, tm_sec=2, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=10, tm_min=14, tm_sec=44, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=22, tm_sec=45, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
     "title": "These Generals Fought for Israel. Now They See \u2018Jewish Terrorism\u2019 as the Threat.",
     "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=9, tm_min=0, tm_sec=40, tm_wday=0, tm_yday=243, tm_isdst=0)"
@@ -10,19 +65,74 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=44, tm_sec=21, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
-    "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=15, tm_min=42, tm_sec=20, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
     "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=17, tm_min=52, tm_sec=3, tm_wday=0, tm_yday=243, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=22, tm_min=12, tm_sec=27, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "How to Help Nepal Flash Flood Victims",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=15, tm_min=7, tm_sec=57, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+    "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=14, tm_min=1, tm_sec=45, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Juan Tamariz, Master Magician of Misdirection and Joy, Dies at 83",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=9, tm_min=1, tm_sec=8, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+    "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=14, tm_min=50, tm_sec=57, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Expedia Fights Off Claim for Damages by Cuban Exile Families",
+    "link": "https://www.nytimes.com/2026/08/31/world/americas/expedia-cuba-exiles-suit.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=0, tm_min=6, tm_sec=57, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=4, tm_min=7, tm_sec=48, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Phantom Island Mysteriously Appears, Vanishes, Then Reappears on B.C. Reservoir",
+    "link": "https://www.nytimes.com/2026/08/31/world/canada/missing-island-canada-williston-reservoir.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=14, tm_min=22, tm_sec=50, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Your Iran Questions, Answered",
+    "link": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=4, tm_min=55, tm_sec=39, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "\u00c9douard Balladur, Embattled French Prime Minister, Dies at 97",
+    "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=14, tm_min=26, tm_sec=59, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
+    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=20, tm_min=25, tm_sec=59, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
     "title": "Lionel Messi\u2019s Retirement From Soccer Sparks Heartbreak Across Argentina",
     "link": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=27, tm_sec=1, tm_wday=0, tm_yday=243, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=9, tm_min=12, tm_sec=27, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy\u2019s Defense Chief",
+    "link": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=16, tm_sec=50, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
+    "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=19, tm_min=16, tm_sec=35, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
     "title": "Man Arrested in Switzerland After Deadly Shooting at Rave",
@@ -32,47 +142,7 @@
   {
     "title": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
     "link": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=15, tm_min=59, tm_sec=4, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy\u2019s Defense Chief",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=16, tm_sec=50, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=30, tm_sec=2, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "\u2018We Are Shattered\u2019: Survivors Recall Chaos as Ferry Sank Near Cyprus",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/cyprus-ferry-turkey.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=15, tm_min=29, tm_sec=49, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "U.S. and Iran Exchange Strikes Overnight After Monthlong Calm",
-    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=12, tm_min=20, tm_sec=48, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck.",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=17, tm_min=19, tm_sec=42, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "South Korea\u2019s Unification Church Leader Gets 2 Years in Prison for Corruption",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/south-korea-unification-church-leader-prison.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=11, tm_min=29, tm_sec=58, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "Nepal Turns to Mass Burials as Thousands Remain Missing from Floods",
-    "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=8, tm_min=39, tm_sec=59, tm_wday=0, tm_yday=243, tm_isdst=0)"
-  },
-  {
-    "title": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=14, tm_min=34, tm_sec=4, tm_wday=0, tm_yday=243, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=15, tm_min=59, tm_sec=5, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
     "title": "Why Larak Island Is Strategically Important for Iran",
@@ -80,9 +150,39 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=14, tm_min=26, tm_sec=21, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
-    "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+    "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+    "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=20, tm_min=11, tm_sec=10, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "\u2018We Are Shattered\u2019: Survivors Recall Chaos as Ferry Sank Near Cyprus",
+    "link": "https://www.nytimes.com/2026/08/31/world/europe/cyprus-ferry-turkey.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=20, tm_min=48, tm_sec=8, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "U.S. and Iran Exchange Strikes Overnight After Monthlong Calm",
+    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=12, tm_min=20, tm_sec=48, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+    "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=15, tm_min=42, tm_sec=20, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "South Korea\u2019s Unification Church Leader Gets 2 Years in Prison for Corruption",
+    "link": "https://www.nytimes.com/2026/08/31/world/asia/south-korea-unification-church-leader-prison.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=11, tm_min=29, tm_sec=58, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck.",
+    "link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=17, tm_min=19, tm_sec=42, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
     "link": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=18, tm_min=15, tm_sec=34, tm_wday=0, tm_yday=243, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=9, tm_min=55, tm_sec=34, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
     "title": "Coral Reefs Are Running Out of Time to Recover, Research Finds",
@@ -93,6 +193,11 @@
     "title": "Melting Himalayas",
     "link": "https://www.nytimes.com/2026/08/30/world/nepal-tibet-flood-glacier-nasa.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=4, tm_min=38, tm_sec=25, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "Nepal Turns to Mass Burials as Thousands Remain Missing from Floods",
+    "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=8, tm_min=39, tm_sec=59, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
     "title": "More Than 22,000 Ancient Artifacts Seized in Florida",
@@ -137,7 +242,7 @@
   {
     "title": "Before Nepal\u2019s Floods, Hindu Pilgrims Sought the Divine at Mount Kailash",
     "link": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=30, tm_hour=9, tm_min=2, tm_sec=6, tm_wday=6, tm_yday=242, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=22, tm_min=4, tm_sec=26, tm_wday=0, tm_yday=243, tm_isdst=0)"
   },
   {
     "title": "Deportees Sent to Liberia Recount Harrowing Details of U.S. Expulsion and Treatment by ICE",
@@ -162,7 +267,7 @@
   {
     "title": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups",
     "link": "https://www.nytimes.com/2026/08/30/travel/scotland-summer-resort-gleneagles.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=30, tm_hour=4, tm_min=1, tm_sec=27, tm_wday=6, tm_yday=242, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=9, tm_min=2, tm_sec=27, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
     "title": "Expedia Faces Off With Cuban Families Over Land Seized Decades Ago",
@@ -185,114 +290,39 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=22, tm_min=14, tm_sec=17, tm_wday=5, tm_yday=241, tm_isdst=0)"
   },
   {
-    "title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
-    "link": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=23, tm_min=13, tm_sec=14, tm_wday=5, tm_yday=241, tm_isdst=0)"
+    "title": "Scientists discover why snake embryos twist into spirals",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=12, tm_min=38, tm_sec=16, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
-    "title": "\u2018A New Form of U.S. Colonialism\u2019: Venezuelans Bristle at U.S. Oil Takeover",
-    "link": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=30, tm_hour=13, tm_min=0, tm_sec=49, tm_wday=6, tm_yday=242, tm_isdst=0)"
+    "title": "Mindfulness may lower blood pressure in just 8 weeks",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=12, tm_min=58, tm_sec=41, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
-    "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-    "link": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=30, tm_hour=13, tm_min=2, tm_sec=17, tm_wday=6, tm_yday=242, tm_isdst=0)"
+    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=5, tm_min=33, tm_sec=37, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
-    "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
-    "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=20, tm_min=7, tm_sec=51, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
-    "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=21, tm_min=47, tm_sec=52, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Elbows and Chin Up: A Whirlwind Week in the U.S.-Canada Trade War",
-    "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-trade-war-tariffs-canada-us.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=10, tm_min=0, tm_sec=5, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Fast Forward",
-    "link": "https://www.nytimes.com/2026/08/29/briefing/fast-forward.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=9, tm_min=22, tm_sec=55, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Search Continues for 2,400 Missing in Nepal Floods Amid \u2018Immense\u2019 Devastation",
-    "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=30, tm_hour=3, tm_min=58, tm_sec=15, tm_wday=6, tm_yday=242, tm_isdst=0)"
-  },
-  {
-    "title": "As Deadly Flash Flooding Batters Nepal, Some Fear \u2018the Entire Himalayas Are Melting\u2019",
-    "link": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=9, tm_min=4, tm_sec=15, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
-    "link": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=9, tm_min=3, tm_sec=50, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Carney Has Canadians\u2019 Support on Trump. Now Comes the Hard Part.",
-    "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=18, tm_min=10, tm_sec=38, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Icelanders Are Voting on E.U. Membership Talks. Here\u2019s What to Know.",
-    "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=4, tm_min=1, tm_sec=14, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Modi Is Hedging Against Trump, One Deal at a Time",
-    "link": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=4, tm_min=1, tm_sec=7, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-    "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=15, tm_min=32, tm_sec=21, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Nepal\u2019s Hydropower Industry Was Booming. Now 900 Workers Are Missing.",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/nepals-hydropower-industry-was-booming-now-900-workers-are-missing.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=0, tm_min=58, tm_sec=11, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Unstable Manhattan Building Had More Damaged Columns Than Previously Known",
-    "link": "https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=28, tm_hour=22, tm_min=33, tm_sec=36, tm_wday=4, tm_yday=240, tm_isdst=0)"
-  },
-  {
-    "title": "Nepali Flood Survivors Face Profound Loss, Pressing Needs and Murky Futures",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=28, tm_hour=22, tm_min=34, tm_sec=32, tm_wday=4, tm_yday=240, tm_isdst=0)"
-  },
-  {
-    "title": "A Melting Glacier in Nepal Was a Time Bomb. There Are More to Come.",
-    "link": "https://www.nytimes.com/2026/08/28/climate/climate-forward-nepal-disaster.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=28, tm_hour=21, tm_min=4, tm_sec=5, tm_wday=4, tm_yday=240, tm_isdst=0)"
-  },
-  {
-    "title": "See Moments After a Glacier Collapsed, Launching Deadly Flash Floods in Nepal",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/himalayan-glacier-collapse-flood.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=29, tm_hour=4, tm_min=21, tm_sec=5, tm_wday=5, tm_yday=241, tm_isdst=0)"
-  },
-  {
-    "title": "Why Putin Is Fighting On, Even as His Problems Multiply",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=28, tm_hour=21, tm_min=22, tm_sec=41, tm_wday=4, tm_yday=240, tm_isdst=0)"
-  },
-  {
-    "title": "King Oyo of Uganda\u2019s Tooro Kingdom Dies at 34",
-    "link": "https://www.nytimes.com/2026/08/28/world/africa/uganda-king-oyo-dead.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=28, tm_hour=21, tm_min=30, tm_sec=50, tm_wday=4, tm_yday=240, tm_isdst=0)"
+    "title": "NASA\u2019s Swift telescope is back, but time is running out",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=5, tm_min=43, tm_sec=54, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
     "title": "NASA\u2019s Roman Space Telescope launches to reveal the Universe\u2019s darkest secrets",
     "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=9, tm_min=23, tm_sec=21, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "A massive plume deep beneath Africa is pulling the continent apart",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=10, tm_min=41, tm_sec=10, tm_wday=1, tm_yday=244, tm_isdst=0)"
+  },
+  {
+    "title": "Scientists find a human-only gene that may help explain our brainpower",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=3, tm_min=54, tm_sec=40, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
     "title": "Popular sweeteners may leave effects that last for generations",
@@ -308,6 +338,11 @@
     "title": "Scientists challenge a 70-year-old \u201clizard brain\u201d myth",
     "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=31, tm_hour=12, tm_min=53, tm_sec=45, tm_wday=0, tm_yday=243, tm_isdst=0)"
+  },
+  {
+    "title": "Reaching 90 without dementia doesn\u2019t mean you\u2019re in the clear",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=1, tm_hour=12, tm_min=9, tm_sec=42, tm_wday=1, tm_yday=244, tm_isdst=0)"
   },
   {
     "title": "Fossil feet may be misleading scientists about human evolution",
@@ -553,40 +588,5 @@
     "title": "Scientists find hidden \u201chighways\u201d guiding animal evolution",
     "link": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=25, tm_hour=8, tm_min=48, tm_sec=49, tm_wday=1, tm_yday=237, tm_isdst=0)"
-  },
-  {
-    "title": "Too much or too little sleep may make your body age faster",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=24, tm_hour=11, tm_min=31, tm_sec=44, tm_wday=0, tm_yday=236, tm_isdst=0)"
-  },
-  {
-    "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094154.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=25, tm_hour=17, tm_min=12, tm_sec=46, tm_wday=1, tm_yday=237, tm_isdst=0)"
-  },
-  {
-    "title": "Screen time at ages 1 and 6 may matter more than parents realize",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=24, tm_hour=10, tm_min=31, tm_sec=15, tm_wday=0, tm_yday=236, tm_isdst=0)"
-  },
-  {
-    "title": "Childhood trauma may leave a lasting \u201cscar\u201d inside brain cells",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=26, tm_hour=7, tm_min=28, tm_sec=27, tm_wday=2, tm_yday=238, tm_isdst=0)"
-  },
-  {
-    "title": "Your brain may not actually \u201cmake\u201d decisions",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=25, tm_hour=17, tm_min=53, tm_sec=28, tm_wday=1, tm_yday=237, tm_isdst=0)"
-  },
-  {
-    "title": "NASA finds Earth microbes could survive on the Moon",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=25, tm_hour=6, tm_min=30, tm_sec=18, tm_wday=1, tm_yday=237, tm_isdst=0)"
-  },
-  {
-    "title": "NASA is about to launch a powerful new eye on the universe",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=8, tm_mday=24, tm_hour=4, tm_min=45, tm_sec=5, tm_wday=0, tm_yday=236, tm_isdst=0)"
   }
 ]
