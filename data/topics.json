@@ -1,101 +1,51 @@
 [
   {
-    "cluster": 1,
-    "name": "Mixed International News",
+    "cluster": 2,
+    "name": "Global Political Instability",
     "articles": [
+      {
+        "title": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+      },
+      {
+        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+      },
+      {
+        "title": "A Bad Year for Bees Gets Worse as Trump\u2019s Tariffs Hit Canada\u2019s Honey Belt",
+        "link": "https://www.nytimes.com/2026/09/06/world/canada/a-bad-year-for-bees-gets-worse-as-trumps-tariffs-hit-canadas-honey-belt.html"
+      },
+      {
+        "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
+      },
+      {
+        "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+      },
+      {
+        "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
+        "link": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html"
+      },
       {
         "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
         "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html"
       },
       {
-        "title": "Alejandro Betancourt, Trump\u2019s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-        "link": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html"
+        "title": "U.S. Strikes Three Iranian \u2018Shadow Network\u2019 Oil Tankers, Military Says",
+        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
       },
       {
-        "title": "Germany\u2019s Far Right, Edging Close to Power, Remains Close to Extremists",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/germany-afd-extremists.html"
+        "title": "Following Stolen Cars From Canada to Russia",
+        "link": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html"
       },
       {
-        "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-        "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html"
+        "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html"
       },
       {
-        "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-        "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html"
-      },
-      {
-        "title": "The Battle to be Australia\u2019s Best Pie",
-        "link": "https://www.nytimes.com/2026/09/03/world/australia/australia-meat-pie-competition.html"
-      },
-      {
-        "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing \u2018Geopolitical Unrest\u2019",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html"
-      },
-      {
-        "title": "New injectable treatment helps the brain rebuild after stroke",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
-      },
-      {
-        "title": "Mindfulness may lower blood pressure in just 8 weeks",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm"
-      },
-      {
-        "title": "Money problems may age your brain faster",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm"
-      },
-      {
-        "title": "Alzheimer\u2019s may leave a mark on the brain long before plaques appear",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm"
-      },
-      {
-        "title": "Reaching 90 without dementia doesn\u2019t mean you\u2019re in the clear",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm"
-      },
-      {
-        "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
-      },
-      {
-        "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
-      },
-      {
-        "title": "The next Cascadia megaquake could hit Oregon harder than expected",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm"
-      },
-      {
-        "title": "Scientists discover why damaged nerves struggle to heal",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 7,
-    "name": "Geopolitical International Incidents",
-    "articles": [
-      {
-        "title": "After Months at War, Brief Solace in a Party Town Far From Home",
-        "link": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html"
-      },
-      {
-        "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html"
-      },
-      {
-        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html"
-      },
-      {
-        "title": "Grand Theft Porter: Thieves Steal 800 Barrels of Guinness in Britain",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html"
-      },
-      {
-        "title": "Russian Drone Strikes Office of Ukraine\u2019s Intelligence Chief",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html"
-      },
-      {
-        "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
-        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html"
+        "title": "Netanyahu Posts A.I. Video Pairing Mamdani With Iranian Ruler",
+        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/netanyahu-ai-video-mamdani.html"
       },
       {
         "title": "Yemen\u2019s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
@@ -106,162 +56,42 @@
         "link": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html"
       },
       {
-        "title": "U.N. Approves African Proposal for a New World Map",
-        "link": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html"
+        "title": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html"
       },
       {
-        "title": "Nigel Farage to Speak at Reform UK Conference Amid Scrutiny Over Party Finances",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/farage-reform-uk-conference-donations.html"
+        "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine\u2019s Path to Peace",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html"
       },
       {
-        "title": "Inside the Nepal Tunnel Rescue Operation",
-        "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html"
+        "title": "Alejandro Betancourt, Trump\u2019s Partner in Venezuelan Oil Deal, Has Faced Investigations",
+        "link": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html"
       },
       {
-        "title": "Why Sinister \u2018Cat in the Hat\u2019 Videos Are Prompting Police Warnings",
-        "link": "https://www.nytimes.com/2026/09/03/us/cat-in-the-hat-ai-social-media-trend.html"
+        "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
+        "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html"
       },
       {
-        "title": "Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight",
-        "link": "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
-      },
-      {
-        "title": "Can a Country Really Hold an Election in the Middle of a Gang War?",
-        "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html"
-      },
-      {
-        "title": "Bats carry dangerous viruses without getting sick. This may be why",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm"
+        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+        "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html"
       }
     ]
   },
   {
-    "cluster": 8,
-    "name": "Paleontology Species Discovery",
+    "cluster": 4,
+    "name": "Natural Disaster Rescues",
     "articles": [
       {
-        "title": "English Museum to Repatriate Colonial-Era Human Remains",
-        "link": "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html"
-      },
-      {
-        "title": "Scenic Route",
-        "link": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
-      },
-      {
-        "title": "Argentina Is Ramping Up Its Claim to the Falklands. Here\u2019s What to Know.",
-        "link": "https://www.nytimes.com/article/falkland-islands-trump-uk-argentina-malvinas.html"
-      },
-      {
-        "title": "Scientists discover a bizarre \u201cdevil flower\u201d hidden in Thailand",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
-      },
-      {
-        "title": "Deep beneath Mars, scientists find a vast hidden magma system",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm"
-      },
-      {
-        "title": "Scientists discover why snake embryos twist into spirals",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm"
-      },
-      {
-        "title": "Plants may be evolving the wrong traits for a warming world",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm"
-      },
-      {
-        "title": "A massive plume deep beneath Africa is pulling the continent apart",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm"
-      },
-      {
-        "title": "A coffee-table-size scorpion roamed Earth before forests existed",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm"
-      },
-      {
-        "title": "Scientists challenge a 70-year-old \u201clizard brain\u201d myth",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
-      },
-      {
-        "title": "Fossil feet may be misleading scientists about human evolution",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm"
-      },
-      {
-        "title": "Hundreds of hidden earthquakes found at Antarctica\u2019s Doomsday Glacier",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
-      },
-      {
-        "title": "Seven new frog species were hiding beneath Madagascar\u2019s forest floor",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm"
-      },
-      {
-        "title": "Scientists discover a massive heat anomaly deep inside Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 3,
-    "name": "Health Biology Breakthroughs",
-    "articles": [
-      {
-        "title": "A longer exhale may push your brain toward bolder decisions",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
-      },
-      {
-        "title": "September brings a dazzling Venus and a glowing Harvest Moon",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
-      },
-      {
-        "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm"
-      },
-      {
-        "title": "MIT turns bacteria into living transistors",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
-      },
-      {
-        "title": "Earth may have lost the Sun\u2019s protective shield millions of years ago",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm"
-      },
-      {
-        "title": "One immune switch may help drive aging across the body",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm"
-      },
-      {
-        "title": "ADHD may have a surprising creative advantage",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm"
-      },
-      {
-        "title": "Popular sweeteners may leave effects that last for generations",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
-      },
-      {
-        "title": "HEPA air purifiers may boost brain function after just one month",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
-      },
-      {
-        "title": "Australia\u2019s red soil may be hiding a massive clean energy source",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm"
-      },
-      {
-        "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm"
-      },
-      {
-        "title": "Experimental eye drops help blind mice see again",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 9,
-    "name": "Nepal Disaster Rescue",
-    "articles": [
-      {
-        "title": "Two Survivors Rescued in Nepal 10 Days After Floods",
+        "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
         "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
       },
       {
-        "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-        "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
+        "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+        "link": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html"
+      },
+      {
+        "title": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
+        "link": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
       },
       {
         "title": "9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal",
@@ -272,12 +102,20 @@
         "link": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html"
       },
       {
+        "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
+        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html"
+      },
+      {
         "title": "Here are some other extraordinary rescues from natural disasters.",
         "link": "https://www.nytimes.com/live/2026/09/04/world/nepal-flash-floods-rescue-tunnels/here-are-some-other-extraordinary-rescue-efforts"
       },
       {
         "title": "Families Mourn Nepal Flood Victims",
         "link": "https://www.nytimes.com/video/world/asia/100000011130555/families-mourn-nepal-flood-victims.html"
+      },
+      {
+        "title": "Families Turn to Symbolic Cremation After Nepal Floods",
+        "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
       },
       {
         "title": "Haze From Indonesian Wildfires Blankets Parts of Malaysia and Philippines",
@@ -296,102 +134,126 @@
         "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html"
       },
       {
-        "title": "Spain\u2019s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html"
+        "title": "This \u201cnew\u201d frog was hiding in plain sight for 100 years",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm"
+      },
+      {
+        "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 10,
+    "name": "Financial Military Oversight",
+    "articles": [
+      {
+        "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
+      },
+      {
+        "title": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+        "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+      },
+      {
+        "title": "What Secret Audits Tell Us About How Ukraine\u2019s Military Is Spending Its Money",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html"
+      },
+      {
+        "title": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
+        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html"
+      },
+      {
+        "title": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
+        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html"
+      },
+      {
+        "title": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
+        "link": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html"
+      },
+      {
+        "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
+        "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html"
+      },
+      {
+        "title": "Rogers Stadium in Toronto Is Damaged by Thunderstorm Before AC/DC Show",
+        "link": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html"
+      },
+      {
+        "title": "Mayor Magic",
+        "link": "https://www.nytimes.com/2026/09/03/world/mayors-mamdani-burnham-gloria-steinem.html"
+      },
+      {
+        "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing \u2018Geopolitical Unrest\u2019",
+        "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html"
+      },
+      {
+        "title": "Money problems may age your brain faster",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 9,
+    "name": "Geological Climate Discovery",
+    "articles": [
+      {
+        "title": "Scenic Route",
+        "link": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
+      },
+      {
+        "title": "Argentina Is Ramping Up Its Claim to the Falklands. Here\u2019s What to Know.",
+        "link": "https://www.nytimes.com/article/falkland-islands-trump-uk-argentina-malvinas.html"
+      },
+      {
+        "title": "Indonesia\u2019s most dangerous fires are burning underground",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
+      },
+      {
+        "title": "Scientists discover a bizarre \u201cdevil flower\u201d hidden in Thailand",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
+      },
+      {
+        "title": "Extreme drought now covers 44% of Puerto Rico",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm"
+      },
+      {
+        "title": "Deep beneath Mars, scientists find a vast hidden magma system",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm"
+      },
+      {
+        "title": "A massive plume deep beneath Africa is pulling the continent apart",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm"
+      },
+      {
+        "title": "A coffee-table-size scorpion roamed Earth before forests existed",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm"
+      },
+      {
+        "title": "Hundreds of hidden earthquakes found at Antarctica\u2019s Doomsday Glacier",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
+      },
+      {
+        "title": "Seven new frog species were hiding beneath Madagascar\u2019s forest floor",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm"
+      },
+      {
+        "title": "Scientists discover a massive heat anomaly deep inside Mars",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm"
       }
     ]
   },
   {
     "cluster": 0,
-    "name": "Russia Ukraine Conflict Escalation",
-    "articles": [
-      {
-        "title": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-      },
-      {
-        "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html"
-      },
-      {
-        "title": "Following Stolen Cars From Canada to Russia",
-        "link": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html"
-      },
-      {
-        "title": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html"
-      },
-      {
-        "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine\u2019s Path to Peace",
-        "link": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html"
-      },
-      {
-        "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html"
-      },
-      {
-        "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html"
-      },
-      {
-        "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html"
-      },
-      {
-        "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
-        "link": "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html"
-      }
-    ]
-  },
-  {
-    "cluster": 6,
-    "name": "Israel Middle East Crisis",
-    "articles": [
-      {
-        "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
-        "link": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html"
-      },
-      {
-        "title": "Iran\u2019s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
-      },
-      {
-        "title": "Netanyahu Posts A.I. Video Pairing Mamdani With Iranian Ruler",
-        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/netanyahu-ai-video-mamdani.html"
-      },
-      {
-        "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
-        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
-      },
-      {
-        "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
-        "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html"
-      },
-      {
-        "title": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
-        "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html"
-      },
-      {
-        "title": "Israeli Military Kills Two Palestinian Youths in Village Raid, Residents Say",
-        "link": "https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html"
-      },
-      {
-        "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
-        "link": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html"
-      },
-      {
-        "title": "Extreme drought now covers 44% of Puerto Rico",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 4,
-    "name": "Scientific Discovery Reversals",
+    "name": "Scientific Discoveries Breakthroughs",
     "articles": [
       {
         "title": "Scientists reveal the hidden instructions that build the human brain",
         "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+      },
+      {
+        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
       },
       {
         "title": "Stanford scientists discover a seafood that can reverse signs of aging",
@@ -402,8 +264,16 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm"
       },
       {
+        "title": "September brings a dazzling Venus and a glowing Harvest Moon",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
+      },
+      {
         "title": "Too much coffee may weaken bones, study finds",
         "link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm"
+      },
+      {
+        "title": "Quantum oscillations defy expectations in this exotic material",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm"
       },
       {
         "title": "Scientists just overturned a century-old physics assumption",
@@ -420,96 +290,66 @@
       {
         "title": "Scientists discover diamonds can generate electricity",
         "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm"
-      },
-      {
-        "title": "Dogs may hold surprising clues to human longevity",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
       }
     ]
   },
   {
-    "cluster": -1,
-    "name": "Miscellaneous",
+    "cluster": 7,
+    "name": "Ancient History Revelations",
     "articles": [
       {
-        "title": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html"
+        "title": "English Museum to Repatriate Colonial-Era Human Remains",
+        "link": "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html"
       },
       {
-        "title": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
-        "link": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html"
+        "title": "Thieves Steal 800 Barrels of Guinness in Britain",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html"
       },
       {
-        "title": "Rogers Stadium in Toronto Is Damaged by Thunderstorm Before AC/DC Show",
-        "link": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html"
-      },
-      {
-        "title": "Mayor Magic",
-        "link": "https://www.nytimes.com/2026/09/03/world/mayors-mamdani-burnham-gloria-steinem.html"
-      },
-      {
-        "title": "Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.",
-        "link": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html"
-      },
-      {
-        "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-        "link": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html"
-      },
-      {
-        "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
-      },
-      {
-        "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 5,
-    "name": "Exotic Physics Phenomena",
-    "articles": [
-      {
-        "title": "Dark matter detector finds a strange signal scientists can\u2019t yet explain",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
+        "title": "80,000-year-old \u201carrowheads\u201d rewrite human history",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm"
       },
       {
         "title": "Ancient \u201cliving fossils\u201d may reveal how complex life began",
         "link": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm"
       },
       {
-        "title": "Quantum oscillations defy expectations in this exotic material",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm"
+        "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm"
       },
       {
-        "title": "Dying radio galaxies fade faster than scientists expected",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm"
+        "title": "Plants may be evolving the wrong traits for a warming world",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm"
       },
       {
-        "title": "A search for one exotic particle uncovered two strange new structures",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm"
+        "title": "Popular sweeteners may leave effects that last for generations",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
+      },
+      {
+        "title": "HEPA air purifiers may boost brain function after just one month",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
+      },
+      {
+        "title": "Australia\u2019s red soil may be hiding a massive clean energy source",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm"
       },
       {
         "title": "Rocky planets may have formed just 100 million years after the Big Bang",
         "link": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm"
-      },
-      {
-        "title": "The universe is still speeding up, but nobody knows why",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm"
-      },
-      {
-        "title": "Some signs of quantum gravity may be an illusion",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm"
       }
     ]
   },
   {
-    "cluster": 2,
-    "name": "NASA Space Telescope Missions",
+    "cluster": 1,
+    "name": "Space Telescope Observations",
     "articles": [
       {
-        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
+        "title": "A mysterious signal around Earth could be dark matter",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
+      },
+      {
+        "title": "Dark matter detector finds a strange signal scientists can\u2019t yet explain",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
       },
       {
         "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
@@ -520,6 +360,10 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm"
       },
       {
+        "title": "Dying radio galaxies fade faster than scientists expected",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm"
+      },
+      {
         "title": "NASA\u2019s Roman Space Telescope launches to reveal the Universe\u2019s darkest secrets",
         "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
       },
@@ -528,12 +372,162 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm"
       },
       {
-        "title": "This strange \u201cspacetime crystal\u201d can suddenly become a black hole",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
+        "title": "A search for one exotic particle uncovered two strange new structures",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm"
       },
       {
-        "title": "NASA\u2019s Roman telescope will see 100 times more sky than Hubble",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm"
+        "title": "This strange \u201cspacetime crystal\u201d can suddenly become a black hole",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "name": "Health Aging Research",
+    "articles": [
+      {
+        "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+        "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html"
+      },
+      {
+        "title": "Germany\u2019s Far Right, Edging Close to Power, Remains Close to Extremists",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/germany-afd-extremists.html"
+      },
+      {
+        "title": "The Battle to be Australia\u2019s Best Pie",
+        "link": "https://www.nytimes.com/2026/09/03/world/australia/australia-meat-pie-competition.html"
+      },
+      {
+        "title": "A longer exhale may push your brain toward bolder decisions",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
+      },
+      {
+        "title": "Alzheimer\u2019s may leave a mark on the brain long before plaques appear",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm"
+      },
+      {
+        "title": "Reaching 90 without dementia doesn\u2019t mean you\u2019re in the clear",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm"
+      },
+      {
+        "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
+      },
+      {
+        "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "name": "Ukraine Russia Conflict",
+    "articles": [
+      {
+        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html"
+      },
+      {
+        "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html"
+      },
+      {
+        "title": "Russian Drone Strikes Office of Ukraine\u2019s Intelligence Chief",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html"
+      },
+      {
+        "title": "U.N. Approves African Proposal for a New World Map",
+        "link": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html"
+      },
+      {
+        "title": "Nigel Farage to Speak at Reform UK Conference Amid Scrutiny Over Party Finances",
+        "link": "https://www.nytimes.com/2026/09/04/world/europe/farage-reform-uk-conference-donations.html"
+      },
+      {
+        "title": "Bats carry dangerous viruses without getting sick. This may be why",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 8,
+    "name": "Brain Biology Research",
+    "articles": [
+      {
+        "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
+      },
+      {
+        "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
+      },
+      {
+        "title": "New injectable treatment helps the brain rebuild after stroke",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
+      },
+      {
+        "title": "Scientists discover why snake embryos twist into spirals",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm"
+      },
+      {
+        "title": "Scientists challenge a 70-year-old \u201clizard brain\u201d myth",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
+      },
+      {
+        "title": "Fossil feet may be misleading scientists about human evolution",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "name": "Biotech Medical Innovation",
+    "articles": [
+      {
+        "title": "AI can now control fusion plasma faster than humans can react",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+      },
+      {
+        "title": "MIT turns bacteria into living transistors",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
+      },
+      {
+        "title": "Earth may have lost the Sun\u2019s protective shield millions of years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm"
+      },
+      {
+        "title": "One immune switch may help drive aging across the body",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm"
+      },
+      {
+        "title": "ADHD may have a surprising creative advantage",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm"
+      },
+      {
+        "title": "Dogs may hold surprising clues to human longevity",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Misc",
+    "articles": [
+      {
+        "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
+      },
+      {
+        "title": "Inside the Nepal Tunnel Rescue Operation",
+        "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html"
+      },
+      {
+        "title": "Mindfulness may lower blood pressure in just 8 weeks",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm"
+      },
+      {
+        "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
       }
     ]
   }
