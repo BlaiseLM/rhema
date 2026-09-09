@@ -1,767 +1,71 @@
 [
   {
-    "cluster": 4,
-    "name": "AI Development and AGI Questions",
-    "articles": [
-      {
-        "title": "Show HN: Training RL model to race in TrackMania",
-        "link": "https://antonkasyanov.substack.com/p/teaching-an-ai-to-drive-trackmania"
-      },
-      {
-        "title": "Autogenic Training",
-        "link": "https://en.wikipedia.org/wiki/Autogenic_training"
-      },
-      {
-        "title": "Show HN: Bestie, a coding agent that respects you",
-        "link": "https://github.com/jolexxa/bestie"
-      },
-      {
-        "title": "Into the Depths of C: Elaborating the De Facto Standards",
-        "link": "https://dl.acm.org/doi/10.1145/2980983.2908081"
-      },
-      {
-        "title": "OpenSSH History",
-        "link": "https://www.openssh.org/history.html"
-      },
-      {
-        "title": "Measurement Before Control: A Broadly Applicable Principle for Better AI Policy",
-        "link": "https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494"
-      },
-      {
-        "title": "After Fixin' the Bugs",
-        "link": "https://inessential.com/2026/08/26/after-fixin-the-bugs.html"
-      },
-      {
-        "title": "The Ripgrep of AI Context",
-        "link": "https://github.com/redhat-et/ripwire"
-      },
-      {
-        "title": "Questions about AGI",
-        "link": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi/"
-      },
-      {
-        "title": "Make Haste Slowly",
-        "link": "https://spiffworks.substack.com/p/make-haste-slowly"
-      },
-      {
-        "title": "ByteDance entering the world models race",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models"
-      },
-      {
-        "title": "How to Prepare for AGI",
-        "link": "https://www.guidavid.com/writing/how-to-prepare-for-agi"
-      },
-      {
-        "title": "Learning Human Health and Diseases from 24-Hour Wrist Movement",
-        "link": "https://arxiv.org/abs/2608.29494"
-      },
-      {
-        "title": "Disappointed Optimists",
-        "link": "https://cwodtke.com/disappointed-optimists/"
-      },
-      {
-        "title": "The Myth of Perfect Knowledge",
-        "link": "https://www.theatlantic.com/ideas/2026/09/science-objectivity-myth-physics/688532/"
-      },
-      {
-        "title": "Photo of Road Runner Snagged by Coyote Shows That Cartoons Were a Lie",
-        "link": "https://www.nytimes.com/2026/09/04/us/road-runner-coyote-photograph.html"
-      },
-      {
-        "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
-        "link": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html"
-      },
-      {
-        "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
-        "link": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/"
-      },
-      {
-        "title": "What Has to Arrive for Us to Call It AGI?",
-        "link": "https://twitter.com/RcityKun/status/2097333970207932859"
-      },
-      {
-        "title": "When A.I. Starts Scheming",
-        "link": "https://www.nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html"
-      },
-      {
-        "title": "Doctors saved this rare monkey from amputation. Months later, she gave birth",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260906170145.htm"
-      },
-      {
-        "title": "Scientists say love follows hidden mathematical rules",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm"
-      },
-      {
-        "title": "A longer exhale may push your brain toward bolder decisions",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
-      },
-      {
-        "title": "80,000-year-old \u201carrowheads\u201d rewrite human history",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm"
-      },
-      {
-        "title": "Ancient \u201cliving fossils\u201d may reveal how complex life began",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm"
-      },
-      {
-        "title": "Mindfulness may lower blood pressure in just 8 weeks",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm"
-      },
-      {
-        "title": "ADHD may have a surprising creative advantage",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 0,
-    "name": "Scientific Discoveries Breakthroughs",
-    "articles": [
-      {
-        "title": "Earth's ancient auroral belts may have made life's ingredients",
-        "link": "https://www.techexplorist.com/earth-ancient-auroral-belts-life-ingredients/104167/"
-      },
-      {
-        "title": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
-        "link": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html"
-      },
-      {
-        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm"
-      },
-      {
-        "title": "Your personality may be more genetic than scientists realized",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm"
-      },
-      {
-        "title": "Scientists observe Einstein\u2019s gravity in the quantum world for the first time",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm"
-      },
-      {
-        "title": "Your gut microbiome may be more contagious than scientists thought",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm"
-      },
-      {
-        "title": "A mysterious signal around Earth could be dark matter",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
-      },
-      {
-        "title": "Dark matter detector finds a strange signal scientists can\u2019t yet explain",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
-      },
-      {
-        "title": "Scientists reveal the hidden instructions that build the human brain",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
-      },
-      {
-        "title": "MIT scientists develop injectable \u201cmini livers\u201d that work inside the body",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm"
-      },
-      {
-        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
-      },
-      {
-        "title": "AI can now control fusion plasma faster than humans can react",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
-      },
-      {
-        "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
-      },
-      {
-        "title": "Scientists overturn a theory about this shark\u2019s strange head",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm"
-      },
-      {
-        "title": "September brings a dazzling Venus and a glowing Harvest Moon",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
-      },
-      {
-        "title": "Too much coffee may weaken bones, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm"
-      },
-      {
-        "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm"
-      },
-      {
-        "title": "NASA\u2019s Swift telescope is back, but time is running out",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm"
-      },
-      {
-        "title": "Scientists just overturned a century-old physics assumption",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm"
-      },
-      {
-        "title": "Dying radio galaxies fade faster than scientists expected",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm"
-      },
-      {
-        "title": "NASA\u2019s Roman Space Telescope launches to reveal the Universe\u2019s darkest secrets",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
-      },
-      {
-        "title": "A coffee-table-size scorpion roamed Earth before forests existed",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm"
-      },
-      {
-        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm"
-      },
-      {
-        "title": "A search for one exotic particle uncovered two strange new structures",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm"
-      },
-      {
-        "title": "Scientists find a human-only gene that may help explain our brainpower",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 3,
-    "name": "Software Development Tools",
-    "articles": [
-      {
-        "title": "Show HN: Maple \u2013 CSS utilities with no build step and no config file",
-        "link": "https://maple.f12.io/"
-      },
-      {
-        "title": "Dead simple privacy-preserving Markdown sharing for agents and people",
-        "link": "https://mdsnd.freeq.at/"
-      },
-      {
-        "title": "C*: Unifying Programming and Verification in C",
-        "link": "https://arxiv.org/abs/2504.02246"
-      },
-      {
-        "title": "Uplink \u2013 Software for Agents",
-        "link": "https://uplink.spot/"
-      },
-      {
-        "title": "Forges Shouldn't Have Opinions About Your Code",
-        "link": "https://1matin.com/forges-shouldnt-have-opinions-about-your-code/"
-      },
-      {
-        "title": "Renovating a vibe-coded app: the code was readable, the reasoning was gone",
-        "link": "https://www.habchy.dev/writing/renovating-a-vibe-coded-app"
-      },
-      {
-        "title": "Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency",
-        "link": "https://arxiv.org/abs/2603.14133"
-      },
-      {
-        "title": "A Shared Syntax for Custom Languages",
-        "link": "https://lasernoises.com/blog/universal-syntax/"
-      },
-      {
-        "title": "Doodle Shooter",
-        "link": "https://doodleshooter.vercel.app/"
-      },
-      {
-        "title": "Support Local Variables",
-        "link": "https://bernsteinbear.com/blog/support-local-variables/"
-      },
-      {
-        "title": "The Shortest IPv6 Addresses",
-        "link": "https://ache.one/notes/vanity-ipv6"
-      },
-      {
-        "title": "Microsoft 365 License Audit Guide",
-        "link": "https://www.gitbit.org/docs/microsoft-365-license-audit"
-      },
-      {
-        "title": "About Scrolling",
-        "link": "https://mudmapmagazine.com/about-scrolling/"
-      },
-      {
-        "title": "Are Supabase docs agent-friendly? We didn't know, so we checked",
-        "link": "https://supabase.com/blog/are-supabase-docs-agent-friendly"
-      },
-      {
-        "title": "Ode to Metadata",
-        "link": "https://www.autodidacts.io/ode-to-metadata/"
-      },
-      {
-        "title": "Faster Projected GAN",
-        "link": "https://github.com/diarimandimby/Faster-Projected-GAN/"
-      },
-      {
-        "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
-        "link": "https://logicola.org/blog/the-new-logicola"
-      },
-      {
-        "title": "Canonical Evolution of Enterprise Open Source RISC-V at Hot Chips 2026",
-        "link": "https://www.servethehome.com/canonical-evolution-of-enterprise-open-source-risc-v-at-hot-chips-2026/"
-      },
-      {
-        "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-        "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/"
-      },
-      {
-        "title": "There's no such thing as Just a Tool",
-        "link": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool"
-      },
-      {
-        "title": "Alzheimer\u2019s may leave a mark on the brain long before plaques appear",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 8,
-    "name": "Global Politics and Policy",
-    "articles": [
-      {
-        "title": "Why I'm Not Excited About the Graphene OS and Motorola Partnership",
-        "link": "https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership"
-      },
-      {
-        "title": "Settlement Agreement People of the State of California vs. Meta (2026) [pdf]",
-        "link": "https://storage.courtlistener.com/recap/gov.uscourts.cand.419868/gov.uscourts.cand.419868.576.1.pdf"
-      },
-      {
-        "title": "Sponsored Logs",
-        "link": "https://github.com/sponsoredlogs/sponsored_logs"
-      },
-      {
-        "title": "Price Reduction for DeepSeek-Flash\uff01: R/DeepSeek",
-        "link": "https://www.reddit.com/r/DeepSeek/comments/1waqxm1/price_reduction_for_deepseekflash/"
-      },
-      {
-        "title": "My new favourite habit tracker is vibecoded and I don't know what to do about it",
-        "link": "https://rosswintle.uk/2026/08/my-new-favourite-habit-tracker-is-vibe-coded-i-dont-know-what-to-do-about-it/"
-      },
-      {
-        "title": "Bring any agents into Slack, Teams and Discord",
-        "link": "https://www.flintai.dev/products/switch"
-      },
-      {
-        "title": "How to Read Server Monitoring Graphs",
-        "link": "https://kciter.so/posts/server-monitoring-analysis-guide/en/"
-      },
-      {
-        "title": "AI Scraping on the Cheap",
-        "link": "https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/"
-      },
-      {
-        "title": "iPod Classic 6G in QEMU",
-        "link": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq"
-      },
-      {
-        "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html"
-      },
-      {
-        "title": "Australian Social Media Users Could Get Power to Switch Off Algorithms",
-        "link": "https://www.nytimes.com/2026/09/08/world/australia/social-media-law-algorithms-digital-duty-care.html"
-      },
-      {
-        "title": "Rubio to Push Colombia\u2019s New Leader to Tackle Cocaine Trade",
-        "link": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html"
-      },
-      {
-        "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-        "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
-      },
-      {
-        "title": "How Ancient Farmers Used Floral Designs to Track Goods",
-        "link": "https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html"
-      },
-      {
-        "title": "Haitians Deported From U.S. Are Left Broke and Stranded",
-        "link": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html"
-      },
-      {
-        "title": "What Secret Audits Tell Us About How Ukraine\u2019s Military Is Spending Its Money",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html"
-      },
-      {
-        "title": "A Bad Year for Bees Gets Worse as Trump\u2019s Tariffs Hit Canada\u2019s Honey Belt",
-        "link": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html"
-      },
-      {
-        "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
-      },
-      {
-        "title": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-        "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
-      },
-      {
-        "title": "Money problems may age your brain faster",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 1,
-    "name": "Biotech and Life Sciences",
-    "articles": [
-      {
-        "title": "I built a 20M-parameter LLM from scratch, including full RLHF (PPO)",
-        "link": "https://github.com/ariveinberg-max/aven-1"
-      },
-      {
-        "title": "Cold Blob",
-        "link": "https://en.wikipedia.org/wiki/Cold_blob"
-      },
-      {
-        "title": "Show HN: Pollium \u2013 A new way to study with AI",
-        "link": "https://learn.pollium.io"
-      },
-      {
-        "title": "s3backer: FUSE/NBD single file backing store via Amazon S3",
-        "link": "https://github.com/archiecobbs/s3backer"
-      },
-      {
-        "title": "Who Is Elizabeth Holmes? What Is \"You Can See Everything\" About?",
-        "link": "https://www.abc.net.au/news/2026-09-08/who-is-elizabeth-holmes-of-you-can-see-everything/107127436"
-      },
-      {
-        "title": "Natural Light Is an Essential Nutrient",
-        "link": "https://www.midwesterndoctor.com/p/why-light-is-an-essential-nutrient"
-      },
-      {
-        "title": "Erasing a Bit Warms the Room",
-        "link": "https://formvix.com/erasing-a-bit-warms-the-room"
-      },
-      {
-        "title": "Google DeepMind Releases AlphaGenome Atlas",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
-      },
-      {
-        "title": "Show HN: Roomantic \u2013 See if that piece furniture fits before buying it",
-        "link": "https://apps.apple.com/us/app/roomantic-furniture-planner/id6759999318"
-      },
-      {
-        "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm"
-      },
-      {
-        "title": "Popular brain supplement linked to shorter lifespan in men",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
-      },
-      {
-        "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
-      },
-      {
-        "title": "Scientists find a weak spot in one of the deadliest brain cancers",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
-      },
-      {
-        "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm"
-      },
-      {
-        "title": "MIT turns bacteria into living transistors",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
-      },
-      {
-        "title": "Early statin use linked to 15% lower dementia risk",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm"
-      },
-      {
-        "title": "Scientists discover why snake embryos twist into spirals",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm"
-      },
-      {
-        "title": "Popular sweeteners may leave effects that last for generations",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
-      },
-      {
-        "title": "Scientists challenge a 70-year-old \u201clizard brain\u201d myth",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
-      }
-    ]
-  },
-  {
     "cluster": 7,
-    "name": "International Conflict Coverage",
+    "name": "Global Politics And Disasters",
     "articles": [
       {
-        "title": "LG TVs caught spying even when offline or on standby",
-        "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
+        "title": "Why This Small Dutch Town Is Teaching \u2018Adolescence\u2019 in School",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/netherlands-adolescence-manophere-education.html"
       },
       {
-        "title": "Switching Password Managers in 2026",
-        "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/"
+        "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html"
       },
       {
-        "title": "Painting and Color of the Eiffel Tower",
-        "link": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower"
+        "title": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
+        "link": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html"
       },
       {
-        "title": "The Book of Darius",
-        "link": "https://www.bookofdarius.com/"
+        "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+        "link": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html"
       },
       {
-        "title": "AfD\u2019s Far Right Win Puts New Pressure on Germany\u2019s Leader Merz",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html"
-      },
-      {
-        "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+        "title": "Canada\u2019s Carney Doubles Down on Pivot Away from the United States",
+        "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-trump-canada-us-trade-war.html"
       },
       {
         "title": "Hungary Expels 10 Russian Diplomats, Signaling a Shift",
         "link": "https://www.nytimes.com/2026/09/08/world/europe/hungary-russia-diplomats-expulsion.html"
       },
       {
+        "title": "Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker",
+        "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"
+      },
+      {
+        "title": "Australian Social Media Users Could Get Power to Switch Off Algorithms",
+        "link": "https://www.nytimes.com/2026/09/08/world/australia/social-media-law-algorithms-digital-duty-care.html"
+      },
+      {
         "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
         "link": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html"
       },
       {
-        "title": "They Went to Ukraine on the \u2018Peace Express.\u2019 Detours Are Likely Ahead.",
-        "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html"
-      },
-      {
-        "title": "Bombardier, a Canadian Jet Maker, Is One Target in Trump\u2019s Trade War",
-        "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"
-      },
-      {
-        "title": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group\u2019s Visit",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html"
-      },
-      {
-        "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
-        "link": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html"
-      },
-      {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-      },
-      {
-        "title": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
-      },
-      {
-        "title": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html"
-      },
-      {
-        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html"
-      },
-      {
-        "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-      },
-      {
-        "title": "Following Stolen Cars From Canada to Russia",
-        "link": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html"
-      }
-    ]
-  },
-  {
-    "cluster": 9,
-    "name": "Security and Tech Incidents",
-    "articles": [
-      {
-        "title": "The Price Tag on Breaches",
-        "link": "https://www.resilientcyber.io/p/the-real-price-tag-on-breaches"
-      },
-      {
-        "title": "EngineRed: Asymmetric AI Warfare",
-        "link": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare"
-      },
-      {
-        "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
-        "link": "https://github.com/doldecomp/melee"
-      },
-      {
-        "title": "Ryze AI Hack \u2013 build apps with only on-device \u2264500M models",
-        "link": "https://open-ryze.web.app/"
-      },
-      {
-        "title": "Show HN: Built myself a super YouTube post-prod studio",
-        "link": "https://twitter.com/xucian_/status/2096626717531992342"
-      },
-      {
-        "title": "US police fear Meta smart glasses could be used to secretly record them",
-        "link": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses"
-      },
-      {
-        "title": "In Russia, there was a tradition of mass brawls known as wall-on-wall fights",
-        "link": "https://twitter.com/LandsknechtPike/status/1926427364352725356"
-      },
-      {
-        "title": "Air traffic control failure disrupts flights at major UK airports",
-        "link": "https://londonlovesbusiness.com/air-traffic-control-failure-disrupts-flights-at-major-uk-airports/"
-      },
-      {
-        "title": "Critical vulnerabilities in MikroTik RouterOS are being actively exploited",
-        "link": "https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/"
-      },
-      {
-        "title": "Is Cloudflare Down?",
-        "link": "https://www.pasteboard.co/CulUq20USXKE.png"
-      },
-      {
-        "title": "Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
-        "link": "https://croplock.com/blog/"
-      },
-      {
-        "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
-        "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
-      },
-      {
-        "title": "Germany\u2019s \u2018Firewall\u2019 Against the Far Right Is Being Tested as Never Before",
-        "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
-      },
-      {
-        "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-        "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html"
-      },
-      {
-        "title": "Earth may have lost the Sun\u2019s protective shield millions of years ago",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm"
-      },
-      {
-        "title": "One immune switch may help drive aging across the body",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm"
-      },
-      {
-        "title": "Bats carry dangerous viruses without getting sick. This may be why",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm"
-      },
-      {
-        "title": "HEPA air purifiers may boost brain function after just one month",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Miscellaneous",
-    "articles": [
-      {
-        "title": "Show HN: Oweka, a TUI for cleaning up node_modules, target, and other artifacts",
-        "link": "https://github.com/ByteAtATime/oweka"
-      },
-      {
-        "title": "Write Your Novel in a Calendar",
-        "link": "https://rebeccamakkai.substack.com/p/write-your-novel-in-a-calendar"
-      },
-      {
-        "title": "StackFollow \u2013 Only the updates that matter, for the tools you use",
-        "link": "https://stackfollow.xyz/"
-      },
-      {
-        "title": "Zelda: Ocarina of Time Remake Release Date and Gameplay",
-        "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-gameplay-release-date/"
-      },
-      {
-        "title": "Hope Is Not a Forecast",
-        "link": "https://thinkingrock.substack.com/p/hope-is-not-a-forecast"
-      },
-      {
-        "title": "I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%",
-        "link": "https://www.bajura.online/2026/09/i-rewrote-my-backend-in-go-in-72-hours.html"
-      },
-      {
-        "title": "Did AI Find Murakami's Voice? Student's $2 Experiment Divides China's Literati",
-        "link": "https://www.sixthtone.com/news/1018966"
-      },
-      {
-        "title": "Show HN: Homebutler \u2013 reports what changed on your server, not what's running",
-        "link": "https://github.com/Higangssh/homebutler"
-      },
-      {
-        "title": "The Legend of Zelda: Ocarina of Time \u2013 Gameplay [video]",
-        "link": "https://www.youtube.com/watch?v=PQvD3p2yGwc"
-      },
-      {
-        "title": "What the Zelda: Ocarina of Time Remake Looks Like",
-        "link": "https://kotaku.com/heres-what-the-zelda-ocarina-of-time-remake-looks-like-2000732136"
+        "title": "Rubio Meets Colombia\u2019s Leader, Cites Progress on Security and Tariffs",
+        "link": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html"
       },
       {
         "title": "Online Posts Show Families\u2019 Grief for Flood Victims on Tibet\u2019s Side of China-Nepal Border",
         "link": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html"
       },
       {
-        "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
-        "link": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html"
-      },
-      {
-        "title": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-        "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html"
-      },
-      {
-        "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the \u2018Butcher of Bosnia\u2019",
-        "link": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html"
-      },
-      {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election"
-      },
-      {
-        "title": "New injectable treatment helps the brain rebuild after stroke",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
-      },
-      {
-        "title": "This \u201cnew\u201d frog was hiding in plain sight for 100 years",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 6,
-    "name": "Far Right Political Rise",
-    "articles": [
-      {
-        "title": "Our Thoughts on What's Likely the Most Important Policy Decision of Our Lifetime",
-        "link": "https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime"
-      },
-      {
-        "title": "Documents Suggest New Yorkers Were Misled About Air Quality After 9/11 Event",
-        "link": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html"
-      },
-      {
-        "title": "GeoGolfr",
-        "link": "https://geogolfr.com/"
-      },
-      {
-        "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html"
-      },
-      {
-        "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
-        "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html"
-      },
-      {
-        "title": "Seaweed Is Their Way of Life. A Company\u2019s Sweeping Plan Threatens It.",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/ireland-seaweed-harvesting.html"
-      },
-      {
         "title": "Containing Germany\u2019s Far Right",
         "link": "https://www.nytimes.com/2026/09/07/world/germany-election-afd-indonesia-microplastics.html"
+      },
+      {
+        "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+        "link": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html"
       },
       {
         "title": "After Victory in German State, Far Right Needs Help to Take Power",
         "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html"
       },
       {
-        "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
-        "link": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html"
+        "title": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
+        "link": "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html"
       },
       {
         "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
         "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html"
-      },
-      {
-        "title": "Germany\u2019s Far Right Just Misses Majority in Crucial State Election",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html"
-      },
-      {
-        "title": "Germany\u2019s AfD Could Win Its First State Government. Here\u2019s What to Know.",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
-      },
-      {
-        "title": "Scenic Route",
-        "link": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
       },
       {
         "title": "Giant new dinosaur discovered beneath construction site in Brazil",
@@ -772,46 +76,324 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm"
       },
       {
+        "title": "Scientists discover a bizarre \u201cdevil flower\u201d hidden in Thailand",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
+      },
+      {
+        "title": "This \u201cnew\u201d frog was hiding in plain sight for 100 years",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm"
+      },
+      {
         "title": "Extreme drought now covers 44% of Puerto Rico",
         "link": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm"
+      },
+      {
+        "title": "Bats carry dangerous viruses without getting sick. This may be why",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "name": "Scientific Discoveries And Research",
+    "articles": [
+      {
+        "title": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
+        "link": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html"
+      },
+      {
+        "title": "Indonesia\u2019s Growing Microplastics Problem",
+        "link": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html"
+      },
+      {
+        "title": "Scientists find a bone-building switch that could fight osteoporosis",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm"
+      },
+      {
+        "title": "Have we found alien life? Hundreds of scientists weigh in",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm"
+      },
+      {
+        "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm"
+      },
+      {
+        "title": "Your personality may be more genetic than scientists realized",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm"
+      },
+      {
+        "title": "Your gut microbiome may be more contagious than scientists thought",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm"
+      },
+      {
+        "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
+      },
+      {
+        "title": "Scientists reveal the hidden instructions that build the human brain",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+      },
+      {
+        "title": "MIT scientists develop injectable \u201cmini livers\u201d that work inside the body",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm"
+      },
+      {
+        "title": "80,000-year-old \u201carrowheads\u201d rewrite human history",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm"
+      },
+      {
+        "title": "Ancient \u201cliving fossils\u201d may reveal how complex life began",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm"
+      },
+      {
+        "title": "Scientists overturn a theory about this shark\u2019s strange head",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm"
+      },
+      {
+        "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm"
+      },
+      {
+        "title": "Too much coffee may weaken bones, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm"
+      },
+      {
+        "title": "MIT turns bacteria into living transistors",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
+      },
+      {
+        "title": "Scientists discover why snake embryos twist into spirals",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm"
       }
     ]
   },
   {
     "cluster": 5,
-    "name": "Climate and Natural Disasters",
+    "name": "International Conflicts And Elections",
     "articles": [
       {
-        "title": "17 Years Later, Valve Admits They Staged the Left 4 Dead 2 Trailer Leak",
-        "link": "https://80.lv/articles/17-years-later-valve-admits-they-staged-the-left-4-dead-2-trailer-leak"
+        "title": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
+        "link": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
       },
       {
-        "title": "I made a series of creative/fake captchas",
-        "link": "https://robots.nuth.ing"
+        "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+        "link": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
       },
       {
-        "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-        "link": "https://www.nature.com/articles/d41586-026-02794-w"
+        "title": "Ukraine\u2019s Unexpected $27 Billion Budget Gap Rattles Europe",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html"
       },
       {
-        "title": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
-        "link": "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html"
+        "title": "Singapore\u2019s Prime Minister Gets a Big Raise",
+        "link": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html"
       },
       {
-        "title": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
-        "link": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
+        "title": "This Tiny Anti-Establishment Party May Put Germany\u2019s Far Right in Power",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/afd-bsw-sahra-wagenknecht.html"
       },
       {
-        "title": "U.S. Strikes Three Iranian \u2018Shadow Network\u2019 Oil Tankers, Military Says",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+        "title": "The Theme Park at the Heart of France\u2019s Culture War",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html"
       },
       {
-        "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-        "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
+        "title": "Israel\u2019s Election Campaign Is Heating Up. Here\u2019s Who\u2019s Running.",
+        "link": "https://www.nytimes.com/2026/09/09/world/middleeast/israels-election-campaign-is-heating-up-heres-whos-running.html"
       },
       {
-        "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html"
+        "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html"
+      },
+      {
+        "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+        "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html"
+      },
+      {
+        "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+        "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html"
+      },
+      {
+        "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+        "link": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html"
+      },
+      {
+        "title": "Germany\u2019s Far Right Just Misses Majority in Crucial State Election",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html"
+      },
+      {
+        "title": "Geologists reveal the Americas collided millions of years earlier than thought",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201608.htm"
+      },
+      {
+        "title": "A longer exhale may push your brain toward bolder decisions",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
+      },
+      {
+        "title": "Earth may have lost the Sun\u2019s protective shield millions of years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 0,
+    "name": "Medical Health Breakthroughs",
+    "articles": [
+      {
+        "title": "How a Driver\u2019s Sudden Death Triggered Ebola Panic in Congo",
+        "link": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html"
+      },
+      {
+        "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the \u2018Butcher of Bosnia\u2019",
+        "link": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html"
+      },
+      {
+        "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm"
+      },
+      {
+        "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm"
+      },
+      {
+        "title": "Doctors saved this rare monkey from amputation. Months later, she gave birth",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260906170145.htm"
+      },
+      {
+        "title": "Popular brain supplement linked to shorter lifespan in men",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
+      },
+      {
+        "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
+      },
+      {
+        "title": "AI can now control fusion plasma faster than humans can react",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+      },
+      {
+        "title": "New injectable treatment helps the brain rebuild after stroke",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
+      },
+      {
+        "title": "Early statin use linked to 15% lower dementia risk",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm"
+      },
+      {
+        "title": "Mindfulness may lower blood pressure in just 8 weeks",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm"
+      },
+      {
+        "title": "One immune switch may help drive aging across the body",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "name": "Space And Astronomy Observations",
+    "articles": [
+      {
+        "title": "Making Coffins in Ebola\u2019s Epicenter",
+        "link": "https://www.nytimes.com/video/world/africa/100000011104028/making-coffins-in-ebolas-epicenter.html"
+      },
+      {
+        "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm"
+      },
+      {
+        "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm"
+      },
+      {
+        "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201556.htm"
+      },
+      {
+        "title": "A mysterious signal around Earth could be dark matter",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
+      },
+      {
+        "title": "Dark matter detector finds a strange signal scientists can\u2019t yet explain",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
+      },
+      {
+        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
+      },
+      {
+        "title": "September brings a dazzling Venus and a glowing Harvest Moon",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
+      },
+      {
+        "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm"
+      },
+      {
+        "title": "NASA\u2019s Swift telescope is back, but time is running out",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm"
+      },
+      {
+        "title": "Dying radio galaxies fade faster than scientists expected",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm"
+      },
+      {
+        "title": "NASA\u2019s Roman Space Telescope launches to reveal the Universe\u2019s darkest secrets",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 8,
+    "name": "Israel Palestine And Europe",
+    "articles": [
+      {
+        "title": "Europe Unites to Pressure Israel, Breaking With U.S.",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html"
+      },
+      {
+        "title": "In England \u2014 Yes, England \u2014 Tea and Cantaloupe Grow as the Climate Warms",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html"
+      },
+      {
+        "title": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+        "link": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html"
+      },
+      {
+        "title": "Impunity in the West Bank",
+        "link": "https://www.nytimes.com/2026/09/08/world/israel-west-bank-canada-us-trade.html"
+      },
+      {
+        "title": "AfD\u2019s Far Right Win Puts New Pressure on Germany\u2019s Leader Merz",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html"
+      },
+      {
+        "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+        "link": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html"
+      },
+      {
+        "title": "Germany\u2019s \u2018Firewall\u2019 Against the Far Right Is Being Tested as Never Before",
+        "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
+      },
+      {
+        "title": "They Went to Ukraine on the \u2018Peace Express.\u2019 Detours Are Likely Ahead.",
+        "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html"
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "name": "Environmental And Historical Stories",
+    "articles": [
+      {
+        "title": "Nepal\u2019s Flood Relief Workers Feel the Pain of Trump\u2019s Cuts to U.S.A.I.D.",
+        "link": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html"
+      },
+      {
+        "title": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group\u2019s Visit",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html"
+      },
+      {
+        "title": "Devil\u2019s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain\u2019s tallest stone row",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm"
       },
       {
         "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
@@ -826,82 +408,102 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
       },
       {
-        "title": "Scientists discover a bizarre \u201cdevil flower\u201d hidden in Thailand",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
-      },
-      {
         "title": "Deep beneath Mars, scientists find a vast hidden magma system",
         "link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm"
       },
       {
         "title": "Plants may be evolving the wrong traits for a warming world",
         "link": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm"
-      },
-      {
-        "title": "A massive plume deep beneath Africa is pulling the continent apart",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm"
       }
     ]
   },
   {
-    "cluster": 2,
-    "name": "Open Source Infrastructure",
+    "cluster": 1,
+    "name": "Quantum Physics Discoveries",
     "articles": [
       {
-        "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
-        "link": "https://github.com/deepmemteam/deepmem"
+        "title": "Dark energy debunked? Cosmic acceleration may be an illusion",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201600.htm"
       },
       {
-        "title": "Open Source Durable Objects for Postgres",
-        "link": "https://solidobjects.dev/blog/introducing-solidobjects"
+        "title": "Scientists observe Einstein\u2019s gravity in the quantum world for the first time",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm"
       },
       {
-        "title": "Be Using Rootless Containers",
-        "link": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers"
-      },
-      {
-        "title": "Quantum Open Source in the Age of Coding Agents: UnitaryHACK26",
-        "link": "https://unitary.foundation/posts/2026_unitaryhack_recap/"
-      },
-      {
-        "title": "Justifying text by hand, now at 35 columns",
-        "link": "https://en.andros.dev/blog/079a7eaa/justifying-text-by-hand-now-at-35-columns/"
-      },
-      {
-        "title": "Apache Iceberg Table Cleanup: A Production Guide",
-        "link": "https://lakeops.dev/blog/iceberg-table-cleanup"
-      },
-      {
-        "title": "Gaussian Point Splatting \u2013 a stochastic method for rendering 3DGS scenes",
-        "link": "https://jorisar.nl/gaussian_point_splatting/"
-      },
-      {
-        "title": "Bootstrappable Distros",
-        "link": "https://github.com/vasi/bootstrappable-distros"
-      },
-      {
-        "title": "NetBSD GSoC 2026 Testing Compat Linux: Syscall Testing",
-        "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2"
-      },
-      {
-        "title": "Making Tentacle Robots Useful [video]",
-        "link": "https://www.youtube.com/watch?v=BvGphB0iaHE"
-      },
-      {
-        "title": "Boots and Bullets",
-        "link": "https://bootsandbullets.com/"
-      },
-      {
-        "title": "Indonesia\u2019s Growing Microplastics Problem",
-        "link": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html"
+        "title": "Scientists say love follows hidden mathematical rules",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm"
       },
       {
         "title": "An important step towards detecting fractons in quantum spin liquids",
         "link": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm"
       },
       {
+        "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
+      },
+      {
         "title": "Quantum oscillations defy expectations in this exotic material",
         "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm"
+      },
+      {
+        "title": "Scientists just overturned a century-old physics assumption",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "name": "Trade War And Settlements",
+    "articles": [
+      {
+        "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html"
+      },
+      {
+        "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
+        "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html"
+      },
+      {
+        "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites \u2018Ethnic Cleansing\u2019",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+      },
+      {
+        "title": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+        "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html"
+      },
+      {
+        "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+        "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
+      },
+      {
+        "title": "How Ancient Farmers Used Floral Designs to Track Goods",
+        "link": "https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Misc",
+    "articles": [
+      {
+        "title": "Thousands Gather for Funeral of Norway\u2019s King Harald",
+        "link": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html"
+      },
+      {
+        "title": "Seaweed Is Their Way of Life. A Company\u2019s Sweeping Plan Threatens It.",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/ireland-seaweed-harvesting.html"
+      },
+      {
+        "title": "Saudi Arabia and Yemen\u2019s Houthis Edge Back to the Brink of War",
+        "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
+      },
+      {
+        "title": "\u201cParachute science\u201d is failing the tropics, home to more than 80% of insect species",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm"
+      },
+      {
+        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm"
       }
     ]
   }
