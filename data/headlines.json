@@ -1,13 +1,98 @@
 [
   {
-    "title": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
-    "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=53, tm_sec=47, tm_wday=0, tm_yday=271, tm_isdst=0)"
+    "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=9, tm_min=1, tm_sec=15, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=16, tm_min=3, tm_sec=12, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Dozens Killed in Myanmar Military Bombing",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=15, tm_min=20, tm_sec=14, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=11, tm_min=58, tm_sec=50, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Accusations of Antisemitism Hit a Star of the French Far Right",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/bardella-antisemitism-denial-france.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=16, tm_min=1, tm_sec=33, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven",
+    "link": "https://www.nytimes.com/2026/09/29/world/americas/argentina-ai-rules-milei.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=16, tm_min=17, tm_sec=27, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "The Migrants Being Shipped Back to a War Zone",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=12, tm_min=13, tm_sec=30, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=15, tm_min=6, tm_sec=48, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=17, tm_min=22, tm_sec=18, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "AMLO Son Poses Political Problems for Mexico\u2019s President Sheinbaum",
+    "link": "https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=9, tm_min=2, tm_sec=8, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "What Life Looks Like in the \u2018Fortress Cities\u2019 Russia Is Trying to Break",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=13, tm_min=18, tm_sec=14, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Rubio Says Incident at UK Air Base RAF Fairford \u2018Clearly Involved\u2019 a Foreign Actor",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=17, tm_min=27, tm_sec=20, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "OpenAI Apologizes for Australia Medicare Hack",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=5, tm_min=23, tm_sec=15, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=16, tm_min=29, tm_sec=49, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Estonia Says Arson at Defense Company Was \u2018Deliberate\u2019 Attack by Russia",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=13, tm_min=39, tm_sec=0, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+    "link": "https://www.nytimes.com/2026/09/28/world/middleeast/netanyahu-emirati-leader-hamas-attack.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=1, tm_min=27, tm_sec=20, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "The Voices Behind \u2018Made in China\u2019",
+    "link": "https://www.nytimes.com/2026/09/28/world/china-workers-poetry-pope-leo.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=4, tm_min=35, tm_sec=3, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
     "title": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
     "link": "https://www.nytimes.com/2026/09/28/world/europe/italy-egypt-giulio-regeni-verdict.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=18, tm_min=21, tm_sec=49, tm_wday=0, tm_yday=271, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=20, tm_min=22, tm_sec=21, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "German Town Votes to Stop Adding Memorials Outside Homes of Slain Jews",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/germany-stumbling-stones-holocaust-memorial-ban.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=16, tm_min=46, tm_sec=58, tm_wday=0, tm_yday=271, tm_isdst=0)"
   },
   {
     "title": "Over 800 Killed in Renewed Houthi-Saudi War in Yemen, W.H.O. Says",
@@ -17,52 +102,7 @@
   {
     "title": "Russian Drone Strikes Ukraine\u2019s Science Academy, Causing Fire in City Center",
     "link": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=10, tm_sec=20, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "German Town Votes to Stop Adding Memorials Outside Homes of Slain Jews",
-    "link": "https://www.nytimes.com/2026/09/28/world/europe/germany-stumbling-stones-holocaust-memorial-ban.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=16, tm_min=46, tm_sec=58, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won\u2019t Touch It",
-    "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=18, tm_min=43, tm_sec=57, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia\u2019s War.",
-    "link": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=11, tm_sec=27, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Pope Leo Praises Europe\u2019s Democracy, Diverging Once Again From Trump",
-    "link": "https://www.nytimes.com/2026/09/28/world/europe/pope-leo-trump-democracy-europe.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=14, tm_min=3, tm_sec=29, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Brazil\u2019s Biggest Election Question?: Donald Trump\u2019s Next Move",
-    "link": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=14, tm_min=28, tm_sec=57, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
-    "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=10, tm_sec=1, tm_wday=0, tm_yday=271, tm_isdst=0)"
-  },
-  {
-    "title": "Serbia\u2019s Longtime President Aleksandar Vucic Resigns Post",
-    "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=21, tm_min=22, tm_sec=29, tm_wday=6, tm_yday=270, tm_isdst=0)"
-  },
-  {
-    "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
-    "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=22, tm_min=11, tm_sec=12, tm_wday=6, tm_yday=270, tm_isdst=0)"
-  },
-  {
-    "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=20, tm_min=20, tm_sec=20, tm_wday=6, tm_yday=270, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=19, tm_min=33, tm_sec=55, tm_wday=0, tm_yday=271, tm_isdst=0)"
   },
   {
     "title": "Here\u2019s the latest.",
@@ -70,24 +110,64 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=15, tm_min=52, tm_sec=49, tm_wday=0, tm_yday=271, tm_isdst=0)"
   },
   {
+    "title": "Pope Leo Praises Europe\u2019s Democracy, Diverging Once Again From Trump",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/pope-leo-trump-democracy-europe.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=14, tm_min=3, tm_sec=30, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=20, tm_min=5, tm_sec=26, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "Brazil\u2019s Biggest Election Question?: Donald Trump\u2019s Next Move",
+    "link": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=15, tm_min=6, tm_sec=21, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
     "title": "What We Saw in One Venezuelan Gold Town",
     "link": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=14, tm_min=8, tm_sec=0, tm_wday=0, tm_yday=271, tm_isdst=0)"
   },
   {
+    "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won\u2019t Touch It",
+    "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=18, tm_min=43, tm_sec=58, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia\u2019s War.",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=11, tm_sec=27, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=7, tm_min=42, tm_sec=10, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
     "title": "Why China Is Requiring Ninth Graders to Read \u2018Jane Eyre\u2019",
     "link": "https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=5, tm_min=58, tm_sec=32, tm_wday=0, tm_yday=271, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=12, tm_min=10, tm_sec=43, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
     "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=22, tm_sec=51, tm_wday=0, tm_yday=271, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=17, tm_min=22, tm_sec=52, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "Serbia\u2019s Longtime President Aleksandar Vucic Resigns Post",
+    "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=21, tm_min=22, tm_sec=29, tm_wday=6, tm_yday=270, tm_isdst=0)"
   },
   {
     "title": "A Growing North Korea Problem",
     "link": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=5, tm_min=4, tm_sec=21, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+    "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=22, tm_min=11, tm_sec=12, tm_wday=6, tm_yday=270, tm_isdst=0)"
   },
   {
     "title": "Standoff Rocks a Northern Irish Town Over Contentious Sectarian March",
@@ -108,6 +188,11 @@
     "title": "At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
     "link": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=11, tm_min=37, tm_sec=20, tm_wday=6, tm_yday=270, tm_isdst=0)"
+  },
+  {
+    "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=27, tm_hour=20, tm_min=20, tm_sec=20, tm_wday=6, tm_yday=270, tm_isdst=0)"
   },
   {
     "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
@@ -205,89 +290,34 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=26, tm_hour=22, tm_min=22, tm_sec=12, tm_wday=5, tm_yday=269, tm_isdst=0)"
   },
   {
-    "title": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump\u2019s Go-To Gift",
-    "link": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=26, tm_hour=6, tm_min=25, tm_sec=29, tm_wday=5, tm_yday=269, tm_isdst=0)"
+    "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=9, tm_min=58, tm_sec=0, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
-    "title": "Top Saudi Cleric Calls Fight Against Houthis a Religious Duty",
-    "link": "https://www.nytimes.com/2026/09/25/world/middleeast/saudi-mufti-houthis-yemen-war.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=18, tm_min=13, tm_sec=46, tm_wday=4, tm_yday=268, tm_isdst=0)"
+    "title": "Earth\u2019s day isn\u2019t exactly 24 hours. The reason may lie deep inside the planet",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=5, tm_min=8, tm_sec=47, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
-    "title": "OpenAI Agents Hacked Into an Australian Government Website. Who\u2019s Responsible?",
-    "link": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=12, tm_min=20, tm_sec=52, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
-    "link": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=14, tm_min=22, tm_sec=19, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Pope Leo Signals Support for Journalists Targeted by Trump",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-media-trump.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=13, tm_min=44, tm_sec=20, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=9, tm_min=3, tm_sec=23, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Stuck on the Battlefield, Russia Wages \u2018Total War\u2019 on Ukraine\u2019s Economy",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=9, tm_min=2, tm_sec=55, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "On This Mexican Island, Raccoons Make and Play With Toys (and Also Sip Margaritas)",
-    "link": "https://www.nytimes.com/2026/09/25/science/raccoons-toys-cozumel-mexico-research.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=9, tm_min=2, tm_sec=25, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "How Climate Change Is Disrupting Summer Travel",
-    "link": "https://www.nytimes.com/2026/09/25/travel/climate-change-summer-travel-disruptions.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=9, tm_min=1, tm_sec=55, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "This Tiny Village Is Picture Perfect, Apart From All the Tourists",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=17, tm_min=33, tm_sec=53, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Russian Attacks Destroy Ukrainian Books",
-    "link": "https://www.nytimes.com/video/world/europe/100000011148419/russian-attacks-destroy-ukrainian-books.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=26, tm_hour=15, tm_min=1, tm_sec=8, tm_wday=5, tm_yday=269, tm_isdst=0)"
-  },
-  {
-    "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=9, tm_min=1, tm_sec=18, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Leo XIV, Trying to Be Everyone\u2019s Pope, Tours Secular France",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=15, tm_min=38, tm_sec=35, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=8, tm_min=27, tm_sec=8, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "Why Nepal\u2019s Prime Minister Balen Shah Wears Sunglasses",
-    "link": "https://www.nytimes.com/2026/09/24/world/asia/balen-shah-sunglasses-nepal.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=3, tm_min=49, tm_sec=34, tm_wday=4, tm_yday=268, tm_isdst=0)"
-  },
-  {
-    "title": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
-    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=25, tm_hour=2, tm_min=59, tm_sec=36, tm_wday=4, tm_yday=268, tm_isdst=0)"
+    "title": "NASA\u2019s Crew-13 could go from Florida to the ISS in under 9 hours",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=4, tm_min=38, tm_sec=52, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
     "title": "Is the universe infinite? The answer gets weird fast",
     "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=28, tm_hour=3, tm_min=18, tm_sec=42, tm_wday=0, tm_yday=271, tm_isdst=0)"
+  },
+  {
+    "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=3, tm_min=45, tm_sec=39, tm_wday=1, tm_yday=272, tm_isdst=0)"
+  },
+  {
+    "title": "Scientists expected these Gal\u00e1pagos sea turtles to wander. They stayed put",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=29, tm_hour=3, tm_min=12, tm_sec=23, tm_wday=1, tm_yday=272, tm_isdst=0)"
   },
   {
     "title": "Blood tests reveal why astronauts get constipated in space",
@@ -558,30 +588,5 @@
     "title": "Humpback whale mother may have mourned her dead calf for days",
     "link": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=22, tm_hour=13, tm_min=5, tm_sec=14, tm_wday=1, tm_yday=265, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=21, tm_hour=12, tm_min=25, tm_sec=22, tm_wday=0, tm_yday=264, tm_isdst=0)"
-  },
-  {
-    "title": "Stopping Ozempic may raise heart attack and stroke risk",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=21, tm_hour=13, tm_min=35, tm_sec=30, tm_wday=0, tm_yday=264, tm_isdst=0)"
-  },
-  {
-    "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=22, tm_hour=3, tm_min=48, tm_sec=58, tm_wday=1, tm_yday=265, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists discover first new penguin species in more than 100 years",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=22, tm_hour=3, tm_min=11, tm_sec=46, tm_wday=1, tm_yday=265, tm_isdst=0)"
-  },
-  {
-    "title": "A new process turns plastic waste into gasoline and diesel fuel",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=9, tm_mday=21, tm_hour=13, tm_min=8, tm_sec=40, tm_wday=0, tm_yday=264, tm_isdst=0)"
   }
 ]
