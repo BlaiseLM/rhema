@@ -1,31 +1,187 @@
 [
   {
-    "cluster": 9,
-    "name": "Global Conflict And Unrest",
+    "cluster": 2,
+    "name": "Space Exploration And Astronomy",
     "articles": [
+      {
+        "title": "Who Owns the Moon?",
+        "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html"
+      },
+      {
+        "title": "Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership",
+        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html"
+      },
+      {
+        "title": "Don't miss: Watch Saturn shine and Halley\u2019s Comet debris streak across the sky",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
+      },
+      {
+        "title": "This mysterious hole on the Moon may open into a giant cave",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm"
+      },
+      {
+        "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
+      },
+      {
+        "title": "NASA\u2019s Roman telescope just opened its planet-hunting eye",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+      },
+      {
+        "title": "Chang\u2019e-6 lunar soil contains a surprising magnetic time capsule",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
+      },
+      {
+        "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm"
+      },
+      {
+        "title": "97-million-year-old fossils reveal the earliest known animal \u201cGPS\u201d",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm"
+      },
+      {
+        "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
+      },
+      {
+        "title": "Scientists may have found a \u201cunifying theory\u201d of chronic fatigue",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053543.htm"
+      },
+      {
+        "title": "Bats may have first evolved in Europe 65 million years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm"
+      },
+      {
+        "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+      },
+      {
+        "title": "NASA\u2019s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm"
+      },
+      {
+        "title": "Earth\u2019s day isn\u2019t exactly 24 hours. The reason may lie deep inside the planet",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm"
+      },
+      {
+        "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm"
+      },
+      {
+        "title": "Pompeii\u2019s 2,000-year-old eruption just gave scientists a better clock for Earth\u2019s past",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm"
+      },
+      {
+        "title": "Black hole jets may decide the fate of entire galaxies",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm"
+      },
+      {
+        "title": "Is the universe infinite? The answer gets weird fast",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
+      },
+      {
+        "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "name": "Geopolitical Energy Competition",
+    "articles": [
+      {
+        "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html"
+      },
+      {
+        "title": "Why Saudi Arabia\u2019s Last War in Yemen Turned Into a Quagmire",
+        "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html"
+      },
+      {
+        "title": "U.S. Sanctions Aim to \u2018Shut Down\u2019 Iran\u2019s Airlines, but This Boeing Plane Is Still Flying",
+        "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html"
+      },
+      {
+        "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+        "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+      },
+      {
+        "title": "The Return of Middle East Oil",
+        "link": "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html"
+      },
+      {
+        "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+        "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html"
+      },
+      {
+        "title": "The Search for Gas in Moscow",
+        "link": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html"
+      },
+      {
+        "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+        "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html"
+      },
+      {
+        "title": "Russia Turns to Striking Kyiv\u2019s Bridges, Threatening a Vital Lifeline",
+        "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html"
+      },
+      {
+        "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+        "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html"
+      },
+      {
+        "title": "In India, a Food Inspector Sparks Fear in Mumbai Restaurants",
+        "link": "https://www.nytimes.com/2026/10/03/world/asia/tukaram-mundhe-india-mumbai-food-raids.html"
+      },
+      {
+        "title": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
+        "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html"
+      },
+      {
+        "title": "ESA\u2019s Juice just used Earth as a slingshot to Jupiter",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+      },
+      {
+        "title": "Could quitting ultra-processed food boost your mental health?",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm"
+      },
+      {
+        "title": "New \u201cplant armor\u201d more than triples strawberry yields",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "name": "International Conflicts And Crises",
+    "articles": [
+      {
+        "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
+        "link": "https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html"
+      },
       {
         "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
         "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
       },
       {
-        "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-        "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html"
+        "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html"
+      },
+      {
+        "title": "Spain\u2019s Leader Calls Early Election After Housing Crisis Roils Government",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html"
       },
       {
         "title": "Iran\u2019s Top Security Official Warns of Dire Economic Crisis",
         "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html"
       },
       {
+        "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+        "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html"
+      },
+      {
         "title": "U.K. Base Would Be Ambitious Target for \u2018Gig Economy\u2019 Warfare",
         "link": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html"
-      },
-      {
-        "title": "Separatists Are Poised to Win Quebec\u2019s Election. Independence Is Still a Hard Sell.",
-        "link": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html"
-      },
-      {
-        "title": "American High School Students Are Selling Guns Bound for Cartels",
-        "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
       },
       {
         "title": "What to Know About France\u2019s High School Protests",
@@ -40,46 +196,26 @@
         "link": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html"
       },
       {
-        "title": "Why U.S. Diesel Is So Important to Major Trading Partners",
-        "link": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html"
+        "title": "American High School Students Are Selling Guns Bound for Cartels",
+        "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
       },
       {
-        "title": "Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html"
+        "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+        "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html"
       },
       {
-        "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html"
-      },
-      {
-        "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
-        "link": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html"
-      },
-      {
-        "title": "Russia\u2019s Latest Propaganda? A.I.-Generated War Songs.",
-        "link": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html"
-      },
-      {
-        "title": "China\u2019s Push Into A.I. Has Led to a Problem: Too Much Usage",
-        "link": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html"
-      },
-      {
-        "title": "Mike Smith, Bubbles on \u2018Trailer Park Boys,\u2019 Has Sexual Assault Charge Dismissed",
-        "link": "https://www.nytimes.com/2026/10/01/world/canada/mike-smith-trailer-park-boys-sexual-assault-charge.html"
+        "title": "Scientists find an \u201cearthquake gate\u201d as California fault stress hits a 1,000-year high",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm"
       }
     ]
   },
   {
-    "cluster": 4,
-    "name": "Scientific Breakthroughs And Discovery",
+    "cluster": 1,
+    "name": "Scientific Discovery Breakthroughs",
     "articles": [
       {
         "title": "Nobel Prizes 2026: What to Know",
         "link": "https://www.nytimes.com/article/nobel-prizes-2026.html"
-      },
-      {
-        "title": "Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html"
       },
       {
         "title": "Scientists find a surprising clue to why the universe\u2019s expansion doesn\u2019t add up",
@@ -114,14 +250,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm"
       },
       {
-        "title": "One tiny chemical difference between RNA and DNA may help explain how life began",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053546.htm"
-      },
-      {
-        "title": "NASA\u2019s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm"
-      },
-      {
         "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
         "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm"
       },
@@ -130,352 +258,164 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm"
       },
       {
+        "title": "Blood tests reveal why astronauts get constipated in space",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm"
+      },
+      {
         "title": "Scientists just discovered what coffee really does to your gut and brain",
         "link": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm"
       }
     ]
   },
   {
-    "cluster": 6,
-    "name": "FlyDubai Cockpit Attack",
-    "articles": [
-      {
-        "title": "Who Were the Pilots on the FlyDubai Flight?",
-        "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html"
-      },
-      {
-        "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html"
-      },
-      {
-        "title": "Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours",
-        "link": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html"
-      },
-      {
-        "title": "FlyDubai Co-Pilot Used Crash Ax in \u2018Terrorist\u2019 Cockpit Attack, Emirates Says",
-        "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html"
-      },
-      {
-        "title": "FlyDubai Attack Raises Questions About Pilot Background Checks",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html"
-      },
-      {
-        "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
-        "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html"
-      },
-      {
-        "title": "Why Were 4 Pilots Aboard FlyDubai Flight 1073?",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-flight-cockpit-stabbing-extra-pilots.html"
-      },
-      {
-        "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html"
-      },
-      {
-        "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
-        "link": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html"
-      },
-      {
-        "title": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
-        "link": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
-      },
-      {
-        "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
-      },
-      {
-        "title": "Scientists find an \u201cearthquake gate\u201d as California fault stress hits a 1,000-year high",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm"
-      },
-      {
-        "title": "This giant stick insect fooled scientists for decades",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm"
-      },
-      {
-        "title": "Black hole jets may decide the fate of entire galaxies",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 5,
-    "name": "Space And Astronomy Research",
-    "articles": [
-      {
-        "title": "Who Owns the Moon?",
-        "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html"
-      },
-      {
-        "title": "NASA\u2019s Roman telescope just opened its planet-hunting eye",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
-      },
-      {
-        "title": "Chang\u2019e-6 lunar soil contains a surprising magnetic time capsule",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
-      },
-      {
-        "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm"
-      },
-      {
-        "title": "97-million-year-old fossils reveal the earliest known animal \u201cGPS\u201d",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm"
-      },
-      {
-        "title": "Scientists may have found a \u201cunifying theory\u201d of chronic fatigue",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053543.htm"
-      },
-      {
-        "title": "Bats may have first evolved in Europe 65 million years ago",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm"
-      },
-      {
-        "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
-      },
-      {
-        "title": "Earth\u2019s day isn\u2019t exactly 24 hours. The reason may lie deep inside the planet",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm"
-      },
-      {
-        "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm"
-      },
-      {
-        "title": "Pompeii\u2019s 2,000-year-old eruption just gave scientists a better clock for Earth\u2019s past",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm"
-      },
-      {
-        "title": "Is the universe infinite? The answer gets weird fast",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
-      },
-      {
-        "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm"
-      }
-    ]
-  },
-  {
-    "cluster": 0,
-    "name": "Health And Nutrition Science",
-    "articles": [
-      {
-        "title": "In India, a Food Inspector Sparks Fear in Mumbai Restaurants",
-        "link": "https://www.nytimes.com/2026/10/03/world/asia/tukaram-mundhe-india-mumbai-food-raids.html"
-      },
-      {
-        "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
-      },
-      {
-        "title": "ESA\u2019s Juice just used Earth as a slingshot to Jupiter",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
-      },
-      {
-        "title": "Leucine does more than build muscle. It powers up your cells",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm"
-      },
-      {
-        "title": "Vitamin D drug may help crack pancreatic cancer\u2019s protective shield",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm"
-      },
-      {
-        "title": "Could quitting ultra-processed food boost your mental health?",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm"
-      },
-      {
-        "title": "Cancer stem cells have an \u201cenergy addiction\u201d scientists may be able to exploit",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020319.htm"
-      },
-      {
-        "title": "New \u201cplant armor\u201d more than triples strawberry yields",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm"
-      },
-      {
-        "title": "Mulberry may reshape gut bacteria and influence metabolism",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm"
-      },
-      {
-        "title": "This 245-million-year-old fossil still has its stomach and intestines",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm"
-      },
-      {
-        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer\u2019s progression",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
-      },
-      {
-        "title": "Zepbound and Mounjaro may turn on the body\u2019s calorie-burning brown fat",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm"
-      },
-      {
-        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm"
-      }
-    ]
-  },
-  {
     "cluster": 3,
-    "name": "Crime And International Incidents",
+    "name": "Medical And Health Research",
     "articles": [
       {
-        "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
-        "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html"
+        "title": "How Congo\u2019s Ebola Epidemic Got So Bad So Quickly",
+        "link": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html"
       },
       {
-        "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
-        "link": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html"
+        "title": "British Museum Says It\u2019s Extending Bayeux Tapestry Viewing Hours",
+        "link": "https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html"
       },
       {
-        "title": "Argentina\u2019s \u2018Golden Passport\u2019 Program Offers Citizenship in Exchange for Foreign Cash",
-        "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html"
+        "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+        "link": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
       },
       {
-        "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html"
+        "title": "The \u201cglue\u201d holding your cells together has a surprising second job",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm"
       },
       {
-        "title": "Investigators Seek Motive for FlyDubai Cockpit Attack",
-        "link": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
+        "title": "Scientists just pushed superconductors beyond their usual current limit",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm"
       },
       {
-        "title": "Diet drinks work as well as water for weight loss, major trial finds",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+        "title": "Watch Live: NASA\u2019s Crew-13 could make the fastest U.S. trip to the ISS ever",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
       },
       {
-        "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm"
+        "title": "Electrons slow to a crawl in a strange new quantum state",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm"
       },
       {
         "title": "This common mistake can add nearly 7 points to your blood pressure reading",
         "link": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm"
       },
       {
-        "title": "Scientists expected these Gal\u00e1pagos sea turtles to wander. They stayed put",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm"
+        "title": "NASA\u2019s Crew-13 could go from Florida to the ISS in under 9 hours",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm"
       },
       {
-        "title": "Blood tests reveal why astronauts get constipated in space",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm"
+        "title": "Children at risk for depression get \u201cstuck\u201d on sad faces",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm"
       }
     ]
   },
   {
-    "cluster": 7,
-    "name": "Russia Ukraine And Geopolitics",
+    "cluster": 0,
+    "name": "Global Political Elections",
     "articles": [
       {
-        "title": "The Search for Gas in Moscow",
-        "link": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html"
+        "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump\u2019s Latin America Map",
+        "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html"
       },
       {
-        "title": "Russia Turns to Striking Kyiv\u2019s Bridges, Threatening a Vital Lifeline",
-        "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html"
+        "title": "Spain\u2019s Leader Calls an Early Election",
+        "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez"
+      },
+      {
+        "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil\u2019s Presidency",
+        "link": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html"
+      },
+      {
+        "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+        "link": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html"
+      },
+      {
+        "title": "Voters in Quebec Election Go to Polls as Separatist Parti Qu\u00e9b\u00e9cois Leads",
+        "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html"
+      },
+      {
+        "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
+        "link": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html"
+      },
+      {
+        "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
+        "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html"
       },
       {
         "title": "Understanding Canada\u2019s Europe Pivot",
         "link": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html"
       },
       {
-        "title": "Bridal Shop Owner Who Put Child Onto a Coat Hook Cleared by Court",
-        "link": "https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html"
-      },
-      {
-        "title": "Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html"
-      },
-      {
-        "title": "U.S. Suspends Consular Services in Brazil on Eve of Elections",
-        "link": "https://www.nytimes.com/2026/10/02/world/americas/brazil-us-consulate-elections.html"
-      },
-      {
-        "title": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html"
-      },
-      {
-        "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html"
-      },
-      {
-        "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html"
-      }
-    ]
-  },
-  {
-    "cluster": -1,
-    "name": "Energy And Markets",
-    "articles": [
-      {
-        "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-        "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
-      },
-      {
-        "title": "2026 Brazil Elections: What to Know as Lula and Bolsonaro Face Off",
-        "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html"
-      },
-      {
-        "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-        "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html"
-      },
-      {
-        "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-        "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html"
-      },
-      {
-        "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
-        "link": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html"
-      },
-      {
-        "title": "A Climate Change Rebrand",
-        "link": "https://www.nytimes.com/2026/10/01/world/climate-change-rebrand-renewables-flydubai.html"
-      },
-      {
-        "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
+        "title": "Separatists Are Poised to Win Quebec\u2019s Election. Independence Is Still a Hard Sell.",
+        "link": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html"
       }
     ]
   },
   {
     "cluster": 8,
-    "name": "Middle East Tensions",
+    "name": "Unusual Animal Behavior",
     "articles": [
       {
-        "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
-        "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html"
+        "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html"
       },
       {
-        "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-        "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html"
+        "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
+        "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html"
       },
       {
-        "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-        "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html"
+        "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+        "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html"
       },
       {
-        "title": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
-        "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html"
+        "title": "Who Were the Pilots on the FlyDubai Flight?",
+        "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html"
       },
       {
-        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html"
+        "title": "Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours",
+        "link": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html"
       },
       {
-        "title": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html"
+        "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+        "link": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html"
       },
       {
-        "title": "Lucien Lazare, Jewish Resistance Fighter in Occupied France, Dies at 101",
-        "link": "https://www.nytimes.com/2026/10/01/world/lucien-lazare-dead.html"
+        "title": "This giant stick insect fooled scientists for decades",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm"
+      },
+      {
+        "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm"
+      },
+      {
+        "title": "Scientists expected these Gal\u00e1pagos sea turtles to wander. They stayed put",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm"
       }
     ]
   },
   {
-    "cluster": 2,
-    "name": "Brain Aging And Cognition",
+    "cluster": 4,
+    "name": "Brain Health And Aging",
     "articles": [
+      {
+        "title": "Are Babies Conscious?",
+        "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html"
+      },
+      {
+        "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm"
+      },
       {
         "title": "Your gut bacteria may reveal how fast your brain is aging",
         "link": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
+      },
+      {
+        "title": "Leucine does more than build muscle. It powers up your cells",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm"
       },
       {
         "title": "This diet may slow brain aging by 2.5 years",
@@ -492,44 +432,96 @@
       {
         "title": "Brain scans reveal which disorders are linked to faster brain aging",
         "link": "https://www.sciencedaily.com/releases/2026/09/260927225038.htm"
-      },
-      {
-        "title": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927034004.htm"
-      },
-      {
-        "title": "REM sleep paradox: Dreaming may drain the brain\u2019s energy even as fuel supply rises",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm"
       }
     ]
   },
   {
-    "cluster": 1,
-    "name": "Quantum Physics And NASA",
+    "cluster": 7,
+    "name": "Cancer And Disease Biology",
     "articles": [
       {
-        "title": "Scientists just pushed superconductors beyond their usual current limit",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm"
+        "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
       },
       {
-        "title": "Watch Live: NASA\u2019s Crew-13 could make the fastest U.S. trip to the ISS ever",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
+        "title": "Scientists discover a human brain gene that can jump through DNA",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm"
       },
       {
-        "title": "Electrons slow to a crawl in a strange new quantum state",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm"
+        "title": "Cancer-fighting t cells burn out. Scientists may have found a fix",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001214127.htm"
       },
       {
-        "title": "NASA\u2019s Crew-13 could go from Florida to the ISS in under 9 hours",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm"
+        "title": "Vitamin D drug may help crack pancreatic cancer\u2019s protective shield",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm"
       },
       {
-        "title": "Children at risk for depression get \u201cstuck\u201d on sad faces",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm"
+        "title": "Cancer stem cells have an \u201cenergy addiction\u201d scientists may be able to exploit",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020319.htm"
       },
       {
-        "title": "Scientists were wrong about this strange mammal for nearly 40 years",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm"
+        "title": "One tiny chemical difference between RNA and DNA may help explain how life began",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053546.htm"
+      },
+      {
+        "title": "Mulberry may reshape gut bacteria and influence metabolism",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm"
+      },
+      {
+        "title": "This 245-million-year-old fossil still has its stomach and intestines",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm"
+      }
+    ]
+  },
+  {
+    "cluster": 9,
+    "name": "Cockpit Attack And Security",
+    "articles": [
+      {
+        "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html"
+      },
+      {
+        "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
+        "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html"
+      },
+      {
+        "title": "FlyDubai Co-Pilot Used Crash Ax in \u2018Terrorist\u2019 Cockpit Attack, Emirates Says",
+        "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html"
+      },
+      {
+        "title": "Argentina\u2019s \u2018Golden Passport\u2019 Program Offers Citizenship in Exchange for Foreign Cash",
+        "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html"
+      },
+      {
+        "title": "FlyDubai Attack Raises Questions About Pilot Background Checks",
+        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html"
+      },
+      {
+        "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
+        "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html"
+      },
+      {
+        "title": "Diet drinks work as well as water for weight loss, major trial finds",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+      }
+    ]
+  },
+  {
+    "cluster": -1,
+    "name": "Misc",
+    "articles": [
+      {
+        "title": "Bridal Shop Owner Who Put Child Onto a Coat Hook Cleared by Court",
+        "link": "https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html"
+      },
+      {
+        "title": "Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers",
+        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html"
+      },
+      {
+        "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+        "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html"
       }
     ]
   }
