@@ -1,87 +1,813 @@
 [
   {
-    "phrase": "Altered Reports Critical",
+    "phrase": "Digital price tag",
+    "relevance": 0.008680855907871378,
+    "title": "Walmart watchtower: Digital price tag patents speak louder than pledges",
+    "link": "https://groundworkcollaborative.org/work/the-walmart-watchtower/"
+  },
+  {
+    "phrase": "Claude Code mods",
+    "relevance": 0.00206325467754573,
+    "title": "Agent-config&Claude Code mods",
+    "link": "https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config"
+  },
+  {
+    "phrase": "move court condems",
+    "relevance": 0.0042542192213185686,
+    "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+    "link": "https://www.bbc.com/news/articles/cj20vkkx3rdvo"
+  },
+  {
+    "phrase": "Ful",
+    "relevance": 0.04491197687864554,
+    "title": "Ful",
+    "link": "https://hackerone.com/reports/3994056"
+  },
+  {
+    "phrase": "ModRetro Chromatic",
+    "relevance": 0.013797198203993007,
+    "title": "ModRetro Chromatic: Transparent",
+    "link": "https://modretro.com/products/chromatic-transparent"
+  },
+  {
+    "phrase": "Portfolio Risk Lab",
+    "relevance": 0.0020632546775457305,
+    "title": "Portfolio Risk Lab: uncertainty-aware rebalancing in Python",
+    "link": "https://github.com/garroshub/portfolio-risk-lab"
+  },
+  {
+    "phrase": "Branch-Free Code",
+    "relevance": 0.026233073037508336,
+    "title": "Branches in Branch-Free Code",
+    "link": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
+  },
+  {
+    "phrase": "Family Storage",
+    "relevance": 0.007444681613352736,
+    "title": "Microsoft is about to hobble your O-365 Family Storage",
+    "link": "https://support.microsoft.com/en-us/onedrive/changes-to-microsoft-365-storage"
+  },
+  {
+    "phrase": "Decision Making Surface",
+    "relevance": 0.001881309737406442,
+    "title": "Show HN: Plannotator Inbox \u2013 Decision Making Surface for Agents",
+    "link": "https://plannotator.ai/inbox/"
+  },
+  {
+    "phrase": "Walmart exec speaks",
+    "relevance": 0.0025258761156662004,
+    "title": "Walmart exec speaks out on dynamic pricing again after watchdog calls out patent",
+    "link": "https://nypost.com/2026/10/08/lifestyle/walmart-ceo-speaks-out-on-dynamic-pricing-again-after-watchdog-calls-out-controversial-shelf-tag-tech/"
+  },
+  {
+    "phrase": "Lesson Plan",
+    "relevance": 0.007444681613352736,
+    "title": "15-Minute Lesson Plan: A.I.-Assisted Mathematics",
+    "link": "https://www.nytimes.com/2026/10/07/learning/15-minute-lesson-plan-ai-assisted-mathematics.html"
+  },
+  {
+    "phrase": "on-device PII radaction",
+    "relevance": 0.007568253837993473,
+    "title": "Rampart: Browser native on-device PII radaction",
+    "link": "https://ndstudio.gov/posts/say-hello-to-rampart"
+  },
+  {
+    "phrase": "Code",
+    "relevance": 0.08596317751626563,
+    "title": "English Instead of Code",
+    "link": "https://dalerank.github.io/en/articles/english-instead-of-code.html"
+  },
+  {
+    "phrase": "Cactus Needle",
+    "relevance": 0.007444681613352736,
+    "title": "Show HN: Cactus Needle \u2013 Local tool calling and speech-to-text in JavaScript",
+    "link": "https://afshinm.github.io/cactus-needle/"
+  },
+  {
+    "phrase": "Naming Things",
+    "relevance": 0.012602360123953448,
+    "title": "A Practical Guide to Naming Things",
+    "link": "https://www.smashingmagazine.com/2026/10/how-name-things/"
+  },
+  {
+    "phrase": "start watermarking ChatGPT",
+    "relevance": 0.03339840940482845,
+    "title": "OpenAI will start watermarking ChatGPT's text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+  },
+  {
+    "phrase": "SDR ship tracking",
+    "relevance": 0.007568253837993473,
+    "title": "Show HN: LumiBridge \u2013 448x64 LED display with SDR ship tracking",
+    "link": "https://timvasil.com/lumibridge"
+  },
+  {
+    "phrase": "Ben Affleck",
+    "relevance": 0.023458380875189744,
+    "title": "Ben Affleck is an AI nerd",
+    "link": "https://twitter.com/rohanpaul_ai/status/2105786881111896126"
+  },
+  {
+    "phrase": "Language Models",
+    "relevance": 0.012602360123953448,
+    "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+    "link": "https://s2lab.org/U-Space/"
+  },
+  {
+    "phrase": "around.",
+    "relevance": 0.12363091320521931,
+    "title": "I'm still around.. I'm just not writing here",
+    "link": "https://rachelbythebay.com/w/2026/10/08/idle/"
+  },
+  {
+    "phrase": "PDF",
+    "relevance": 0.030396371632413578,
+    "title": "Show HN: PDF/ePub reader where you ask AI and each answer links to the passage",
+    "link": "https://marginal-ia.app/en"
+  },
+  {
+    "phrase": "Free Press",
+    "relevance": 0.012602360123953448,
+    "title": "Ross Douthat: I'm Writing a Column for the Free Press",
+    "link": "https://www.thefp.com/p/ross-douthat-new-columnist-the-free-press"
+  },
+  {
+    "phrase": "End Encryption",
+    "relevance": 0.02140921543860024,
+    "title": "AI Could End Encryption as We Know It",
+    "link": "https://ai-frontiers.org/articles/ai-could-end-encryption-as-we-know-it"
+  },
+  {
+    "phrase": "Lean Theorem Prover",
+    "relevance": 0.001881309737406442,
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+  },
+  {
+    "phrase": "Remember Orkut",
+    "relevance": 0.01984585111858601,
+    "title": "Remember Orkut? Its founder wants to bring it back",
+    "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/"
+  },
+  {
+    "phrase": "Jasmin",
+    "relevance": 0.04491197687864554,
+    "title": "Jasmin: A language for high-assurance and high-speed cryptography",
+    "link": "https://github.com/jasmin-lang/jasmin"
+  },
+  {
+    "phrase": "Plasma Screen",
+    "relevance": 0.004925103769790319,
+    "title": "The Rise and Fall of the Plasma Screen",
+    "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen"
+  },
+  {
+    "phrase": "Open-Source Decision Model",
+    "relevance": 0.00688415006041516,
+    "title": "THX-01: An Open-Source Decision Model That Runs on Your Phone and Beats Jev",
+    "link": "https://doofz.substack.com/p/introducing-thx-01-an-open-source"
+  },
+  {
+    "phrase": "rarest tech books",
+    "relevance": 0.03339840940482845,
+    "title": "Show HN: The rarest tech books and docs you've probably never read",
+    "link": "https://readrare.com/"
+  },
+  {
+    "phrase": "CXMT covert campaign",
+    "relevance": 0.008680855907871378,
+    "title": "CXMT's covert campaign to obtain Samsung tech by any means necessary",
+    "link": "https://www.koreajoongangdaily.com/business/blackmail-poaching-and-theftnbspcxmts-covert-campaign-to-obtain-samsung-tech-by-any-means-necessary/12895134"
+  },
+  {
+    "phrase": "Scam American companies",
+    "relevance": 0.007568253837993474,
+    "title": "Scam American companies are using to manipulate ingredient gets listed first",
+    "link": "https://twitter.com/WallStreetApes/status/2108594998656807078"
+  },
+  {
+    "phrase": "theorem provers",
+    "relevance": 0.04940384002065631,
+    "title": "A tale of four theorem provers",
+    "link": "https://blueberrywren.dev/blog/primes/"
+  },
+  {
+    "phrase": "Prediction Markets",
+    "relevance": 0.012602360123953448,
+    "title": "Trade Direction in Prediction Markets",
+    "link": "https://arxiv.org/abs/2610.06412"
+  },
+  {
+    "phrase": "source decision model",
+    "relevance": 0.01655915082773619,
+    "title": "Show HN: THX-01 \u2013 Open- source decision model that runs on phones and beats Jev",
+    "link": "https://huggingface.co/doofz/THX-01"
+  },
+  {
+    "phrase": "Hype Trends",
+    "relevance": 0.012602360123953448,
+    "title": "Hacker News AI Hype Trends: 2022 \u2013 Present",
+    "link": "https://www.alwaysleaveanote.com/hacker-news/ai-trends/"
+  },
+  {
+    "phrase": "Memory of Deno",
+    "relevance": 0.012602360123953448,
+    "title": "In Memory of Deno",
+    "link": "https://orgsoft.org/blog/in-memory-of-deno"
+  },
+  {
+    "phrase": "Scott and Scurvy",
+    "relevance": 0.013797198203993007,
+    "title": "Scott and Scurvy (2010)",
+    "link": "https://idlewords.com/2010/03/scott_and_scurvy.htm"
+  },
+  {
+    "phrase": "inbound traffic",
+    "relevance": 0.04940384002065631,
+    "title": "All practical general use firewalls are porous now for inbound traffic",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FirewallsArePorousNow"
+  },
+  {
+    "phrase": "spends leftover Claude",
+    "relevance": 0.004390086440759893,
+    "title": "Show HN: RemainderBot - spends leftover Claude/Codex quota on reviewable PRs",
+    "link": "https://github.com/arimwilson/openremainderbot"
+  },
+  {
+    "phrase": "Module Guidance Computer",
+    "relevance": 0.001881309737406442,
+    "title": "Tales from the Lunar Module Guidance Computer (2004)",
+    "link": "https://www.doneyles.com/LM/Tales.html"
+  },
+  {
+    "phrase": "iPhone for Privacy",
+    "relevance": 0.026233073037508336,
+    "title": "Aircooling My iPhone for Privacy",
+    "link": "https://romanzipp.com/blog/aircooling-my-iphone-for-privacy"
+  },
+  {
+    "phrase": "Oracle turns days",
+    "relevance": 0.015042304599106411,
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle/"
+  },
+  {
+    "phrase": "Canto incognito",
+    "relevance": 0.02570861714399338,
+    "title": "Canto incognito: tracking the PoeLLM malware",
+    "link": "https://www.lumen.com/blog/en-us/canto-incognito-tracking-the-poellm-malware"
+  },
+  {
+    "phrase": "Swiss tables",
+    "relevance": 0.013797198203993007,
+    "title": "How Go maps work internally: Swiss tables",
+    "link": "https://www.youtube.com/watch?v=TdtNViWk45I"
+  },
+  {
+    "phrase": "Released",
+    "relevance": 0.030396371632413578,
+    "title": "Python 3.15 Released",
+    "link": "https://lwn.net/Articles/1099602/"
+  },
+  {
+    "phrase": "Find any screenshot",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Glimpse \u2013 Find any screenshot on Windows by its text or how it looks",
+    "link": "https://github.com/cgranier/glimpse"
+  },
+  {
+    "phrase": "Chinese hybrid exports",
+    "relevance": 0.007568253837993473,
+    "title": "China, EU strike deal to halve Chinese hybrid exports",
+    "link": "https://www.reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09/"
+  },
+  {
+    "phrase": "LLMs in Mathematics",
+    "relevance": 0.026233073037508336,
+    "title": "Two Futures for LLMs in Mathematics",
+    "link": "https://wiredream.com/llm-two-futures/"
+  },
+  {
+    "phrase": "Mistral and SAP",
+    "relevance": 0.012602360123953448,
+    "title": "Germany withdraws from AI partnership with Mistral and SAP",
+    "link": "https://www.welt.de/wirtschaft/article6ac8d35d61b3d4c01d3e11da/digitale-souveraenitaet-bund-zieht-sich-aus-ki-partnerschaft-mit-mistral-und-sap-zurueck.html"
+  },
+  {
+    "phrase": "Tinycast",
+    "relevance": 0.04491197687864554,
+    "title": "Tinycast: A free, native launcher for macOS",
+    "link": "https://tinycast.dev/"
+  },
+  {
+    "phrase": "Dijkstraverse",
+    "relevance": 0.04491197687864554,
+    "title": "Dijkstraverse \u2013 Use Dijkstra's algorithm to find the shortest path",
+    "link": "https://dijkstraverse.vercel.app/"
+  },
+  {
+    "phrase": "Plague scare",
+    "relevance": 0.02570861714399338,
+    "title": "Plague scare: what scientists know",
+    "link": "https://www.nature.com/articles/d41586-026-03215-8"
+  },
+  {
+    "phrase": "Plenty of Room",
+    "relevance": 0.02140921543860024,
+    "title": "There's Plenty of Room at the Bottom",
+    "link": "https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom"
+  },
+  {
+    "phrase": "chance on Oracle",
+    "relevance": 0.023458380875189744,
+    "title": "Traders put a one-in-five chance on Oracle defaulting within five years",
+    "link": "https://theinference.org/article/traders-put-a-one-in-five-chance-on-oracle-defaulting-within-five-years"
+  },
+  {
+    "phrase": "Model Gold Rush",
+    "relevance": 0.001881309737406442,
+    "title": "The Decision Model Gold Rush",
+    "link": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush"
+  },
+  {
+    "phrase": "Software Was Commoditized",
+    "relevance": 0.012602360123953448,
+    "title": "2026 \u2013 The Year Software Was Commoditized",
+    "link": "https://www.jbernier.com/p?id=2026-software-commoditized"
+  },
+  {
+    "phrase": "Cameras",
+    "relevance": 0.08596317751626563,
+    "title": "As We Become Cameras (2016)",
+    "link": "https://medium.com/@mhkt/as-we-become-cameras-ac142f9a8bb5"
+  },
+  {
+    "phrase": "Wang on Cleo",
+    "relevance": 0.012602360123953448,
+    "title": "Alex Wang on Cleo [video]",
+    "link": "https://www.youtube.com/watch?v=1LRvMRC_pfY"
+  },
+  {
+    "phrase": "Read That File",
+    "relevance": 0.02140921543860024,
+    "title": "AI Agent Shouldn't Read That File Yet",
+    "link": "https://www.claix.dev"
+  },
+  {
+    "phrase": "win American creators",
+    "relevance": 0.007568253837993473,
+    "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+    "link": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/"
+  },
+  {
+    "phrase": "Static Type Inference",
+    "relevance": 0.001881309737406442,
+    "title": "Ahead-of-Time Compilation of JavaScript to WebAssembly via Static Type Inference [video]",
+    "link": "https://vimeo.com/1234257957"
+  },
+  {
+    "phrase": "Self-hosted control plane",
+    "relevance": 0.008680855907871378,
+    "title": "Show HN: TaskHandoff \u2013 Self-hosted control plane for containerized AI agents",
+    "link": "https://github.com/edgestorage/task-handoff"
+  },
+  {
+    "phrase": "Internal AI Language",
+    "relevance": 0.007444681613352736,
+    "title": "Ask HN: Internal AI Language",
+    "link": "https://news.ycombinator.com/item?id=50023533"
+  },
+  {
+    "phrase": "money every day",
+    "relevance": 0.09700399286574239,
+    "title": "\"I'm programmed to get money every day like a robot\"",
+    "link": "https://bellrun.com"
+  },
+  {
+    "phrase": "backing America existing",
+    "relevance": 0.015042304599106411,
+    "title": "Why we're backing America's existing nuclear plants",
+    "link": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
+  },
+  {
+    "phrase": "tap to control",
+    "relevance": 0.02570861714399338,
+    "title": "Apple and LG leak shows new 'tap to control' HomeKit features",
+    "link": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor"
+  },
+  {
+    "phrase": "encrypting victims",
+    "relevance": 0.04940384002065631,
+    "title": "Can you make more than $200M in six months without encrypting victims?",
+    "link": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/"
+  },
+  {
+    "phrase": "TypeSafe a Raises",
+    "relevance": 0.005484890844946624,
+    "title": "TypeSafe a Raises $870M at a $7.5B",
+    "link": "https://typesafe.ai/blog/series-ai"
+  },
+  {
+    "phrase": "cuts API calls",
+    "relevance": 0.015042304599106411,
+    "title": "Virgil \u2013 a coding agent that cuts API calls by up to 78% on repeated work",
+    "link": "https://virgil-ai.cloud/try"
+  },
+  {
+    "phrase": "OpenAI Proof Withdrawal",
+    "relevance": 0.003995142956050651,
+    "title": "Formalization of the OpenAI Proof Withdrawal",
+    "link": "https://github.com/ityonemo/openai-wiles"
+  },
+  {
+    "phrase": "Cleveland",
+    "relevance": 0.08596317751626563,
+    "title": "Still on Its Way to Cleveland",
+    "link": "https://longreads.com/2026/09/22/family-road-trip-early-internet-90s/"
+  },
+  {
+    "phrase": "DHH Campfire rewrite",
+    "relevance": 0.0035308295728302113,
+    "title": "Kotlin keeps up with Rust in DHH's Campfire rewrite",
+    "link": "https://www.wecodefire.com/p/kotlin-keeps-up-with-rust"
+  },
+  {
+    "phrase": "Homelab",
+    "relevance": 0.08596317751626563,
+    "title": "Building a Better NAS for My Homelab",
+    "link": "https://bryananthonio.com/blog/building-a-better-nas-for-my-homelab/"
+  },
+  {
+    "phrase": "Studenten Net Twente",
+    "relevance": 0.001881309737406442,
+    "title": "SNTPings by Studenten Net Twente",
+    "link": "https://pings.utwente.io/"
+  },
+  {
+    "phrase": "OnemanBSD Includes WebKitGtk",
+    "relevance": 0.007568253837993473,
+    "title": "New Version of OnemanBSD Includes WebKitGtk",
+    "link": "http://bialamusic.com/onemanBSD/"
+  },
+  {
+    "phrase": "Margaret Hamilton Wrote",
+    "relevance": 0.001881309737406442,
+    "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code",
+    "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html"
+  },
+  {
+    "phrase": "Seychelles island",
+    "relevance": 0.023458380875189744,
+    "title": "Scientists discover 180k giant tortoises on one Seychelles island",
+    "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles"
+  },
+  {
+    "phrase": "Chapter of USV",
+    "relevance": 0.012602360123953448,
+    "title": "The Next Chapter of USV",
+    "link": "https://twitter.com/mignano/status/2108196056525639693"
+  },
+  {
+    "phrase": "Tomek Korbak",
+    "relevance": 0.013797198203993007,
+    "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+    "link": "https://twitter.com/tomekkorbak/status/2108266859397283953"
+  },
+  {
+    "phrase": "Mathematics Reels",
+    "relevance": 0.012602360123953448,
+    "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+    "link": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html"
+  },
+  {
+    "phrase": "Define and review",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Higherlevel \u2013 Define and review what AI agents build",
+    "link": "https://higherlevel.to/"
+  },
+  {
+    "phrase": "Android apps",
+    "relevance": 0.013797198203993007,
+    "title": "Why Android apps can't talk to your camera when you're connected to a VPN",
+    "link": "https://www.johnmaguire.me/blog/camera-connection-issues-with-android-vpns/"
+  },
+  {
+    "phrase": "open-source Markdown reader",
+    "relevance": 0.0013485152131775045,
+    "title": "Folio \u2013 A free, open-source Markdown reader and editor for Windows and Linux",
+    "link": "https://github.com/myrvmsr/folio"
+  },
+  {
+    "phrase": "Kairos Experiment",
+    "relevance": 0.013797198203993007,
+    "title": "Kairos Experiment \u2013 How I disproved my own AI memory framework",
+    "link": "https://kairos-experiment.com/"
+  },
+  {
+    "phrase": "Small App Save",
+    "relevance": 0.001881309737406442,
+    "title": "Spring Boot JPA vs. JDBC: How Much Can a Small App Save?",
+    "link": "https://pvrlabs.xyz/java-performance/experiments/spring-boot-jpa-vs-jdbc.html"
+  },
+  {
+    "phrase": "Open-Ended Scientific Discovery",
+    "relevance": 0.006133916749082168,
+    "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+    "link": "https://arxiv.org/abs/2610.08927"
+  },
+  {
+    "phrase": "mental health",
+    "relevance": 0.04940384002065631,
+    "title": "How people use social media may matter more than screen time for mental health",
+    "link": "https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/focus-on-social-media-engagement-not-just-screen-time-essential-to-help-protect-mental-health/"
+  },
+  {
+    "phrase": "Idealized Studios",
+    "relevance": 0.012602360123953448,
+    "title": "The Failed Fight to Unionize One of Gaming's Most Idealized Studios",
+    "link": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755"
+  },
+  {
+    "phrase": "Applying NASA satellite-imaging",
+    "relevance": 0.007568253837993474,
+    "title": "Applying NASA's satellite-imaging trick to ancient museum objects",
+    "link": "https://curios.jairus.ca/dstretch-museums/"
+  },
+  {
+    "phrase": "Analytics that identify",
+    "relevance": 0.013797198203993007,
+    "title": "SupaQuery \u2013 Analytics that identify B2B website visitors",
+    "link": "https://supaquery.com/"
+  },
+  {
+    "phrase": "supposed to feel",
+    "relevance": 0.04940384002065631,
+    "title": "That's how it's supposed to feel",
+    "link": "https://wlls.dev/blog/thats-how-its-supposed-to-feel"
+  },
+  {
+    "phrase": "Tesla Rebrands Full",
+    "relevance": 0.001533203637392383,
+    "title": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+    "link": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926"
+  },
+  {
+    "phrase": "Underdog Saluki",
+    "relevance": 0.013797198203993007,
+    "title": "Underdog Saluki: Qwen3.8-27B in under 8GB with tool calling intact",
+    "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0"
+  },
+  {
+    "phrase": "Moe Inference",
+    "relevance": 0.012602360123953448,
+    "title": "Trace a Token Through TP/CP/SP/EP/DP/PP in Moe Inference",
+    "link": "https://charlesxu.io/tp-cp-sp-ep-dp-pp/"
+  },
+  {
+    "phrase": "Oil Tanker Costs",
+    "relevance": 0.001881309737406442,
+    "title": "Hiring US-to-China Oil Tanker Costs More Than Launching a Space Rocket",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/the-global-oil-tanker-shortage-is-getting-worse-by-the-day"
+  },
+  {
+    "phrase": "CPU First Decision",
+    "relevance": 0.012602360123953448,
+    "title": "Show HN: CPU First Decision Model",
+    "link": "https://github.com/kouhxp/gutsy"
+  },
+  {
+    "phrase": "Infinite Ascent",
+    "relevance": 0.013797198203993007,
+    "title": "Infinite Ascent \u2013 Our approach to open research and intelligence",
+    "link": "https://infiniteascent.com/blog/open-research-and-intelligence/"
+  },
+  {
+    "phrase": "Open-source platform",
+    "relevance": 0.026233073037508336,
+    "title": "Show HN: Widefleet \u2013 Open-source platform for agent-built apps and workflows",
+    "link": "https://github.com/widefleet/widefleet"
+  },
+  {
+    "phrase": "streaming version-control system",
+    "relevance": 0.016559150827736194,
+    "title": "Swarmfile: A streaming version-control system",
+    "link": "https://swarmfile.com/blog/swarmfile-a-streaming-version-control-system/"
+  },
+  {
+    "phrase": "Monkey Artist",
+    "relevance": 0.007444681613352736,
+    "title": "Pierre Brassau, Monkey Artist",
+    "link": "https://hoaxes.org/archive/permalink/pierre_brassau_monkey_artist"
+  },
+  {
+    "phrase": "Nobel Peace Prize",
+    "relevance": 0.001881309737406442,
+    "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026"
+  },
+  {
+    "phrase": "Deadly Houthi Attacks",
     "relevance": 0.0032173869679631944,
-    "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
-    "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html"
+    "title": "Days of Deadly Houthi Attacks Show Saudi Arabia\u2019s Vulnerabilities",
+    "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html"
+  },
+  {
+    "phrase": "Authority Says Elections",
+    "relevance": 0.02140921543860024,
+    "title": "Palestinian Authority Says Elections Are to Be Postponed",
+    "link": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html"
+  },
+  {
+    "phrase": "Wages Shadow War",
+    "relevance": 0.001881309737406442,
+    "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html"
+  },
+  {
+    "phrase": "Nobel Peace Prize",
+    "relevance": 0.0006487982591412822,
+    "title": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html"
+  },
+  {
+    "phrase": "Peace Prize Choice",
+    "relevance": 0.0032173869679631944,
+    "title": "Nobel Peace Prize Choice Amounts to Implicit Rebuke of Trump",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-trump-international-law.html"
+  },
+  {
+    "phrase": "India Cancels Trains",
+    "relevance": 0.0020632546775457305,
+    "title": "India Cancels Trains, Floods Capital with Police to Block Protests",
+    "link": "https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html"
+  },
+  {
+    "phrase": "Hero \u2019s Ashes",
+    "relevance": 0.004925103769790319,
+    "title": "In a Dead Hero\u2019s Ashes, El Salvador\u2019s Ruler Finds a New Spark",
+    "link": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html"
+  },
+  {
+    "phrase": "South Africa",
+    "relevance": 0.012602360123953448,
+    "title": "In South Africa, Pillay forged a career fighting apartheid.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/in-south-africa-pillay-forged-a-career-fighting-apartheid"
+  },
+  {
+    "phrase": "Museum Are Recovered",
+    "relevance": 0.012602360123953448,
+    "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html"
+  },
+  {
+    "phrase": "Rural Village Voted",
+    "relevance": 0.0032173869679631944,
+    "title": "A Rural Village Voted to Leave the U.K., Stirring Britain\u2019s Migration Debate",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html"
+  },
+  {
+    "phrase": "Fervent History",
+    "relevance": 0.012602360123953448,
+    "title": "France\u2019s Long, Fervent History of Protest",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html"
+  },
+  {
+    "phrase": "London Seat",
+    "relevance": 0.012602360123953448,
+    "title": "Labour Holds Off Green Party in Election for Starmer\u2019s Former London Seat",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html"
+  },
+  {
+    "phrase": "Young Put",
+    "relevance": 0.02140921543860024,
+    "title": "India\u2019s Young Put Their Bodies on the Line to Be Heard",
+    "link": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html"
+  },
+  {
+    "phrase": "South African Jurist",
+    "relevance": 0.0011031048803583578,
+    "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html"
+  },
+  {
+    "phrase": "Brazen Tuscan Heist",
+    "relevance": 0.001881309737406442,
+    "title": "30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html"
+  },
+  {
+    "phrase": "Administration Hits International",
+    "relevance": 0.0032173869679631944,
+    "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+    "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+  },
+  {
+    "phrase": "Navi Pillay",
+    "relevance": 0.023458380875189744,
+    "title": "Navi Pillay is known for her work in conflict zones across the world.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/navi-pillay-is-known-for-her-work-in-conflict-zones-across-the-world"
+  },
+  {
+    "phrase": "Peace Prize",
+    "relevance": 0.007444681613352736,
+    "title": "The criteria for the Peace Prize have changed over time.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-criteria-for-the-peace-prize-has-changed-over-time"
+  },
+  {
+    "phrase": "Nobel Peace Prize",
+    "relevance": 0.0032173869679631944,
+    "title": "The Nobel Peace Prize recipient is selected in secret by five Norwegians.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-nobel-peace-prize-recipient-is-selected-in-secret-by-five-norwegians"
+  },
+  {
+    "phrase": "Nobel Prize Winners",
+    "relevance": 0.0035308295728302113,
+    "title": "Nobel Prize Winners Don\u2019t Get a Heads-Up",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html"
+  },
+  {
+    "phrase": "Nobel Peace Prize",
+    "relevance": 0.001881309737406442,
+    "title": "Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-winner-pillay.html"
+  },
+  {
+    "phrase": "Nobel Peace Prize",
+    "relevance": 0.0006487982591412822,
+    "title": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html"
+  },
+  {
+    "phrase": "Crackdown on Protesters",
+    "relevance": 0.012602360123953448,
+    "title": "New Delhi\u2019s Crackdown on Protesters",
+    "link": "https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html"
+  },
+  {
+    "phrase": "Venezuelan opposition leader",
+    "relevance": 0.015042304599106411,
+    "title": "A Venezuelan opposition leader won the 2025 prize, setting off an unusual year.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year"
+  },
+  {
+    "phrase": "latest",
+    "relevance": 0.15831692877998726,
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest"
+  },
+  {
+    "phrase": "Martyr\u2019 in Maricarmen",
+    "relevance": 0.0032610119837787367,
+    "title": "Spain\u2019s Protesters See \u2018Madness\u2019 of Rising Rent and a \u2018Martyr\u2019 in Maricarmen",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html"
+  },
+  {
+    "phrase": "Man City Scandal",
+    "relevance": 0.0032173869679631944,
+    "title": "The Man City Scandal Is About More Than Football",
+    "link": "https://www.nytimes.com/2026/10/08/world/man-city-football-riyadh-houthis.html"
+  },
+  {
+    "phrase": "Read Citizens\u2019 Minds",
+    "relevance": 0.05944691994623413,
+    "title": "U.N. Warns Against Technology Used to Read Citizens\u2019 Minds",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html"
+  },
+  {
+    "phrase": "Winston Churchill",
+    "relevance": 0.012602360123953448,
+    "title": "Cecily Gemmell, Winston Churchill\u2019s Last Surviving Secretary, Has Died",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/cecily-gemmell-dead.html"
+  },
+  {
+    "phrase": "Student Protests Continue",
+    "relevance": 0.0032173869679631944,
+    "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html"
+  },
+  {
+    "phrase": "Lady of Greece",
+    "relevance": 0.012602360123953448,
+    "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html"
+  },
+  {
+    "phrase": "Corpse Led Page",
+    "relevance": 0.0006338968490252106,
+    "title": "A Photo of Mussolini\u2019s Corpse Led Page 1. How It Got There Is a Tale.",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html"
+  },
+  {
+    "phrase": "Latvians Arrested",
+    "relevance": 0.012602360123953448,
+    "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html"
   },
   {
     "phrase": "Plague Outbreak Stokes",
     "relevance": 0.0032173869679631944,
     "title": "Russia\u2019s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
     "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html"
-  },
-  {
-    "phrase": "Properties Were Unlawful",
-    "relevance": 0.012602360123953448,
-    "title": "Warrants to Search Former Prince Andrew\u2019s Properties Were Unlawful, Court Says",
-    "link": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html"
-  },
-  {
-    "phrase": "Indian Actor",
-    "relevance": 0.012602360123953448,
-    "title": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
-    "link": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html"
-  },
-  {
-    "phrase": "Protests Roiling France",
-    "relevance": 0.001881309737406442,
-    "title": "The Wave of Student Protests Roiling France",
-    "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html"
-  },
-  {
-    "phrase": "Base in Laos",
-    "relevance": 0.012602360123953448,
-    "title": "China Expands Its Military Reach by Building a Base in Laos",
-    "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html"
-  },
-  {
-    "phrase": "Enormous Toll",
-    "relevance": 0.012602360123953448,
-    "title": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
-    "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
-  },
-  {
-    "phrase": "Prompt Mass Cancellations",
-    "relevance": 0.001881309737406442,
-    "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
-    "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html"
-  },
-  {
-    "phrase": "Korea Recalls Envoy",
-    "relevance": 0.0032173869679631944,
-    "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-    "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html"
-  },
-  {
-    "phrase": "Russian Warehouses Bombarded",
-    "relevance": 0.0032173869679631944,
-    "title": "\u2018Absolute Nightmare\u2019: Inside the Russian Warehouses Bombarded by Ukraine",
-    "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
-  },
-  {
-    "phrase": "South Korean Banks",
-    "relevance": 0.05944691994623413,
-    "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
-    "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html"
-  },
-  {
-    "phrase": "Quest for Legitimacy",
-    "relevance": 0.01560470695632768,
-    "title": "Myanmar\u2019s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-    "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html"
-  },
-  {
-    "phrase": "Resurgent Far Left",
-    "relevance": 0.012602360123953448,
-    "title": "For France\u2019s Resurgent Far Left, Student Protests Are an Opening and a Threat",
-    "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html"
-  },
-  {
-    "phrase": "Cockroach Party Leader",
-    "relevance": 0.000938951122208143,
-    "title": "India\u2019s Cockroach Party Leader Carries Gen Z\u2019s Demands. They Are Many.",
-    "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html"
   },
   {
     "phrase": "Pita Limjaroenrat",
@@ -96,16 +822,82 @@
     "link": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html"
   },
   {
+    "phrase": "Indian Actor",
+    "relevance": 0.012602360123953448,
+    "title": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
+    "link": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html"
+  },
+  {
     "phrase": "Russian Oil Deal",
     "relevance": 0.001881309737406442,
     "title": "In Trump\u2019s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
     "link": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html"
   },
   {
+    "phrase": "Protests Roiling France",
+    "relevance": 0.001881309737406442,
+    "title": "The Wave of Student Protests Roiling France",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html"
+  },
+  {
+    "phrase": "Properties Were Unlawful",
+    "relevance": 0.012602360123953448,
+    "title": "Warrants to Search Former Prince Andrew\u2019s Properties Were Unlawful, Court Says",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html"
+  },
+  {
+    "phrase": "Enormous Toll",
+    "relevance": 0.012602360123953448,
+    "title": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
+  },
+  {
+    "phrase": "Korea Recalls Envoy",
+    "relevance": 0.0032173869679631944,
+    "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
+    "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html"
+  },
+  {
+    "phrase": "Base in Laos",
+    "relevance": 0.012602360123953448,
+    "title": "China Expands Its Military Reach by Building a Base in Laos",
+    "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html"
+  },
+  {
+    "phrase": "Prompt Mass Cancellations",
+    "relevance": 0.001881309737406442,
+    "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
+    "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html"
+  },
+  {
+    "phrase": "South Korean Banks",
+    "relevance": 0.05944691994623413,
+    "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
+    "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html"
+  },
+  {
+    "phrase": "Quest for Legitimacy",
+    "relevance": 0.01560470695632768,
+    "title": "Myanmar\u2019s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
+    "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html"
+  },
+  {
+    "phrase": "Russian Warehouses Bombarded",
+    "relevance": 0.0032173869679631944,
+    "title": "\u2018Absolute Nightmare\u2019: Inside the Russian Warehouses Bombarded by Ukraine",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
+  },
+  {
     "phrase": "Berlin Reporter Deepened",
     "relevance": 0.0006487982591412822,
     "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
     "link": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html"
+  },
+  {
+    "phrase": "Altered Reports Critical",
+    "relevance": 0.0032173869679631944,
+    "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+    "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html"
   },
   {
     "phrase": "Voter Rolls Intensify",
@@ -120,6 +912,12 @@
     "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html"
   },
   {
+    "phrase": "Cockroach Party Leader",
+    "relevance": 0.000938951122208143,
+    "title": "India\u2019s Cockroach Party Leader Carries Gen Z\u2019s Demands. They Are Many.",
+    "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html"
+  },
+  {
     "phrase": "Inspired Gen Alpha",
     "relevance": 0.0007791811416037432,
     "title": "How India\u2019s Gen Z Protests Inspired Gen Alpha",
@@ -130,6 +928,12 @@
     "relevance": 0.0032173869679631944,
     "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
     "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html"
+  },
+  {
+    "phrase": "Resurgent Far Left",
+    "relevance": 0.012602360123953448,
+    "title": "For France\u2019s Resurgent Far Left, Student Protests Are an Opening and a Threat",
+    "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html"
   },
   {
     "phrase": "latest",
@@ -144,190 +948,16 @@
     "link": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html"
   },
   {
-    "phrase": "Houthis Claim Strikes",
-    "relevance": 0.001881309737406442,
-    "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-    "link": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html"
+    "phrase": "NASA astronauts splash",
+    "relevance": 0.008680855907871378,
+    "title": "NASA astronauts splash down after 100 million miles in space",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
   },
   {
-    "phrase": "Eviction Enraged Spaniards",
-    "relevance": 0.001881309737406442,
-    "title": "\u2018Maricarmen,\u2019 Whose Eviction Enraged Spaniards, Dies at 87",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html"
-  },
-  {
-    "phrase": "Russia Plague Scare",
-    "relevance": 0.0020632546775457305,
-    "title": "Russia Plague Scare: What to Know About Fears of an Outbreak",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html"
-  },
-  {
-    "phrase": "Widowmaker\u2019 Ledge",
-    "relevance": 0.012602360123953448,
-    "title": "Hiker, 16, Is Rescued From \u2018Widowmaker\u2019 Ledge After Using Chatbot to Plan Route",
-    "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-bc-hiker-claude-rescue.html"
-  },
-  {
-    "phrase": "Medically Assisted Death",
-    "relevance": 0.0032173869679631944,
-    "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
-    "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html"
-  },
-  {
-    "phrase": "Administration Delays Threaten",
-    "relevance": 0.0032173869679631944,
-    "title": "Trump Administration Delays Threaten Funding for HIV Research",
-    "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html"
-  },
-  {
-    "phrase": "Uphold Western Dominance",
-    "relevance": 0.001881309737406442,
-    "title": "Rubio Urges Europe to Awaken From \u2018Slumber\u2019 and Uphold Western Dominance",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html"
-  },
-  {
-    "phrase": "Japan Draws Outcry",
-    "relevance": 0.000428304966184317,
-    "title": "Case of U.S. Marine Accused of Murder in Japan Draws Outcry",
-    "link": "https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html"
-  },
-  {
-    "phrase": "Emergency\u2019 in Plague",
-    "relevance": 0.012602360123953448,
-    "title": "Russia Says It Found No \u2018Emergency\u2019 in Plague Lab",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html"
-  },
-  {
-    "phrase": "Students Are Protesting",
-    "relevance": 0.012602360123953448,
-    "title": "The School Near Paris That Shows Why French Students Are Protesting",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html"
-  },
-  {
-    "phrase": "Trade Tensions",
-    "relevance": 0.02140921543860024,
-    "title": "Europe\u2019s Trade Tensions With China Are Coming to a Head",
-    "link": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html"
-  },
-  {
-    "phrase": "Trials Put Hundreds",
-    "relevance": 0.0006487982591412822,
-    "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
-    "link": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html"
-  },
-  {
-    "phrase": "Claws Back Land",
-    "relevance": 0.0032173869679631944,
-    "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html"
-  },
-  {
-    "phrase": "Sanctions on Iranian",
-    "relevance": 0.012602360123953448,
-    "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
-    "link": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html"
-  },
-  {
-    "phrase": "Iranian Oil Flowing",
-    "relevance": 0.001881309737406442,
-    "title": "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
-    "link": "https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html"
-  },
-  {
-    "phrase": "Shatter Families",
-    "relevance": 0.01560470695632768,
-    "title": "Inheritances Can Shatter Families. Could a Therapist Help?",
-    "link": "https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html"
-  },
-  {
-    "phrase": "Artificial Intelligence Learn",
-    "relevance": 0.0032173869679631944,
-    "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-    "link": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html"
-  },
-  {
-    "phrase": "Life in Gaza",
-    "relevance": 0.02140921543860024,
-    "title": "What Life in Gaza Is Like Now",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html"
-  },
-  {
-    "phrase": "Twin Brothers Abducted",
-    "relevance": 0.0032173869679631944,
-    "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
-    "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html"
-  },
-  {
-    "phrase": "Fleeing Anti-Immigrant Violence",
-    "relevance": 0.003995142956050651,
-    "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
-    "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html"
-  },
-  {
-    "phrase": "Kemi Badenoch Reboot",
-    "relevance": 0.0006487982591412822,
-    "title": "The Fight for Britain\u2019s Right: Can Kemi Badenoch Reboot the Conservatives?",
-    "link": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html"
-  },
-  {
-    "phrase": "Ridge School Shooting",
-    "relevance": 0.05944691994623413,
-    "title": "F.B.I. Charges American in Plot Behind Canada\u2019s Tumbler Ridge School Shooting",
-    "link": "https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html"
-  },
-  {
-    "phrase": "French Protests",
-    "relevance": 0.012602360123953448,
-    "title": "What We Saw at the French Protests",
-    "link": "https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html"
-  },
-  {
-    "phrase": "France \u2019s Polycrisis",
-    "relevance": 0.012602360123953448,
-    "title": "Understanding France\u2019s Polycrisis",
-    "link": "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html"
-  },
-  {
-    "phrase": "Family Emerges Triumphant",
-    "relevance": 0.0032173869679631944,
-    "title": "Bolsonaro Family Emerges Triumphant in Brazil\u2019s Elections, Mounting a Surprising Resurrection",
-    "link": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html"
-  },
-  {
-    "phrase": "Security Adviser Jonathan",
-    "relevance": 0.0032173869679631944,
-    "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
-    "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html"
-  },
-  {
-    "phrase": "Launch TV Channel",
-    "relevance": 0.012602360123953448,
-    "title": "Live From the Barracks: Three Juntas Launch TV Channel",
-    "link": "https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html"
-  },
-  {
-    "phrase": "Judge Accuses ICE",
-    "relevance": 0.0032173869679631944,
-    "title": "Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records",
-    "link": "https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html"
-  },
-  {
-    "phrase": "Ages Join French",
-    "relevance": 0.0032173869679631944,
-    "title": "People of All Ages Join French Student Protests as Movement Broadens",
-    "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html"
-  },
-  {
-    "phrase": "Catalan Separatist Leader",
-    "relevance": 0.0011031048803583578,
-    "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
-    "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html"
-  },
-  {
-    "phrase": "Base RAF Fairford",
-    "relevance": 0.001881309737406442,
-    "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
-    "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html"
+    "phrase": "October \u2019s night",
+    "relevance": 0.04940384002065631,
+    "title": "October\u2019s night sky is full of cosmic tricks and treats",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm"
   },
   {
     "phrase": "Moon base",
@@ -340,6 +970,12 @@
     "relevance": 0.01655915082773619,
     "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
     "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
+  },
+  {
+    "phrase": "Scientists find hidden",
+    "relevance": 0.01655915082773619,
+    "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
   },
   {
     "phrase": "golden tree",
@@ -360,10 +996,28 @@
     "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
   },
   {
+    "phrase": "explain dark energy",
+    "relevance": 0.016559150827736194,
+    "title": "A 9-billion-year-old signal could help explain dark energy",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm"
+  },
+  {
+    "phrase": "Bacteria turn",
+    "relevance": 0.04940384002065631,
+    "title": "Bacteria turn a virus\u2019 own weapon against it",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm"
+  },
+  {
     "phrase": "FDA-approved epilepsy drug",
     "relevance": 0.01655915082773619,
     "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
     "link": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
+  },
+  {
+    "phrase": "quantum prediction",
+    "relevance": 0.09700399286574239,
+    "title": "A quantum prediction from 1931 just came to life",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm"
   },
   {
     "phrase": "Einstein Probe reveals",
@@ -652,41 +1306,5 @@
     "relevance": 0.03339840940482845,
     "title": "This giant stick insect fooled scientists for decades",
     "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm"
-  },
-  {
-    "phrase": "Watch Live",
-    "relevance": 0.005484890844946624,
-    "title": "Watch Live: NASA\u2019s Crew-13 could make the fastest U.S. trip to the ISS ever",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
-  },
-  {
-    "phrase": "quantum computer breakthrough",
-    "relevance": 0.016559150827736194,
-    "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
-  },
-  {
-    "phrase": "triples strawberry yields",
-    "relevance": 0.016559150827736194,
-    "title": "New \u201cplant armor\u201d more than triples strawberry yields",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm"
-  },
-  {
-    "phrase": "review finds",
-    "relevance": 0.02570861714399338,
-    "title": "Cannabis users were twice as likely to commit violence, review finds",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm"
-  },
-  {
-    "phrase": "record-breaking X-ray flash",
-    "relevance": 0.002263175936744087,
-    "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
-  },
-  {
-    "phrase": "Quantum teleportation breakthrough",
-    "relevance": 0.008321268142839145,
-    "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm"
   }
 ]
