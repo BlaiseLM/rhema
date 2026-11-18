@@ -1,13 +1,58 @@
 [
   {
-    "title": "Trump\u2019s Whirlwind Asia Trip Begins in the Philippines",
-    "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=20, tm_min=21, tm_sec=27, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=16, tm_sec=41, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-    "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=18, tm_min=26, tm_sec=38, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=19, tm_min=31, tm_sec=39, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+    "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=47, tm_sec=13, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+    "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=15, tm_min=37, tm_sec=11, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=18, tm_min=38, tm_sec=15, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+    "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=23, tm_sec=46, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Leaders of China and Japan Meet Amid Political Feud",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=13, tm_min=46, tm_sec=45, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "These Villagers Wonder if They\u2019re on the Front Line of Russia\u2019s Shadow War",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=5, tm_min=1, tm_sec=6, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Rio Tinto to Pay $250 Million to Address Mine\u2019s Environmental Damage",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=7, tm_min=46, tm_sec=33, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "What to Know About the Myanmar Genocide Case at the World Court",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=10, tm_min=3, tm_sec=51, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Boris Grebenshchikov, a Russian Rock Musician With a \u2018Need to Rebel\u2019",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=11, tm_min=51, tm_sec=5, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
@@ -15,59 +60,114 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=16, tm_min=0, tm_sec=1, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
-    "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-    "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=18, tm_min=59, tm_sec=25, tm_wday=1, tm_yday=321, tm_isdst=0)"
-  },
-  {
     "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
     "link": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=10, tm_min=7, tm_sec=56, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=20, tm_min=44, tm_sec=22, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
-    "title": "Tracking China\u2019s War of Words Against Japan",
+    "title": "Tracking China\u2019s Intensifying War of Words Against Japan",
     "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=15, tm_min=2, tm_sec=5, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=8, tm_min=14, tm_sec=28, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti\u2019s Leader",
-    "link": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=41, tm_sec=6, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Nepal Came to COP31 in Dire Need. It\u2019s a Test for the World.",
+    "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=30, tm_sec=27, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=19, tm_min=41, tm_sec=3, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "\u2018Shocking\u2019 Signs of Climate Change Add Urgency to COP31 Talks",
+    "link": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=42, tm_sec=27, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "These Ukrainians Aren\u2019t in Combat. But They Deal With War Every Day.",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=13, tm_min=9, tm_sec=11, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "The Shadow of Yalta Hangs Over Trump\u2019s Summit in China",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=52, tm_sec=32, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Carney and Xi Announce Canada-China Trade Pact",
-    "link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=19, tm_sec=20, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Gen Z: Tell Us Your Political Hopes",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=22, tm_sec=31, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=6, tm_min=0, tm_sec=12, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Putin renews his warm bond with Xi.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/putin-renews-his-warm-bond-with-xi",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=14, tm_sec=34, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "They\u2019re Young and Frustrated and Want France to Change. They Disagree on How.",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=15, tm_min=55, tm_sec=2, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=59, tm_sec=3, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Trump Will Miss Most of the ASEAN Summit",
-    "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=51, tm_sec=27, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=13, tm_min=17, tm_sec=6, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "A Visual Tour of President Trump\u2019s Visits to Asia",
-    "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=14, tm_min=26, tm_sec=17, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=11, tm_min=14, tm_sec=0, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=11, tm_min=8, tm_sec=23, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=10, tm_min=3, tm_sec=56, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=9, tm_min=52, tm_sec=56, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=13, tm_min=29, tm_sec=27, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "A tropical Chinese city is half-empty and ready for the summit.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=8, tm_min=4, tm_sec=2, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Here\u2019s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=15, tm_min=5, tm_sec=28, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=6, tm_min=46, tm_sec=29, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-philippines-palace.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=3, tm_min=25, tm_sec=1, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi\u2019s Big Moment?",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=2, tm_min=11, tm_sec=27, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Youssef M. Ibrahim, Who Covered Iran\u2019s Revolution for The Times, Dies at 83",
+    "link": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=23, tm_min=26, tm_sec=17, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "Matan Kahana Elected Speaker of Israel\u2019s Parliament",
+    "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=21, tm_min=54, tm_sec=22, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "Big Money, Existential Risks",
+    "link": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=9, tm_sec=54, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "A.I.\u2019s People-Pleasing Problem",
@@ -77,7 +177,7 @@
   {
     "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
     "link": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=18, tm_min=49, tm_sec=31, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=21, tm_min=22, tm_sec=40, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
     "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
@@ -90,9 +190,29 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=49, tm_sec=58, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
+    "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+    "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=17, tm_min=21, tm_sec=50, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=18, tm_min=59, tm_sec=25, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
     "title": "Putin Is Open to Meeting With North Korea\u2019s Leader in China, Kremlin Says",
     "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=14, tm_min=37, tm_sec=57, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti\u2019s Leader",
+    "link": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=41, tm_sec=6, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "A Visual Tour of President Trump\u2019s Visits to Asia",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=14, tm_min=43, tm_sec=54, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Trump\u2019s \u2018trade deal\u2019 with Thailand is not a done deal.",
@@ -102,7 +222,7 @@
   {
     "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
     "link": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=20, tm_min=21, tm_sec=25, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=3, tm_min=7, tm_sec=55, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "What to Know About APEC, ASEAN and the Quad",
@@ -125,9 +245,24 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=10, tm_min=22, tm_sec=54, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
+    "title": "These Ukrainians Aren\u2019t in Combat. But They Deal With War Every Day.",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=13, tm_min=9, tm_sec=11, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=19, tm_min=41, tm_sec=3, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "Carney and Xi Announce Canada-China Trade Pact",
+    "link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=19, tm_sec=21, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
     "title": "Here\u2019s the latest.",
     "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=13, tm_min=2, tm_sec=7, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=4, tm_min=29, tm_sec=14, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Trump Has Praised Marcos\u2019s Family Legacy. His Father Was a Dictator.",
@@ -140,154 +275,39 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=7, tm_min=18, tm_sec=57, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
+    "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=6, tm_min=0, tm_sec=12, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "They\u2019re Young and Frustrated and Want France to Change. They Disagree on How.",
+    "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=3, tm_min=46, tm_sec=6, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
+    "title": "Trump Will Miss Most of the ASEAN Summit",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=51, tm_sec=27, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
     "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
     "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=17, tm_min=28, tm_sec=57, tm_wday=1, tm_yday=321, tm_isdst=0)"
   },
   {
-    "title": "10 Numbers That Might Change How You See Asia",
-    "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=22, tm_min=14, tm_sec=10, tm_wday=0, tm_yday=320, tm_isdst=0)"
+    "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=4, tm_min=30, tm_sec=31, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "The Death of \u2018Keep 1.5 Alive\u2019",
-    "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=5, tm_min=20, tm_sec=43, tm_wday=1, tm_yday=321, tm_isdst=0)"
+    "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=8, tm_min=27, tm_sec=56, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
-    "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=20, tm_min=29, tm_sec=23, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=17, tm_min=36, tm_sec=21, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
-    "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=14, tm_min=56, tm_sec=41, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=14, tm_min=47, tm_sec=46, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-    "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=18, tm_min=58, tm_sec=10, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
-    "link": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=11, tm_min=51, tm_sec=32, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
-    "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=21, tm_min=42, tm_sec=52, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-    "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=18, tm_min=44, tm_sec=48, tm_wday=1, tm_yday=321, tm_isdst=0)"
-  },
-  {
-    "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=19, tm_min=43, tm_sec=54, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "American Global Health Aid Isn\u2019t Dead. It\u2019s Changing.",
-    "link": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=10, tm_min=0, tm_sec=31, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=1, tm_min=9, tm_sec=52, tm_wday=1, tm_yday=321, tm_isdst=0)"
-  },
-  {
-    "title": "Canada\u2019s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
-    "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=13, tm_min=22, tm_sec=53, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Searching for the Last Stoats of Waiheke Island",
-    "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=14, tm_min=49, tm_sec=58, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "They Defeated a Strongman. But Can They Run a Country?",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=5, tm_min=1, tm_sec=15, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Miguel \u00c1ngel F\u00e9lix Gallardo, Mexican Drug Lord, Dies in Prison",
-    "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=2, tm_min=11, tm_sec=18, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-    "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=21, tm_min=33, tm_sec=59, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "Too Many Chips in One Basket?",
-    "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=16, tm_min=56, tm_sec=44, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
-    "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=21, tm_min=26, tm_sec=19, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "Iran Attacks Bahrain for the Second Time in Days",
-    "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=15, tm_min=55, tm_sec=9, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-    "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=18, tm_min=47, tm_sec=49, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "Is Italy the Model for Europe\u2019s Future?",
-    "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=5, tm_min=1, tm_sec=24, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-    "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=5, tm_min=1, tm_sec=20, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "In Banff, a Grizzly Bear Known as \u2018the Boss\u2019 Rules the National Park",
-    "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=21, tm_min=8, tm_sec=52, tm_wday=0, tm_yday=320, tm_isdst=0)"
-  },
-  {
-    "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
-    "link": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=4, tm_min=18, tm_sec=6, tm_wday=6, tm_yday=319, tm_isdst=0)"
-  },
-  {
-    "title": "South Sudan\u2019s National Election, Its First, Will Be Delayed",
-    "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=14, tm_hour=16, tm_min=51, tm_sec=55, tm_wday=5, tm_yday=318, tm_isdst=0)"
-  },
-  {
-    "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-    "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=14, tm_hour=15, tm_min=27, tm_sec=30, tm_wday=5, tm_yday=318, tm_isdst=0)"
-  },
-  {
-    "title": "Asia\u2019s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
-    "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=3, tm_min=54, tm_sec=18, tm_wday=6, tm_yday=319, tm_isdst=0)"
+    "title": "New discovery reveals what may be holding back room-temperature superconductors",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=12, tm_min=16, tm_sec=46, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
@@ -303,6 +323,11 @@
     "title": "The hidden language of psychopathy is not what scientists expected",
     "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=17, tm_hour=11, tm_min=51, tm_sec=35, tm_wday=1, tm_yday=321, tm_isdst=0)"
+  },
+  {
+    "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=1, tm_min=10, tm_sec=14, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
@@ -330,6 +355,11 @@
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=14, tm_min=2, tm_sec=10, tm_wday=0, tm_yday=320, tm_isdst=0)"
   },
   {
+    "title": "125,000 years ago, hippos roamed what is now the vast Arabian Desert",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=1, tm_min=52, tm_sec=47, tm_wday=2, tm_yday=322, tm_isdst=0)"
+  },
+  {
     "title": "A hidden biological divide may help explain Alzheimer\u2019s and chronic pain",
     "link": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=16, tm_hour=12, tm_min=41, tm_sec=9, tm_wday=0, tm_yday=320, tm_isdst=0)"
@@ -338,6 +368,11 @@
     "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
     "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=14, tm_min=13, tm_sec=18, tm_wday=6, tm_yday=319, tm_isdst=0)"
+  },
+  {
+    "title": "A little-known protein could be a powerful weapon against Alzheimer\u2019s",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=11, tm_min=53, tm_sec=30, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
@@ -353,6 +388,11 @@
     "title": "Uranus and Neptune\u2019s bizarre magnetic fields may finally be explained",
     "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=15, tm_hour=13, tm_min=43, tm_sec=22, tm_wday=6, tm_yday=319, tm_isdst=0)"
+  },
+  {
+    "title": "MIT discovers that aging weakens the brain\u2019s nighttime cleaning system",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=18, tm_hour=12, tm_min=6, tm_sec=44, tm_wday=2, tm_yday=322, tm_isdst=0)"
   },
   {
     "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
@@ -553,40 +593,5 @@
     "title": "A radical theory says the universe is twice as old as we thought",
     "link": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
     "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=11, tm_hour=6, tm_min=46, tm_sec=30, tm_wday=2, tm_yday=315, tm_isdst=0)"
-  },
-  {
-    "title": "Astronomers discover hidden alien planet in James Webb images",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=10, tm_hour=23, tm_min=56, tm_sec=4, tm_wday=1, tm_yday=314, tm_isdst=0)"
-  },
-  {
-    "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=9, tm_hour=2, tm_min=48, tm_sec=24, tm_wday=0, tm_yday=313, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=11, tm_hour=12, tm_min=10, tm_sec=47, tm_wday=2, tm_yday=315, tm_isdst=0)"
-  },
-  {
-    "title": "Scientists discover why some mosquitoes love you and others don't",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=11, tm_hour=2, tm_min=21, tm_sec=13, tm_wday=2, tm_yday=315, tm_isdst=0)"
-  },
-  {
-    "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=7, tm_hour=23, tm_min=34, tm_sec=19, tm_wday=5, tm_yday=311, tm_isdst=0)"
-  },
-  {
-    "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=8, tm_hour=22, tm_min=45, tm_sec=1, tm_wday=6, tm_yday=312, tm_isdst=0)"
-  },
-  {
-    "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-    "datetime": "time.struct_time(tm_year=2026, tm_mon=11, tm_mday=8, tm_hour=10, tm_min=11, tm_sec=25, tm_wday=6, tm_yday=312, tm_isdst=0)"
   }
 ]
